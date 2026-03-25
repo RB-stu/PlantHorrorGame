@@ -2437,3 +2437,474 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.25-14.54.19:710][988]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Cryopod/cryopod/StaticMeshes/cryopod_Auto3
 [2026.03.25-14.54.19:711][988]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/cryopod_Auto38BF3A97F4368944EB065CB935FA3DF1B.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/Fab/Cryopod/cryopod/StaticMeshes/cryopod_Auto3.uasset'
 [2026.03.25-14.54.19:711][988]LogFileHelpers: Auto-saving content packages took 0.464
+[2026.03.25-14.54.24:396][  3]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2502.316895
+[2026.03.25-14.54.25:397][  7]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-14.54.25:397][  7]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2502.983643, Update Interval: 344.448364
+[2026.03.25-14.57.37:646][690]Cmd: DUPLICATE
+[2026.03.25-14.57.37:646][690]Cmd: ACTOR DUPLICATE
+[2026.03.25-14.57.48:443][908]Cmd: DUPLICATE
+[2026.03.25-14.57.48:444][908]Cmd: ACTOR DUPLICATE
+[2026.03.25-14.57.55:531][704]Cmd: DUPLICATE
+[2026.03.25-14.57.55:531][704]Cmd: ACTOR DUPLICATE
+[2026.03.25-14.58.03:803][629]Cmd: DUPLICATE
+[2026.03.25-14.58.03:803][629]Cmd: ACTOR DUPLICATE
+[2026.03.25-14.58.52:514][222]Cmd: DUPLICATE
+[2026.03.25-14.58.52:514][222]Cmd: ACTOR DUPLICATE
+[2026.03.25-14.59.11:393][358]Cmd: DUPLICATE
+[2026.03.25-14.59.11:393][358]Cmd: ACTOR DUPLICATE
+[2026.03.25-14.59.16:688][945]Cmd: TRANSACTION UNDO
+[2026.03.25-14.59.16:688][945]LogEditorTransaction: Undo Move Elements
+[2026.03.25-14.59.18:367][ 82]Cmd: TRANSACTION UNDO
+[2026.03.25-14.59.18:367][ 82]LogEditorTransaction: Undo Duplicate Elements
+[2026.03.25-14.59.30:225][351]Cmd: DUPLICATE
+[2026.03.25-14.59.30:225][351]Cmd: ACTOR DUPLICATE
+[2026.03.25-14.59.44:608][877]Cmd: DELETE
+[2026.03.25-14.59.44:608][877]Cmd: ACTOR DELETE
+[2026.03.25-14.59.44:614][877]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.25-14.59.44:673][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.03.25-14.59.44:679][877]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2026.03.25-14.59.53:357][878]Cmd: DUPLICATE
+[2026.03.25-14.59.53:357][878]Cmd: ACTOR DUPLICATE
+[2026.03.25-14.59.56:447][216]Cmd: DUPLICATE
+[2026.03.25-14.59.56:447][216]Cmd: ACTOR DUPLICATE
+[2026.03.25-15.00.01:583][779]Cmd: DUPLICATE
+[2026.03.25-15.00.01:583][779]Cmd: ACTOR DUPLICATE
+[2026.03.25-15.00.13:201][ 55]Cmd: DUPLICATE
+[2026.03.25-15.00.13:201][ 55]Cmd: ACTOR DUPLICATE
+[2026.03.25-15.00.35:835][656]Cmd: DUPLICATE
+[2026.03.25-15.00.35:836][656]Cmd: ACTOR DUPLICATE
+[2026.03.25-15.00.41:661][308]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2879.572998
+[2026.03.25-15.00.41:785][317]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-15.00.41:785][317]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2879.689453, Update Interval: 324.390381
+[2026.03.25-15.01.20:782][764]Cmd: TRANSACTION UNDO
+[2026.03.25-15.01.20:782][764]LogEditorTransaction: Undo Move Elements
+[2026.03.25-15.01.27:498][441]Cmd: DUPLICATE
+[2026.03.25-15.01.27:499][441]Cmd: ACTOR DUPLICATE
+[2026.03.25-15.01.58:178][775]Cmd: DELETE
+[2026.03.25-15.01.58:179][775]Cmd: ACTOR DELETE
+[2026.03.25-15.01.58:181][775]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.25-15.01.58:181][775]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.25-15.01.58:182][775]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.25-15.01.58:182][775]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.25-15.01.58:183][775]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.25-15.01.58:183][775]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.25-15.01.58:184][775]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.25-15.01.58:202][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.03.25-15.01.58:207][775]LogEditorActor: Deleted 7 Actors (0.028 secs)
+[2026.03.25-15.04.19:616][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.03.25-15.04.19:628][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626_Auto4
+[2026.03.25-15.04.19:628][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Q7CPP7VHOXBAMAJI90W626_Auto4E68F2F454A51B8E606A8B8897E429FD4.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626_Auto4.uasset'
+[2026.03.25-15.04.19:633][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/8B/X8NQS8PI48VRW023TOM67Q_Auto4
+[2026.03.25-15.04.19:633][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/X8NQS8PI48VRW023TOM67Q_Auto425A516BC4C1EC0E4D004E89E6CCF452D.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/8B/X8NQS8PI48VRW023TOM67Q_Auto4.uasset'
+[2026.03.25-15.04.19:639][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/ME/UF6ARKBH94SUY64PFDDKXE_Auto4
+[2026.03.25-15.04.19:639][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/UF6ARKBH94SUY64PFDDKXE_Auto47881FFD2469FC2C96A958C8FAFD0533B.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/ME/UF6ARKBH94SUY64PFDDKXE_Auto4.uasset'
+[2026.03.25-15.04.19:643][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/HL/AXVUYIQJ2L64MU3UKIV34M_Auto4
+[2026.03.25-15.04.19:643][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/AXVUYIQJ2L64MU3UKIV34M_Auto4D17EC2FD4A0CAD992FAB8CA6A0E84A2E.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/HL/AXVUYIQJ2L64MU3UKIV34M_Auto4.uasset'
+[2026.03.25-15.04.19:649][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/7N/LA4W5O7TXQ5HAIDB77VGTH_Auto4
+[2026.03.25-15.04.19:649][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/LA4W5O7TXQ5HAIDB77VGTH_Auto46768A20D4916653B667867A6635B8D0C.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/7N/LA4W5O7TXQ5HAIDB77VGTH_Auto4.uasset'
+[2026.03.25-15.04.19:654][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/HU/GLM8GYSSMECX47LCA230QM_Auto4
+[2026.03.25-15.04.19:654][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/GLM8GYSSMECX47LCA230QM_Auto40D805B2A44A3B36B0F361DA12063A5C5.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/HU/GLM8GYSSMECX47LCA230QM_Auto4.uasset'
+[2026.03.25-15.04.19:658][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/CI/VRG74F9JOQY5SGMBKZDJHQ_Auto4
+[2026.03.25-15.04.19:658][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/VRG74F9JOQY5SGMBKZDJHQ_Auto4CCE5049B49F232BC2A99F18E54383DAC.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/CI/VRG74F9JOQY5SGMBKZDJHQ_Auto4.uasset'
+[2026.03.25-15.04.19:662][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/NU/2SEMK9POYDSJVRX2BWRIKM_Auto4
+[2026.03.25-15.04.19:662][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/2SEMK9POYDSJVRX2BWRIKM_Auto4C2191A0244FFED429025D099AAC0ADE3.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/NU/2SEMK9POYDSJVRX2BWRIKM_Auto4.uasset'
+[2026.03.25-15.04.19:667][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/8B/87IWLCWPXQAZPMRHRYORSM_Auto4
+[2026.03.25-15.04.19:667][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/87IWLCWPXQAZPMRHRYORSM_Auto415B399E54CC3ABDB6150278C20C54E79.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/8B/87IWLCWPXQAZPMRHRYORSM_Auto4.uasset'
+[2026.03.25-15.04.19:672][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/CD/B22OK68KZQ5HAGY4D02370_Auto4
+[2026.03.25-15.04.19:672][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/B22OK68KZQ5HAGY4D02370_Auto4E746B7574AE2F8710E6F2A9E691EF439.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/CD/B22OK68KZQ5HAGY4D02370_Auto4.uasset'
+[2026.03.25-15.04.19:677][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/1G/LTBQV9M35TJHW6OHTVX5LS_Auto4
+[2026.03.25-15.04.19:677][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/LTBQV9M35TJHW6OHTVX5LS_Auto4A2AEB7E84F4DD5C06CAC2D8E8EB98E65.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/1G/LTBQV9M35TJHW6OHTVX5LS_Auto4.uasset'
+[2026.03.25-15.04.19:682][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/95/XUOZV2DOZUKDPEA2C1CNYL_Auto4
+[2026.03.25-15.04.19:682][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/XUOZV2DOZUKDPEA2C1CNYL_Auto45B63D4794B6CF833E0A67DB3060A0C8E.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/95/XUOZV2DOZUKDPEA2C1CNYL_Auto4.uasset'
+[2026.03.25-15.04.19:687][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/VH/QSZQ3U88I0Y7I5QY6UC39E_Auto4
+[2026.03.25-15.04.19:687][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/QSZQ3U88I0Y7I5QY6UC39E_Auto45B08A55D4C91EECC3F93A0B81FA12AD5.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/VH/QSZQ3U88I0Y7I5QY6UC39E_Auto4.uasset'
+[2026.03.25-15.04.19:692][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/2N/ZQUEIBGZB885B8PWQZVNPJ_Auto4
+[2026.03.25-15.04.19:692][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/ZQUEIBGZB885B8PWQZVNPJ_Auto46AA31BB9466FAF5C12BAB8A4B14990FC.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/2N/ZQUEIBGZB885B8PWQZVNPJ_Auto4.uasset'
+[2026.03.25-15.04.19:696][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/UN/53KA87ASMYB1D3U1UFJV1N_Auto4
+[2026.03.25-15.04.19:696][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/53KA87ASMYB1D3U1UFJV1N_Auto4CC7D4BA7473DA33BAFFD05B91A3F9CCA.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/UN/53KA87ASMYB1D3U1UFJV1N_Auto4.uasset'
+[2026.03.25-15.04.19:701][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/DN/EI4FDUFD4EC93IJJ25PX5X_Auto4
+[2026.03.25-15.04.19:701][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/EI4FDUFD4EC93IJJ25PX5X_Auto43F2C95494CAB8A3EE0813C993066026F.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/DN/EI4FDUFD4EC93IJJ25PX5X_Auto4.uasset'
+[2026.03.25-15.04.19:706][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/V4/MIHI7XNBLCG5QY6I54MG7T_Auto4
+[2026.03.25-15.04.19:706][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/MIHI7XNBLCG5QY6I54MG7T_Auto4D524F291437FF712F34A5F8053466E57.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/V4/MIHI7XNBLCG5QY6I54MG7T_Auto4.uasset'
+[2026.03.25-15.04.19:711][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/CQ/RGEIFQNJCPN18ZJS71WEPG_Auto4
+[2026.03.25-15.04.19:711][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/RGEIFQNJCPN18ZJS71WEPG_Auto46D35A46741FC36A7236A2DBDC7F7B7B1.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/CQ/RGEIFQNJCPN18ZJS71WEPG_Auto4.uasset'
+[2026.03.25-15.04.19:715][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/Q1/G159ZKX065B3015D6ZMFX8_Auto4
+[2026.03.25-15.04.19:715][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/G159ZKX065B3015D6ZMFX8_Auto4C4CDC2CC467910406F2C1291893CADFA.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/Q1/G159ZKX065B3015D6ZMFX8_Auto4.uasset'
+[2026.03.25-15.04.19:720][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/ES/YXO301LPTB67TZ0M5JXMCL_Auto4
+[2026.03.25-15.04.19:720][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/YXO301LPTB67TZ0M5JXMCL_Auto4643CE44C472C2B437DB90183184F10FD.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/ES/YXO301LPTB67TZ0M5JXMCL_Auto4.uasset'
+[2026.03.25-15.04.19:725][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/IZ/R8NL8DO5ZPEX3OG1BUDVXY_Auto4
+[2026.03.25-15.04.19:725][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/R8NL8DO5ZPEX3OG1BUDVXY_Auto4CA3921B745795E82572269ABF2A5BD9B.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/IZ/R8NL8DO5ZPEX3OG1BUDVXY_Auto4.uasset'
+[2026.03.25-15.04.19:730][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/3I/Q63J6LTWTADPM3KW3S3Z3P_Auto4
+[2026.03.25-15.04.19:730][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Q63J6LTWTADPM3KW3S3Z3P_Auto4C3991D03438E02F8F79BCEA4FA3B1B02.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/3I/Q63J6LTWTADPM3KW3S3Z3P_Auto4.uasset'
+[2026.03.25-15.04.19:736][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/F/1N/61PX1RGZB1S6X3UZNTGL5J_Auto4
+[2026.03.25-15.04.19:736][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/61PX1RGZB1S6X3UZNTGL5J_Auto46014F6C0449B698EAC1BE9A4762C8BDE.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/F/1N/61PX1RGZB1S6X3UZNTGL5J_Auto4.uasset'
+[2026.03.25-15.04.19:741][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/JR/BPY5K2E7W9K24SJB9CZQSG_Auto4
+[2026.03.25-15.04.19:741][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/BPY5K2E7W9K24SJB9CZQSG_Auto400BDD2C346BA9B4981AD45814650EF15.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/JR/BPY5K2E7W9K24SJB9CZQSG_Auto4.uasset'
+[2026.03.25-15.04.19:746][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/RZ/DOH5JMCLPFMM7JDXSKCBNI_Auto4
+[2026.03.25-15.04.19:746][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/DOH5JMCLPFMM7JDXSKCBNI_Auto40555E682453BCA1042A4D6A0AFC5DD00.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/RZ/DOH5JMCLPFMM7JDXSKCBNI_Auto4.uasset'
+[2026.03.25-15.04.19:751][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/DL/V22NK5FT8W5605BTVEX4YW_Auto4
+[2026.03.25-15.04.19:751][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/V22NK5FT8W5605BTVEX4YW_Auto41F3B45F44642542E013CDCA59A095EE0.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/DL/V22NK5FT8W5605BTVEX4YW_Auto4.uasset'
+[2026.03.25-15.04.19:756][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/06/M87W6TL0J7PQ262OGKZB2R_Auto4
+[2026.03.25-15.04.19:756][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/M87W6TL0J7PQ262OGKZB2R_Auto4661569914B8B49838D55D9903924D790.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/06/M87W6TL0J7PQ262OGKZB2R_Auto4.uasset'
+[2026.03.25-15.04.19:761][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/ET/K6IIZTSZGK4C5KS5W84H8C_Auto4
+[2026.03.25-15.04.19:761][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/K6IIZTSZGK4C5KS5W84H8C_Auto4F9C3AD2C4D4E4B5FCC42C3BF5F2359B2.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/ET/K6IIZTSZGK4C5KS5W84H8C_Auto4.uasset'
+[2026.03.25-15.04.19:767][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/4Q/FENFIYPO7MQXLDS24L0TI4_Auto4
+[2026.03.25-15.04.19:767][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/FENFIYPO7MQXLDS24L0TI4_Auto45CD2B7064E4B7997DD07C98E25854EBD.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/4Q/FENFIYPO7MQXLDS24L0TI4_Auto4.uasset'
+[2026.03.25-15.04.19:772][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/20/1EGWMFVDTTV2QRK7SD55HJ_Auto4
+[2026.03.25-15.04.19:772][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/1EGWMFVDTTV2QRK7SD55HJ_Auto43B3E1A2D4A69385EA3717BAD696E8E6E.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/20/1EGWMFVDTTV2QRK7SD55HJ_Auto4.uasset'
+[2026.03.25-15.04.19:777][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/OG/1V7FJR5J8YCBQFHSWGVTIG_Auto4
+[2026.03.25-15.04.19:777][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/1V7FJR5J8YCBQFHSWGVTIG_Auto447CB4D3B490F2A9B124822938ED45816.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/OG/1V7FJR5J8YCBQFHSWGVTIG_Auto4.uasset'
+[2026.03.25-15.04.19:781][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/WI/T609BT9DOL6KDDB06QPDKG_Auto4
+[2026.03.25-15.04.19:782][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/T609BT9DOL6KDDB06QPDKG_Auto442C4B4B449621CA69C63FB8E3B01EB88.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/WI/T609BT9DOL6KDDB06QPDKG_Auto4.uasset'
+[2026.03.25-15.04.19:782][590]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.186
+[2026.03.25-15.04.19:782][590]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.186
+[2026.03.25-15.04.19:782][590]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Cryopod/cryopod/Materials/Shadow] ([1] browsable assets)...
+[2026.03.25-15.04.19:782][590]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Cryopod/cryopod/Materials/Shadow]
+[2026.03.25-15.04.19:787][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Cryopod/cryopod/Materials/Shadow_Auto4
+[2026.03.25-15.04.19:787][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Shadow_Auto4FECA571C41842988BF8D15BDBFDE0E8A.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/Fab/Cryopod/cryopod/Materials/Shadow_Auto4.uasset'
+[2026.03.25-15.04.19:788][590]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Cryopod/cryopod/Textures/cryopod_texture_0] ([1] browsable assets)...
+[2026.03.25-15.04.19:788][590]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Cryopod/cryopod/Textures/cryopod_texture_0]
+[2026.03.25-15.04.19:846][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Cryopod/cryopod/Textures/cryopod_texture_0_Auto4
+[2026.03.25-15.04.19:846][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/cryopod_texture_0_Auto46812F3B54B50128547D3E797B61E89EC.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/Fab/Cryopod/cryopod/Textures/cryopod_texture_0_Auto4.uasset'
+[2026.03.25-15.04.19:848][590]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Cryopod/cryopod/Textures/cryopod_texture_1] ([1] browsable assets)...
+[2026.03.25-15.04.19:848][590]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Cryopod/cryopod/Textures/cryopod_texture_1]
+[2026.03.25-15.04.19:907][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Cryopod/cryopod/Textures/cryopod_texture_1_Auto4
+[2026.03.25-15.04.19:907][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/cryopod_texture_1_Auto472FD98524C29147F2324559182AB76DC.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/Fab/Cryopod/cryopod/Textures/cryopod_texture_1_Auto4.uasset'
+[2026.03.25-15.04.19:908][590]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Cryopod/cryopod/Textures/cryopod_texture_2] ([1] browsable assets)...
+[2026.03.25-15.04.19:908][590]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Cryopod/cryopod/Textures/cryopod_texture_2]
+[2026.03.25-15.04.19:963][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Cryopod/cryopod/Textures/cryopod_texture_2_Auto4
+[2026.03.25-15.04.19:963][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/cryopod_texture_2_Auto4F84DBC7A42FCBA768EF3B1825CDB66EC.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/Fab/Cryopod/cryopod/Textures/cryopod_texture_2_Auto4.uasset'
+[2026.03.25-15.04.19:963][590]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Cryopod/cryopod/Textures/cryopod_texture_3] ([1] browsable assets)...
+[2026.03.25-15.04.19:963][590]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Cryopod/cryopod/Textures/cryopod_texture_3]
+[2026.03.25-15.04.20:020][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Cryopod/cryopod/Textures/cryopod_texture_3_Auto4
+[2026.03.25-15.04.20:020][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/cryopod_texture_3_Auto43FDF43C744D33388612953A6BE9D2EAF.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/Fab/Cryopod/cryopod/Textures/cryopod_texture_3_Auto4.uasset'
+[2026.03.25-15.04.20:021][590]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Cryopod/cryopod/Textures/cryopod_texture_4] ([1] browsable assets)...
+[2026.03.25-15.04.20:021][590]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Cryopod/cryopod/Textures/cryopod_texture_4]
+[2026.03.25-15.04.20:077][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Cryopod/cryopod/Textures/cryopod_texture_4_Auto4
+[2026.03.25-15.04.20:077][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/cryopod_texture_4_Auto40FDD3D5844A9034FB401F8BD21EB0622.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/Fab/Cryopod/cryopod/Textures/cryopod_texture_4_Auto4.uasset'
+[2026.03.25-15.04.20:080][590]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Cryopod/cryopod/Textures/cryopod_texture_5] ([1] browsable assets)...
+[2026.03.25-15.04.20:081][590]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Cryopod/cryopod/Textures/cryopod_texture_5]
+[2026.03.25-15.04.20:133][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Cryopod/cryopod/Textures/cryopod_texture_5_Auto4
+[2026.03.25-15.04.20:133][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/cryopod_texture_5_Auto4BEBF51914658F36A92B3A092256FB603.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/Fab/Cryopod/cryopod/Textures/cryopod_texture_5_Auto4.uasset'
+[2026.03.25-15.04.20:134][590]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Cryopod/cryopod/Textures/cryopod_texture_6] ([1] browsable assets)...
+[2026.03.25-15.04.20:134][590]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Cryopod/cryopod/Textures/cryopod_texture_6]
+[2026.03.25-15.04.20:189][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Cryopod/cryopod/Textures/cryopod_texture_6_Auto4
+[2026.03.25-15.04.20:189][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/cryopod_texture_6_Auto4A897B716498492AD68260289D02415C6.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/Fab/Cryopod/cryopod/Textures/cryopod_texture_6_Auto4.uasset'
+[2026.03.25-15.04.20:189][590]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Cryopod/cryopod/Materials/glass] ([1] browsable assets)...
+[2026.03.25-15.04.20:189][590]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Cryopod/cryopod/Materials/glass]
+[2026.03.25-15.04.20:194][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Cryopod/cryopod/Materials/glass_Auto4
+[2026.03.25-15.04.20:194][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/glass_Auto4BA76F8F44B6B3190CC8B90B4F3BA4567.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/Fab/Cryopod/cryopod/Materials/glass_Auto4.uasset'
+[2026.03.25-15.04.20:194][590]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Cryopod/cryopod/Materials/metal] ([1] browsable assets)...
+[2026.03.25-15.04.20:194][590]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Cryopod/cryopod/Materials/metal]
+[2026.03.25-15.04.20:200][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Cryopod/cryopod/Materials/metal_Auto4
+[2026.03.25-15.04.20:200][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/metal_Auto4F0C469B0496F666D269AA894379B5E79.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/Fab/Cryopod/cryopod/Materials/metal_Auto4.uasset'
+[2026.03.25-15.04.20:201][590]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Cryopod/cryopod/StaticMeshes/cryopod] ([1] browsable assets)...
+[2026.03.25-15.04.20:201][590]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Cryopod/cryopod/StaticMeshes/cryopod]
+[2026.03.25-15.04.20:209][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Cryopod/cryopod/StaticMeshes/cryopod_Auto4
+[2026.03.25-15.04.20:209][590]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/cryopod_Auto41944D7CF47A657D9B49F30A1FCC3D391.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/Fab/Cryopod/cryopod/StaticMeshes/cryopod_Auto4.uasset'
+[2026.03.25-15.04.20:209][590]LogFileHelpers: Auto-saving content packages took 0.427
+[2026.03.25-15.04.55:261][757]Cmd: DUPLICATE
+[2026.03.25-15.04.55:261][757]Cmd: ACTOR DUPLICATE
+[2026.03.25-15.05.16:720][268]Cmd: DUPLICATE
+[2026.03.25-15.05.16:720][268]Cmd: ACTOR DUPLICATE
+[2026.03.25-15.05.37:114][655]Cmd: DUPLICATE
+[2026.03.25-15.05.37:114][655]Cmd: ACTOR DUPLICATE
+[2026.03.25-15.06.38:539][961]Cmd: DUPLICATE
+[2026.03.25-15.06.38:539][961]Cmd: ACTOR DUPLICATE
+[2026.03.25-15.06.42:847][439]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3240.712158
+[2026.03.25-15.06.42:942][450]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-15.06.42:942][450]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3240.798584, Update Interval: 303.127533
+[2026.03.25-15.07.20:607][746]Cmd: DUPLICATE
+[2026.03.25-15.07.20:607][746]Cmd: ACTOR DUPLICATE
+[2026.03.25-15.07.26:560][398]Cmd: DUPLICATE
+[2026.03.25-15.07.26:560][398]Cmd: ACTOR DUPLICATE
+[2026.03.25-15.07.38:416][727]Cmd: DUPLICATE
+[2026.03.25-15.07.38:416][727]Cmd: ACTOR DUPLICATE
+[2026.03.25-15.07.49:788][994]Cmd: DUPLICATE
+[2026.03.25-15.07.49:788][994]Cmd: ACTOR DUPLICATE
+[2026.03.25-15.10.19:326][112]Cmd: DUPLICATE
+[2026.03.25-15.10.19:326][112]Cmd: ACTOR DUPLICATE
+[2026.03.25-15.10.33:883][762]Cmd: DELETE
+[2026.03.25-15.10.33:884][762]Cmd: ACTOR DELETE
+[2026.03.25-15.10.33:889][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.25-15.10.33:889][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.25-15.10.33:890][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.25-15.10.33:890][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.25-15.10.33:891][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.25-15.10.33:891][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.25-15.10.33:927][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.03.25-15.10.33:931][762]LogEditorActor: Deleted 6 Actors (0.048 secs)
+[2026.03.25-15.10.39:228][362]Cmd: DELETE
+[2026.03.25-15.10.39:228][362]Cmd: ACTOR DELETE
+[2026.03.25-15.10.39:231][362]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.25-15.10.39:232][362]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.25-15.10.39:233][362]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.25-15.10.39:250][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.03.25-15.10.39:253][362]LogEditorActor: Deleted 3 Actors (0.025 secs)
+[2026.03.25-15.11.48:528][566]Cmd: DUPLICATE
+[2026.03.25-15.11.48:528][566]Cmd: ACTOR DUPLICATE
+[2026.03.25-15.11.56:638][469]Cmd: DUPLICATE
+[2026.03.25-15.11.56:638][469]Cmd: ACTOR DUPLICATE
+[2026.03.25-15.12.17:533][592]Cmd: DUPLICATE
+[2026.03.25-15.12.17:533][592]Cmd: ACTOR DUPLICATE
+[2026.03.25-15.12.20:318][890]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3578.188477
+[2026.03.25-15.12.20:419][901]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-15.12.20:419][901]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3578.279785, Update Interval: 316.218140
+[2026.03.25-15.12.30:427][986]Cmd: DUPLICATE
+[2026.03.25-15.12.30:427][986]Cmd: ACTOR DUPLICATE
+[2026.03.25-15.12.42:544][292]Cmd: DUPLICATE
+[2026.03.25-15.12.42:544][292]Cmd: ACTOR DUPLICATE
+[2026.03.25-15.13.06:526][918]Cmd: DUPLICATE
+[2026.03.25-15.13.06:526][918]Cmd: ACTOR DUPLICATE
+[2026.03.25-15.13.12:179][524]Cmd: DUPLICATE
+[2026.03.25-15.13.12:179][524]Cmd: ACTOR DUPLICATE
+[2026.03.25-15.13.39:309][578]Cmd: DUPLICATE
+[2026.03.25-15.13.39:309][578]Cmd: ACTOR DUPLICATE
+[2026.03.25-15.14.11:154][221]Cmd: DUPLICATE
+[2026.03.25-15.14.11:154][221]Cmd: ACTOR DUPLICATE
+[2026.03.25-15.14.19:774][160]Cmd: DUPLICATE
+[2026.03.25-15.14.19:774][160]Cmd: ACTOR DUPLICATE
+[2026.03.25-15.14.39:467][355]LogDerivedDataCache: C:/Users/rbeckfor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.25-15.14.47:411][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.03.25-15.14.47:424][235]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/HN/Q3DT7O0VAOFCC2GPJZ3KQV_Auto5
+[2026.03.25-15.14.47:424][235]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Q3DT7O0VAOFCC2GPJZ3KQV_Auto5CE51746D4AF5D6A6E036C29B873807DC.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/HN/Q3DT7O0VAOFCC2GPJZ3KQV_Auto5.uasset'
+[2026.03.25-15.14.47:430][235]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/J4/3U96DZKOX4WSAHH4ZSOCCV_Auto5
+[2026.03.25-15.14.47:430][235]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/3U96DZKOX4WSAHH4ZSOCCV_Auto5AA2A968B42319187A584CCB97615BD63.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/J4/3U96DZKOX4WSAHH4ZSOCCV_Auto5.uasset'
+[2026.03.25-15.14.47:436][235]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/WJ/L59E8PMXAR2BM0W3ZNRTRI_Auto5
+[2026.03.25-15.14.47:436][235]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/L59E8PMXAR2BM0W3ZNRTRI_Auto5525DF88C474DC810DB8192B6D3519411.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/WJ/L59E8PMXAR2BM0W3ZNRTRI_Auto5.uasset'
+[2026.03.25-15.14.47:441][235]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/CO/8F9GDV7RFWN5PXUE3MUWRL_Auto5
+[2026.03.25-15.14.47:441][235]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/8F9GDV7RFWN5PXUE3MUWRL_Auto57E532802464B8BB4C4DF2F8D4454929C.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/CO/8F9GDV7RFWN5PXUE3MUWRL_Auto5.uasset'
+[2026.03.25-15.14.47:446][235]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/0Y/T59KXI36TSYTCOXHKF00LB_Auto5
+[2026.03.25-15.14.47:446][235]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/T59KXI36TSYTCOXHKF00LB_Auto5866375E446FEFC7468333FB1F25E47AB.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/0Y/T59KXI36TSYTCOXHKF00LB_Auto5.uasset'
+[2026.03.25-15.14.47:451][235]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/YT/Z46CGK59RLMDERNVS82AAW_Auto5
+[2026.03.25-15.14.47:451][235]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Z46CGK59RLMDERNVS82AAW_Auto514208A7C455059E7E21A6C9854A1C388.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/YT/Z46CGK59RLMDERNVS82AAW_Auto5.uasset'
+[2026.03.25-15.14.47:456][235]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/H9/UJCM8IYTV9ILGUW664ENYJ_Auto5
+[2026.03.25-15.14.47:456][235]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/UJCM8IYTV9ILGUW664ENYJ_Auto5C8DB164344399EA7C7EFBF8723CC9AD4.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/H9/UJCM8IYTV9ILGUW664ENYJ_Auto5.uasset'
+[2026.03.25-15.14.47:461][235]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/3S/QX09GENKDUHYOY0GWEJI8U_Auto5
+[2026.03.25-15.14.47:461][235]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/QX09GENKDUHYOY0GWEJI8U_Auto59E16A9E94E606FA6967134B8DA565FF5.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/3S/QX09GENKDUHYOY0GWEJI8U_Auto5.uasset'
+[2026.03.25-15.14.47:467][235]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/8T/0Q4WB2GATCIQVZZ7LLVUM4_Auto5
+[2026.03.25-15.14.47:467][235]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/0Q4WB2GATCIQVZZ7LLVUM4_Auto55EFC57FF4C7C99C5EC98C5ABD7B324F4.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/8T/0Q4WB2GATCIQVZZ7LLVUM4_Auto5.uasset'
+[2026.03.25-15.14.47:472][235]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/RZ/S6MYHH24CMFI0MP3QQWWP6_Auto5
+[2026.03.25-15.14.47:472][235]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/S6MYHH24CMFI0MP3QQWWP6_Auto51B1F6B29406BD4FB644D589E6175E13C.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/RZ/S6MYHH24CMFI0MP3QQWWP6_Auto5.uasset'
+[2026.03.25-15.14.47:477][235]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/3J/JCS4HP6W2CCKR3QXMHBDWO_Auto5
+[2026.03.25-15.14.47:477][235]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/JCS4HP6W2CCKR3QXMHBDWO_Auto586B7F5E24438EB5558C6B789BAA9FACC.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/3J/JCS4HP6W2CCKR3QXMHBDWO_Auto5.uasset'
+[2026.03.25-15.14.47:482][235]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/IO/5QFO2TP5NPEENP7Z4SSBWT_Auto5
+[2026.03.25-15.14.47:482][235]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/5QFO2TP5NPEENP7Z4SSBWT_Auto5824227A945CD14CCD6B9FFA1FF1C7B7F.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/IO/5QFO2TP5NPEENP7Z4SSBWT_Auto5.uasset'
+[2026.03.25-15.14.47:487][235]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/CT/JJO2XBM8QXUHQMTTCARS8F_Auto5
+[2026.03.25-15.14.47:487][235]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/JJO2XBM8QXUHQMTTCARS8F_Auto57D0EA6F7464EBF34595A15811E8F7515.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/CT/JJO2XBM8QXUHQMTTCARS8F_Auto5.uasset'
+[2026.03.25-15.14.47:492][235]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/OO/3IKFX7ZJUC343RYIRBCZNJ_Auto5
+[2026.03.25-15.14.47:492][235]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/3IKFX7ZJUC343RYIRBCZNJ_Auto5B6A005CF412499574B606B9B55D7785E.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/OO/3IKFX7ZJUC343RYIRBCZNJ_Auto5.uasset'
+[2026.03.25-15.14.47:497][235]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/R5/S314MZ0LLFM1XK3LZEVJXX_Auto5
+[2026.03.25-15.14.47:497][235]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/S314MZ0LLFM1XK3LZEVJXX_Auto5DD8FC5674683EEB789220F9D3C2794B0.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/R5/S314MZ0LLFM1XK3LZEVJXX_Auto5.uasset'
+[2026.03.25-15.14.47:502][235]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/OJ/XBERQUNZQEX1XOC9POI40O_Auto5
+[2026.03.25-15.14.47:502][235]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/XBERQUNZQEX1XOC9POI40O_Auto59BC4F85F470CDC63BF0B0FBB4764C538.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/OJ/XBERQUNZQEX1XOC9POI40O_Auto5.uasset'
+[2026.03.25-15.14.47:508][235]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/T6/8GL9XP94X4665JGM5BFTKE_Auto5
+[2026.03.25-15.14.47:508][235]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/8GL9XP94X4665JGM5BFTKE_Auto5D7B965A44C4C3821ECECD38481A03AD2.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/T6/8GL9XP94X4665JGM5BFTKE_Auto5.uasset'
+[2026.03.25-15.14.47:513][235]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/JZ/ZK8V64L9J9MJ2LSFWT2E98_Auto5
+[2026.03.25-15.14.47:513][235]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/ZK8V64L9J9MJ2LSFWT2E98_Auto51E50A4B74119F4592CDA08BF8041099E.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/JZ/ZK8V64L9J9MJ2LSFWT2E98_Auto5.uasset'
+[2026.03.25-15.14.47:518][235]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/NS/XTF24DUGM4OPI9D2E7AB4N_Auto5
+[2026.03.25-15.14.47:518][235]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/XTF24DUGM4OPI9D2E7AB4N_Auto566E3B92447B14EAD340DC3B554BC0279.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/NS/XTF24DUGM4OPI9D2E7AB4N_Auto5.uasset'
+[2026.03.25-15.14.47:518][235]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.122
+[2026.03.25-15.14.47:518][235]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.122
+[2026.03.25-15.15.07:901][552]Cmd: DUPLICATE
+[2026.03.25-15.15.07:901][552]Cmd: ACTOR DUPLICATE
+[2026.03.25-15.15.12:684][ 69]Cmd: DUPLICATE
+[2026.03.25-15.15.12:684][ 69]Cmd: ACTOR DUPLICATE
+[2026.03.25-15.15.29:964][  7]Cmd: DUPLICATE
+[2026.03.25-15.15.29:964][  7]Cmd: ACTOR DUPLICATE
+[2026.03.25-15.15.42:939][456]Cmd: DUPLICATE
+[2026.03.25-15.15.42:939][456]Cmd: ACTOR DUPLICATE
+[2026.03.25-15.15.47:936][999]Cmd: DUPLICATE
+[2026.03.25-15.15.47:936][999]Cmd: ACTOR DUPLICATE
+[2026.03.25-15.15.59:328][234]Cmd: DUPLICATE
+[2026.03.25-15.15.59:329][234]Cmd: ACTOR DUPLICATE
+[2026.03.25-15.17.22:652][674]Cmd: DUPLICATE
+[2026.03.25-15.17.22:652][674]Cmd: ACTOR DUPLICATE
+[2026.03.25-15.17.31:408][619]Cmd: DUPLICATE
+[2026.03.25-15.17.31:408][619]Cmd: ACTOR DUPLICATE
+[2026.03.25-15.17.38:976][434]Cmd: DUPLICATE
+[2026.03.25-15.17.38:976][434]Cmd: ACTOR DUPLICATE
+[2026.03.25-15.17.42:625][829]Cmd: DUPLICATE
+[2026.03.25-15.17.42:625][829]Cmd: ACTOR DUPLICATE
+[2026.03.25-15.17.56:401][362]Cmd: DUPLICATE
+[2026.03.25-15.17.56:401][362]Cmd: ACTOR DUPLICATE
+[2026.03.25-15.18.13:876][259]Cmd: DUPLICATE
+[2026.03.25-15.18.13:876][259]Cmd: ACTOR DUPLICATE
+[2026.03.25-15.18.19:876][901]Cmd: DUPLICATE
+[2026.03.25-15.18.19:876][901]Cmd: ACTOR DUPLICATE
+[2026.03.25-15.18.22:643][195]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3940.507324
+[2026.03.25-15.18.22:741][206]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-15.18.22:741][206]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3940.595703, Update Interval: 334.644623
+[2026.03.25-15.18.29:664][956]Cmd: DUPLICATE
+[2026.03.25-15.18.29:664][956]Cmd: ACTOR DUPLICATE
+[2026.03.25-15.19.00:351][294]Cmd: DELETE
+[2026.03.25-15.19.00:351][294]Cmd: ACTOR DELETE
+[2026.03.25-15.19.00:357][294]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.25-15.19.00:357][294]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.25-15.19.00:358][294]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.25-15.19.00:358][294]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.25-15.19.00:359][294]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.25-15.19.00:359][294]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.25-15.19.00:360][294]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.25-15.19.00:360][294]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.25-15.19.00:360][294]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.25-15.19.00:361][294]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.25-15.19.00:361][294]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.25-15.19.00:361][294]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.25-15.19.00:362][294]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.25-15.19.00:362][294]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.25-15.19.00:363][294]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.25-15.19.00:363][294]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.25-15.19.00:364][294]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.25-15.19.00:379][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.03.25-15.19.00:383][294]LogEditorActor: Deleted 17 Actors (0.032 secs)
+[2026.03.25-15.19.02:722][556]Cmd: DELETE
+[2026.03.25-15.19.02:722][556]Cmd: ACTOR DELETE
+[2026.03.25-15.19.02:724][556]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.25-15.19.02:738][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.03.25-15.19.02:740][556]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2026.03.25-15.19.50:755][296]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.25-15.19.50:843][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.03.25-15.19.50:854][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.03.25-15.19.50:867][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.03.25-15.19.50:880][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626
+[2026.03.25-15.19.50:880][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Q7CPP7VHOXBAMAJI90W62656CBDD1A4558F92BFEE22485995EE6AE.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626.uasset'
+[2026.03.25-15.19.50:887][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/8B/X8NQS8PI48VRW023TOM67Q
+[2026.03.25-15.19.50:887][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/X8NQS8PI48VRW023TOM67QC5020F034FC01C46C0FF6FAEDB5C07FC.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/8B/X8NQS8PI48VRW023TOM67Q.uasset'
+[2026.03.25-15.19.50:893][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/ME/UF6ARKBH94SUY64PFDDKXE
+[2026.03.25-15.19.50:893][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/UF6ARKBH94SUY64PFDDKXE8DE801394EE11E8B699D7689CF4E1B7B.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/ME/UF6ARKBH94SUY64PFDDKXE.uasset'
+[2026.03.25-15.19.50:898][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/HL/AXVUYIQJ2L64MU3UKIV34M
+[2026.03.25-15.19.50:899][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/AXVUYIQJ2L64MU3UKIV34MFFA15A5443DD8DA110587C8A1E2C3E26.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/HL/AXVUYIQJ2L64MU3UKIV34M.uasset'
+[2026.03.25-15.19.50:904][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/7N/LA4W5O7TXQ5HAIDB77VGTH
+[2026.03.25-15.19.50:904][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/LA4W5O7TXQ5HAIDB77VGTHADEB8A8C4690A6C6AC244AA25B78B5C8.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/7N/LA4W5O7TXQ5HAIDB77VGTH.uasset'
+[2026.03.25-15.19.50:909][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/HU/GLM8GYSSMECX47LCA230QM
+[2026.03.25-15.19.50:909][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/GLM8GYSSMECX47LCA230QMD7DDEDC34B4A93AF38ADD0B62E6C30BA.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/HU/GLM8GYSSMECX47LCA230QM.uasset'
+[2026.03.25-15.19.50:914][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/CI/VRG74F9JOQY5SGMBKZDJHQ
+[2026.03.25-15.19.50:914][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/VRG74F9JOQY5SGMBKZDJHQ055A25D94C214B01CECDFFBA3B536F60.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/CI/VRG74F9JOQY5SGMBKZDJHQ.uasset'
+[2026.03.25-15.19.50:920][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/NU/2SEMK9POYDSJVRX2BWRIKM
+[2026.03.25-15.19.50:920][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/2SEMK9POYDSJVRX2BWRIKMC587E2A24B2351BE7DB15F838D8A41CB.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/NU/2SEMK9POYDSJVRX2BWRIKM.uasset'
+[2026.03.25-15.19.50:926][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/8B/87IWLCWPXQAZPMRHRYORSM
+[2026.03.25-15.19.50:926][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/87IWLCWPXQAZPMRHRYORSM4E3429254A6AC68B42B31B826B9433C1.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/8B/87IWLCWPXQAZPMRHRYORSM.uasset'
+[2026.03.25-15.19.50:931][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/CD/B22OK68KZQ5HAGY4D02370
+[2026.03.25-15.19.50:931][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/B22OK68KZQ5HAGY4D0237063F32CE741A084C33F0E26B2F3DFFA52.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/CD/B22OK68KZQ5HAGY4D02370.uasset'
+[2026.03.25-15.19.50:937][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/1G/LTBQV9M35TJHW6OHTVX5LS
+[2026.03.25-15.19.50:937][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/LTBQV9M35TJHW6OHTVX5LS8EF1A0984A9FEB38A431F68D0B512C2F.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/1G/LTBQV9M35TJHW6OHTVX5LS.uasset'
+[2026.03.25-15.19.50:941][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/95/XUOZV2DOZUKDPEA2C1CNYL
+[2026.03.25-15.19.50:941][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/XUOZV2DOZUKDPEA2C1CNYL37962A354E5B21817DC2B19A0F004B0A.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/95/XUOZV2DOZUKDPEA2C1CNYL.uasset'
+[2026.03.25-15.19.50:947][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/VH/QSZQ3U88I0Y7I5QY6UC39E
+[2026.03.25-15.19.50:947][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/QSZQ3U88I0Y7I5QY6UC39E64942DBF4BFD530B171F3DA7466E1D92.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/VH/QSZQ3U88I0Y7I5QY6UC39E.uasset'
+[2026.03.25-15.19.50:953][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/2N/ZQUEIBGZB885B8PWQZVNPJ
+[2026.03.25-15.19.50:953][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/ZQUEIBGZB885B8PWQZVNPJFB3E9EC44F72DE7D644AE287EB5C349D.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/2N/ZQUEIBGZB885B8PWQZVNPJ.uasset'
+[2026.03.25-15.19.50:958][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/UN/53KA87ASMYB1D3U1UFJV1N
+[2026.03.25-15.19.50:958][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/53KA87ASMYB1D3U1UFJV1NBE7FEAE14090477018B3AC9D24AB9192.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/UN/53KA87ASMYB1D3U1UFJV1N.uasset'
+[2026.03.25-15.19.50:963][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/DN/EI4FDUFD4EC93IJJ25PX5X
+[2026.03.25-15.19.50:963][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/EI4FDUFD4EC93IJJ25PX5X3A2913A448382646DBB6A383C2BE33FA.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/DN/EI4FDUFD4EC93IJJ25PX5X.uasset'
+[2026.03.25-15.19.50:969][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/V4/MIHI7XNBLCG5QY6I54MG7T
+[2026.03.25-15.19.50:969][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/MIHI7XNBLCG5QY6I54MG7T34CDC6584C05E2B6C506528A2784FEB0.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/V4/MIHI7XNBLCG5QY6I54MG7T.uasset'
+[2026.03.25-15.19.50:974][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/CQ/RGEIFQNJCPN18ZJS71WEPG
+[2026.03.25-15.19.50:974][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/RGEIFQNJCPN18ZJS71WEPGE965E04640162D0AB744B6963CA603CB.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/CQ/RGEIFQNJCPN18ZJS71WEPG.uasset'
+[2026.03.25-15.19.50:980][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/Q1/G159ZKX065B3015D6ZMFX8
+[2026.03.25-15.19.50:980][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/G159ZKX065B3015D6ZMFX8F3DDB7D64E67A74FEF58E5A44BDFD0D7.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/Q1/G159ZKX065B3015D6ZMFX8.uasset'
+[2026.03.25-15.19.50:985][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/ES/YXO301LPTB67TZ0M5JXMCL
+[2026.03.25-15.19.50:985][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/YXO301LPTB67TZ0M5JXMCLB1C0A5DE4E0DA4165B9FCAAFAB9DEBD2.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/ES/YXO301LPTB67TZ0M5JXMCL.uasset'
+[2026.03.25-15.19.50:990][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/IZ/R8NL8DO5ZPEX3OG1BUDVXY
+[2026.03.25-15.19.50:990][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/R8NL8DO5ZPEX3OG1BUDVXY4E94DDDC4ED6B259731191AF63F4EBF1.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/IZ/R8NL8DO5ZPEX3OG1BUDVXY.uasset'
+[2026.03.25-15.19.50:996][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/3I/Q63J6LTWTADPM3KW3S3Z3P
+[2026.03.25-15.19.50:996][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Q63J6LTWTADPM3KW3S3Z3PE4086CC445B1092618350FB2A0AB1F99.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/3I/Q63J6LTWTADPM3KW3S3Z3P.uasset'
+[2026.03.25-15.19.51:001][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/F/1N/61PX1RGZB1S6X3UZNTGL5J
+[2026.03.25-15.19.51:001][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/61PX1RGZB1S6X3UZNTGL5JAE53BCD2405B177D93891BBF4AB2016A.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/F/1N/61PX1RGZB1S6X3UZNTGL5J.uasset'
+[2026.03.25-15.19.51:006][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/JR/BPY5K2E7W9K24SJB9CZQSG
+[2026.03.25-15.19.51:006][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/BPY5K2E7W9K24SJB9CZQSG517D8501453D6C78A9F4E4B024A18DBD.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/JR/BPY5K2E7W9K24SJB9CZQSG.uasset'
+[2026.03.25-15.19.51:011][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/RZ/DOH5JMCLPFMM7JDXSKCBNI
+[2026.03.25-15.19.51:011][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/DOH5JMCLPFMM7JDXSKCBNIEAC59C3F4BE0C40CEF5CB78B3F8A89AF.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/RZ/DOH5JMCLPFMM7JDXSKCBNI.uasset'
+[2026.03.25-15.19.51:017][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/DL/V22NK5FT8W5605BTVEX4YW
+[2026.03.25-15.19.51:017][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/V22NK5FT8W5605BTVEX4YWCF9CFC99406F399636C69CBD01380B23.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/DL/V22NK5FT8W5605BTVEX4YW.uasset'
+[2026.03.25-15.19.51:023][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/06/M87W6TL0J7PQ262OGKZB2R
+[2026.03.25-15.19.51:023][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/M87W6TL0J7PQ262OGKZB2R066EC0CC40DF545E3AD78584994B2CA4.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/06/M87W6TL0J7PQ262OGKZB2R.uasset'
+[2026.03.25-15.19.51:029][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/ET/K6IIZTSZGK4C5KS5W84H8C
+[2026.03.25-15.19.51:029][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/K6IIZTSZGK4C5KS5W84H8C185B9D6D4BEF5D70BEADC0AEFD4A37A6.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/ET/K6IIZTSZGK4C5KS5W84H8C.uasset'
+[2026.03.25-15.19.51:034][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/4Q/FENFIYPO7MQXLDS24L0TI4
+[2026.03.25-15.19.51:035][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/FENFIYPO7MQXLDS24L0TI4D54A8D324232A97A5506739E8B3968ED.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/4Q/FENFIYPO7MQXLDS24L0TI4.uasset'
+[2026.03.25-15.19.51:039][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/20/1EGWMFVDTTV2QRK7SD55HJ
+[2026.03.25-15.19.51:039][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/1EGWMFVDTTV2QRK7SD55HJ8CECF06C45B3CA3A21BF2C81E661557C.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/20/1EGWMFVDTTV2QRK7SD55HJ.uasset'
+[2026.03.25-15.19.51:044][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/OG/1V7FJR5J8YCBQFHSWGVTIG
+[2026.03.25-15.19.51:044][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/1V7FJR5J8YCBQFHSWGVTIG968964FA4A2801BB498ABBAE25110407.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/OG/1V7FJR5J8YCBQFHSWGVTIG.uasset'
+[2026.03.25-15.19.51:050][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/WI/T609BT9DOL6KDDB06QPDKG
+[2026.03.25-15.19.51:050][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/T609BT9DOL6KDDB06QPDKGB61F033A4E45E3D08AF9AF9DFD66023B.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/WI/T609BT9DOL6KDDB06QPDKG.uasset'
+[2026.03.25-15.19.51:054][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/HN/Q3DT7O0VAOFCC2GPJZ3KQV
+[2026.03.25-15.19.51:054][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Q3DT7O0VAOFCC2GPJZ3KQV0AFEB78B4B047E578A10F89CFE35149E.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/HN/Q3DT7O0VAOFCC2GPJZ3KQV.uasset'
+[2026.03.25-15.19.51:061][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/J4/3U96DZKOX4WSAHH4ZSOCCV
+[2026.03.25-15.19.51:061][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/3U96DZKOX4WSAHH4ZSOCCVBB00FD69420D0E7CBD4ECAAC05587BF4.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/J4/3U96DZKOX4WSAHH4ZSOCCV.uasset'
+[2026.03.25-15.19.51:066][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/WJ/L59E8PMXAR2BM0W3ZNRTRI
+[2026.03.25-15.19.51:066][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/L59E8PMXAR2BM0W3ZNRTRI38D07944476307D5A48E709EACEA7C20.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/WJ/L59E8PMXAR2BM0W3ZNRTRI.uasset'
+[2026.03.25-15.19.51:072][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/CO/8F9GDV7RFWN5PXUE3MUWRL
+[2026.03.25-15.19.51:072][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/8F9GDV7RFWN5PXUE3MUWRLE345C48448EC968CEDBD34961542038F.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/CO/8F9GDV7RFWN5PXUE3MUWRL.uasset'
+[2026.03.25-15.19.51:077][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/0Y/T59KXI36TSYTCOXHKF00LB
+[2026.03.25-15.19.51:077][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/T59KXI36TSYTCOXHKF00LB06CB4A8A45DE07B972CC338C148F8024.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/0Y/T59KXI36TSYTCOXHKF00LB.uasset'
+[2026.03.25-15.19.51:083][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/YT/Z46CGK59RLMDERNVS82AAW
+[2026.03.25-15.19.51:083][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Z46CGK59RLMDERNVS82AAWD92F43474DC1FA05FA2ED697F88A50E7.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/YT/Z46CGK59RLMDERNVS82AAW.uasset'
+[2026.03.25-15.19.51:087][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/H9/UJCM8IYTV9ILGUW664ENYJ
+[2026.03.25-15.19.51:087][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/UJCM8IYTV9ILGUW664ENYJ8F75DE2642C3E955F5376396189C2A93.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/H9/UJCM8IYTV9ILGUW664ENYJ.uasset'
+[2026.03.25-15.19.51:093][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/3S/QX09GENKDUHYOY0GWEJI8U
+[2026.03.25-15.19.51:093][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/QX09GENKDUHYOY0GWEJI8UD0F92D8042E9301D78CD1A8727684A90.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/3S/QX09GENKDUHYOY0GWEJI8U.uasset'
+[2026.03.25-15.19.51:098][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/8T/0Q4WB2GATCIQVZZ7LLVUM4
+[2026.03.25-15.19.51:098][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/0Q4WB2GATCIQVZZ7LLVUM4F231DB9245BE29C07D996782B5C27540.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/8T/0Q4WB2GATCIQVZZ7LLVUM4.uasset'
+[2026.03.25-15.19.51:103][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/RZ/S6MYHH24CMFI0MP3QQWWP6
+[2026.03.25-15.19.51:103][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/S6MYHH24CMFI0MP3QQWWP6CC4FC62D48BD7FA141570081480AE435.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/RZ/S6MYHH24CMFI0MP3QQWWP6.uasset'
+[2026.03.25-15.19.51:108][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/3J/JCS4HP6W2CCKR3QXMHBDWO
+[2026.03.25-15.19.51:108][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/JCS4HP6W2CCKR3QXMHBDWO5DDF6D1B44AFAB14352DC4A96ED63659.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/3J/JCS4HP6W2CCKR3QXMHBDWO.uasset'
+[2026.03.25-15.19.51:113][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/IO/5QFO2TP5NPEENP7Z4SSBWT
+[2026.03.25-15.19.51:113][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/5QFO2TP5NPEENP7Z4SSBWT8F9DE1704A5F8148F492BBBD7CD1095F.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/IO/5QFO2TP5NPEENP7Z4SSBWT.uasset'
+[2026.03.25-15.19.51:119][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/CT/JJO2XBM8QXUHQMTTCARS8F
+[2026.03.25-15.19.51:119][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/JJO2XBM8QXUHQMTTCARS8F4227B4874411215CA24A61A93BF01DFD.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/CT/JJO2XBM8QXUHQMTTCARS8F.uasset'
+[2026.03.25-15.19.51:124][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/OO/3IKFX7ZJUC343RYIRBCZNJ
+[2026.03.25-15.19.51:124][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/3IKFX7ZJUC343RYIRBCZNJEC0DAFB94A88134EAC26D2AD7D8E47FD.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/OO/3IKFX7ZJUC343RYIRBCZNJ.uasset'
+[2026.03.25-15.19.51:128][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/R5/S314MZ0LLFM1XK3LZEVJXX
+[2026.03.25-15.19.51:128][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/S314MZ0LLFM1XK3LZEVJXXBDAD2DFB4063B0D78825929C4DAD3181.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/R5/S314MZ0LLFM1XK3LZEVJXX.uasset'
+[2026.03.25-15.19.51:134][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/OJ/XBERQUNZQEX1XOC9POI40O
+[2026.03.25-15.19.51:134][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/XBERQUNZQEX1XOC9POI40O6B1054E94E213296D7DC7DA9E92B9BC3.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/OJ/XBERQUNZQEX1XOC9POI40O.uasset'
+[2026.03.25-15.19.51:139][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/T6/8GL9XP94X4665JGM5BFTKE
+[2026.03.25-15.19.51:139][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/8GL9XP94X4665JGM5BFTKED2F677904B28EBA553F3BA875A51AA64.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/T6/8GL9XP94X4665JGM5BFTKE.uasset'
+[2026.03.25-15.19.51:144][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/JZ/ZK8V64L9J9MJ2LSFWT2E98
+[2026.03.25-15.19.51:144][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/ZK8V64L9J9MJ2LSFWT2E987D76E39748C0A86033E9C6A4A43D4D7C.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/JZ/ZK8V64L9J9MJ2LSFWT2E98.uasset'
+[2026.03.25-15.19.51:149][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/NS/XTF24DUGM4OPI9D2E7AB4N
+[2026.03.25-15.19.51:149][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/XTF24DUGM4OPI9D2E7AB4NF1AE4B5B4A50A4661878DB99151DD19A.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/NS/XTF24DUGM4OPI9D2E7AB4N.uasset'
+[2026.03.25-15.19.51:154][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/SQ/7CCB9B9Z35XKZNCQ1HQLOX
+[2026.03.25-15.19.51:154][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/7CCB9B9Z35XKZNCQ1HQLOXD595E28C4B2CED1D57775AAF35F2A867.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/SQ/7CCB9B9Z35XKZNCQ1HQLOX.uasset'
+[2026.03.25-15.19.51:160][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/K4/WO7IPM1UWHCPD2JCXVLK61
+[2026.03.25-15.19.51:160][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/WO7IPM1UWHCPD2JCXVLK61D959872E484CB85C691BDFB9D163F0EC.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/K4/WO7IPM1UWHCPD2JCXVLK61.uasset'
+[2026.03.25-15.19.51:165][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/R5/WVZ5U7NZ8BMJUU6RC7U6HZ
+[2026.03.25-15.19.51:165][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/WVZ5U7NZ8BMJUU6RC7U6HZ56E1A4DE4A85FC21B50C98A01B546D6E.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/R5/WVZ5U7NZ8BMJUU6RC7U6HZ.uasset'
+[2026.03.25-15.19.51:170][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/96/N7L58075FVN847VIQYSSLF
+[2026.03.25-15.19.51:170][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/N7L58075FVN847VIQYSSLFD070035C4B6F2B5449D021B2FFBA64FA.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/96/N7L58075FVN847VIQYSSLF.uasset'
+[2026.03.25-15.19.51:175][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/M8/Y6G0A1P3JTKN9OXCLDOPJ0
+[2026.03.25-15.19.51:175][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Y6G0A1P3JTKN9OXCLDOPJ07E94CFED433B90DE101569850CCEDCA1.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/M8/Y6G0A1P3JTKN9OXCLDOPJ0.uasset'
+[2026.03.25-15.19.51:180][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/GK/1VWHX0H380FIMT0U09H69U
+[2026.03.25-15.19.51:180][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/1VWHX0H380FIMT0U09H69U2CE2AADB4C2B52A2D8853CA33A72FFBD.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/GK/1VWHX0H380FIMT0U09H69U.uasset'
+[2026.03.25-15.19.51:185][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/RI/FD13ZYP1WBT1TRJG9T6KDB
+[2026.03.25-15.19.51:185][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/FD13ZYP1WBT1TRJG9T6KDB1CD02E104388F3CEDFC12C990FF943C0.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/RI/FD13ZYP1WBT1TRJG9T6KDB.uasset'
+[2026.03.25-15.19.51:191][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/3S/9MIWFP6FVN3TUOTZ00VBJ1
+[2026.03.25-15.19.51:191][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/9MIWFP6FVN3TUOTZ00VBJ1AEAFE6BB4EAEC5C330632A9F5F317599.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/3S/9MIWFP6FVN3TUOTZ00VBJ1.uasset'
+[2026.03.25-15.19.51:196][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/EJ/B05HG3E1YG45159DZK92HQ
+[2026.03.25-15.19.51:196][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/B05HG3E1YG45159DZK92HQA707220641D2E4DCB0E46DB11A9B94CB.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/EJ/B05HG3E1YG45159DZK92HQ.uasset'
+[2026.03.25-15.19.51:201][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/R7/POS5FBG2DVGPDM1MB00ZUD
+[2026.03.25-15.19.51:201][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/POS5FBG2DVGPDM1MB00ZUDC39ED32B47AE33EF895D5CA3FEC4A40A.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/R7/POS5FBG2DVGPDM1MB00ZUD.uasset'
+[2026.03.25-15.19.51:207][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/O5/FVE7D053U9TSBMI7IKOSYI
+[2026.03.25-15.19.51:207][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/FVE7D053U9TSBMI7IKOSYI85E1B6C34EE336B0549DB6B67CF5C139.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/O5/FVE7D053U9TSBMI7IKOSYI.uasset'
+[2026.03.25-15.19.51:213][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/EI/N74MC9DOKT5PRGDY15UTE6
+[2026.03.25-15.19.51:213][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/N74MC9DOKT5PRGDY15UTE60F18F7034274682E897DC2B4AF51DE56.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/EI/N74MC9DOKT5PRGDY15UTE6.uasset'
+[2026.03.25-15.19.51:219][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/1E/PKI5QJJ8DN3UBWME7WJ42E
+[2026.03.25-15.19.51:219][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/PKI5QJJ8DN3UBWME7WJ42E38B0D78642431075BCB8EC98DE6E01C2.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/1E/PKI5QJJ8DN3UBWME7WJ42E.uasset'
+[2026.03.25-15.19.51:224][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/2J/O96AMP0IN8RN4RETFJ8GMX
+[2026.03.25-15.19.51:224][296]LogSavePackage: Moving '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/O96AMP0IN8RN4RETFJ8GMX01141CEC413CFD115159CA8839173D10.tmp' to '../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/2J/O96AMP0IN8RN4RETFJ8GMX.uasset'
+[2026.03.25-15.19.51:231][296]LogFileHelpers: InternalPromptForCheckoutAndSave took 476.704 ms (total: 1.01 sec)
+[2026.03.25-15.19.51:278][296]LogContentValidation: Display: Starting to validate 65 assets
+[2026.03.25-15.19.51:278][296]LogContentValidation: Enabled validators:
+[2026.03.25-15.19.51:278][296]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.25-15.19.51:278][296]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.25-15.19.51:278][296]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.25-15.19.51:278][296]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.25-15.19.51:278][296]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.25-15.19.51:278][296]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.25-15.19.51:278][296]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2026.03.25-15.19.51:298][296]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/SourceControl/UncontrolledChangelists.json
