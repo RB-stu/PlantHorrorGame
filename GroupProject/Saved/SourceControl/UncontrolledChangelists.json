@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Levels/MainLevel/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Levels/Testplace/Testplace.umap",
+				"C:/Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/ThirdPerson/Blueprints/BP_SpriteGameMode.uasset",
+				"C:/Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/ivanr/OneDrive/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Levels/MainLevel/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/ivanr/OneDrive/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Blueprints/Dialogue/BP_DialogueComponent.uasset",
 				"C:/Users/ivanr/OneDrive/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Blueprints/Dialogue/BP_NPC.uasset",
