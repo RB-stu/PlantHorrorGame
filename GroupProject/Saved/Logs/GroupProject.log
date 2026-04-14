@@ -2476,3 +2476,925 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.14-23.03.55:021][335]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3765.989990
 [2026.04.14-23.03.56:021][339]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.04.14-23.03.56:022][339]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3766.657959, Update Interval: 323.996704
+[2026.04.14-23.51.03:732][959]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6594.698730
+[2026.04.14-23.51.04:731][962]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.14-23.51.04:731][962]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6595.367676, Update Interval: 310.625946
+[2026.04.14-23.51.09:080][ 74]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.14-23.51.09:086][ 74]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.14-23.51.09:126][ 74]LogPlayLevel: Creating play world package: /Game/Levels/Testplace/UEDPIE_0_Testplace
+[2026.04.14-23.51.09:134][ 74]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008002s)
+[2026.04.14-23.51.09:134][ 74]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testplace/Testplace.Testplace to /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace (0.008050s)
+[2026.04.14-23.51.09:153][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.04.14-23.51.09:155][ 74]LogChaosDD: Creating Chaos Debug Draw Scene for world Testplace
+[2026.04.14-23.51.09:156][ 74]LogPlayLevel: PIE: World Init took: (0.001567s)
+[2026.04.14-23.51.09:157][ 74]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2026.04.14-23.51.09:157][ 74]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.14-23.51.09:157][ 74]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.14-23.51.09:157][ 74]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.14-23.51.09:157][ 74]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.14-23.51.09:157][ 74]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.14-23.51.09:157][ 74]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.14-23.51.09:157][ 74]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.14-23.51.09:157][ 74]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.14-23.51.09:157][ 74]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.14-23.51.09:157][ 74]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.14-23.51.09:157][ 74]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.14-23.51.09:160][ 74]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.14-23.51.09:235][ 74]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.04.14-23.51.09:236][ 74]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.14-23.51.09:236][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.14-23.51.09:236][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.14-23.51.09:236][ 74]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2026.04.14-23.51.09:236][ 74]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2026.04.14-23.51.09:238][ 74]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2026.04.14-23.51.09:238][ 74]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2026.04.14-23.51.09:238][ 74]LogInit: FAudioDevice initialized with ID 18.
+[2026.04.14-23.51.09:238][ 74]LogAudio: Display: Audio Device (ID: 18) registered with world 'Testplace'.
+[2026.04.14-23.51.09:238][ 74]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2026.04.14-23.51.09:243][ 74]LogLoad: Game class is 'BP_SpriteGameMode_C'
+[2026.04.14-23.51.09:245][ 74]LogWorld: Bringing World /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace up for play (max tick rate 60) at 2026.04.14-19.51.09
+[2026.04.14-23.51.09:245][ 74]LogWorld: Bringing up level for play took: 0.002840
+[2026.04.14-23.51.09:247][ 74]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2026.04.14-23.51.09:248][ 74]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.51.09:248][ 74]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.51.09:249][ 74]PIE: Server logged in
+[2026.04.14-23.51.09:250][ 74]PIE: Play in editor total start time 0.165 seconds.
+[2026.04.14-23.51.09:289][ 75]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.14-23.51.09:555][ 90]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.04.14-23.51.09:555][ 90]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2026.04.14-23.51.09:555][ 90]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.04.14-23.51.12:836][287]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.04.14-23.51.12:836][287]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.04.14-23.51.15:817][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.14-23.51.15:817][462]LogWorld: BeginTearingDown for /Game/Levels/Testplace/UEDPIE_0_Testplace
+[2026.04.14-23.51.15:817][462]LogWorld: UWorld::CleanupWorld for Testplace, bSessionEnded=true, bCleanupResources=true
+[2026.04.14-23.51.15:818][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.14-23.51.15:824][462]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.14-23.51.15:828][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.14-23.51.15:853][462]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.14-23.51.15:853][462]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2026.04.14-23.51.15:853][462]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=4
+[2026.04.14-23.51.15:855][462]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=2
+[2026.04.14-23.51.15:859][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.14-23.51.15:861][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.04.14-23.51.15:886][463]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2026.04.14-23.51.17:618][565]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.14-23.51.17:624][565]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.14-23.51.17:624][565]LogPlayLevel: Creating play world package: /Game/Levels/Testplace/UEDPIE_0_Testplace
+[2026.04.14-23.51.17:634][565]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009469s)
+[2026.04.14-23.51.17:634][565]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testplace/Testplace.Testplace to /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace (0.009502s)
+[2026.04.14-23.51.17:653][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.04.14-23.51.17:654][565]LogChaosDD: Creating Chaos Debug Draw Scene for world Testplace
+[2026.04.14-23.51.17:655][565]LogPlayLevel: PIE: World Init took: (0.001278s)
+[2026.04.14-23.51.17:655][565]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2026.04.14-23.51.17:655][565]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.14-23.51.17:655][565]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.14-23.51.17:655][565]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.14-23.51.17:655][565]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.14-23.51.17:655][565]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.14-23.51.17:655][565]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.14-23.51.17:655][565]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.14-23.51.17:655][565]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.14-23.51.17:655][565]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.14-23.51.17:655][565]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.14-23.51.17:655][565]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.14-23.51.17:657][565]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.14-23.51.17:760][565]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.04.14-23.51.17:761][565]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.14-23.51.17:761][565]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.14-23.51.17:761][565]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.14-23.51.17:761][565]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2026.04.14-23.51.17:761][565]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2026.04.14-23.51.17:763][565]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2026.04.14-23.51.17:763][565]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2026.04.14-23.51.17:763][565]LogInit: FAudioDevice initialized with ID 19.
+[2026.04.14-23.51.17:763][565]LogAudio: Display: Audio Device (ID: 19) registered with world 'Testplace'.
+[2026.04.14-23.51.17:763][565]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2026.04.14-23.51.17:766][565]LogLoad: Game class is 'BP_SpriteGameMode_C'
+[2026.04.14-23.51.17:768][565]LogWorld: Bringing World /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace up for play (max tick rate 60) at 2026.04.14-19.51.17
+[2026.04.14-23.51.17:768][565]LogWorld: Bringing up level for play took: 0.002325
+[2026.04.14-23.51.17:770][565]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2026.04.14-23.51.17:772][565]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.51.17:772][565]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.51.17:773][565]PIE: Server logged in
+[2026.04.14-23.51.17:774][565]PIE: Play in editor total start time 0.15 seconds.
+[2026.04.14-23.51.17:811][566]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.14-23.51.18:867][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.14-23.51.18:867][626]LogWorld: BeginTearingDown for /Game/Levels/Testplace/UEDPIE_0_Testplace
+[2026.04.14-23.51.18:867][626]LogWorld: UWorld::CleanupWorld for Testplace, bSessionEnded=true, bCleanupResources=true
+[2026.04.14-23.51.18:868][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.14-23.51.18:873][626]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.14-23.51.18:877][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.14-23.51.18:906][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.14-23.51.18:907][626]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2026.04.14-23.51.18:907][626]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=4
+[2026.04.14-23.51.18:910][626]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=2
+[2026.04.14-23.51.18:917][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.04.14-23.51.18:940][627]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2026.04.14-23.51.27:508][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.04.14-23.51.28:834][109]LogSlate: Window 'Save Content' being destroyed
+[2026.04.14-23.51.28:852][109]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.14-23.51.28:917][109]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Dialogue_Interact/BP_NPC] ([2] browsable assets)...
+[2026.04.14-23.51.28:917][109]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Dialogue_Interact/BP_NPC]
+[2026.04.14-23.51.28:925][109]LogSavePackage: Moving output files for package: /Game/Blueprints/Dialogue_Interact/BP_NPC
+[2026.04.14-23.51.28:925][109]LogSavePackage: Moving '../../../../Users/kenbs/Downloads/ClassProject/PlantHorrorGame/GroupProject/Saved/BP_NPCEA6F99F04E309A90FBF4EFAAF7ADB32A.tmp' to '../../../../Users/kenbs/Downloads/ClassProject/PlantHorrorGame/GroupProject/Content/Blueprints/Dialogue_Interact/BP_NPC.uasset'
+[2026.04.14-23.51.28:926][109]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Sprite] ([2] browsable assets)...
+[2026.04.14-23.51.28:926][109]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Sprite]
+[2026.04.14-23.51.28:944][109]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Sprite
+[2026.04.14-23.51.28:944][109]LogSavePackage: Moving '../../../../Users/kenbs/Downloads/ClassProject/PlantHorrorGame/GroupProject/Saved/BP_Sprite543234284A6B8642D438239453F92D5E.tmp' to '../../../../Users/kenbs/Downloads/ClassProject/PlantHorrorGame/GroupProject/Content/ThirdPerson/Blueprints/BP_Sprite.uasset'
+[2026.04.14-23.51.29:004][109]LogFileHelpers: InternalPromptForCheckoutAndSave took 151.777 ms (total: 808.072 ms)
+[2026.04.14-23.51.29:004][109]LogStreaming: Display: FlushAsyncLoading(826): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.14-23.51.30:041][109]LogStaticMesh: Display: Building static mesh SM_CablesSet (Required Memory Estimate: 29.378136 MB)...
+[2026.04.14-23.51.30:041][109]LogStaticMesh: Display: Building static mesh SM_HospitalDoor_01_Frame (Required Memory Estimate: 1.233199 MB)...
+[2026.04.14-23.51.30:041][109]LogStaticMesh: Display: Building static mesh SM_HospitalDoor_04_Frame (Required Memory Estimate: 2.667384 MB)...
+[2026.04.14-23.51.30:041][109]LogStaticMesh: Display: Building static mesh SM_HospitalDoor_04_B (Required Memory Estimate: 1.077728 MB)...
+[2026.04.14-23.51.30:044][109]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.8.dll
+[2026.04.14-23.51.30:056][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Decals/T_Mask_01.T_Mask_01 (G8, 1024x1024 x1x1x1) (Required Memory Estimate: 29.999993 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.30:064][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Decals/T_GlassWall_Frame_01_M.T_GlassWall_Frame_01_M (BGRA8, 2000x122 x1x1x1) (Required Memory Estimate: 9.377068 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.30:065][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Glass/T_GlassCurves_01_N.T_GlassCurves_01_N (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 82.499988 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.30:066][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Maps/Environment_Corridor_BuiltData.Environment_Corridor_BuiltData:ShadowMapTexture2D_2 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.30:067][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Maps/Environment_Corridor_BuiltData.Environment_Corridor_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 124.041655 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.30:070][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Glass/T_Door_01_Glass_01_R.T_Door_01_Glass_01_R (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.30:071][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Maps/Environment_Corridor_BuiltData.Environment_Corridor_BuiltData:LQ_Lightmap_0_2 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 124.041655 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.30:072][109]LogStaticMesh: Display: Building static mesh SM_Registry_01_Glass (Required Memory Estimate: 0.043586 MB)...
+[2026.04.14-23.51.30:076][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Maps/Environment_Corridor_BuiltData.Environment_Corridor_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 171.416656 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.30:077][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Maps/Environment_Corridor_BuiltData.Environment_Corridor_BuiltData:HQ_Lightmap0_2 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 171.416656 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.30:090][109]LogStaticMesh: Built static mesh [0.02s] /Game/HospitalCorridor/Meshes/Objects/SM_Registry_01_Glass.SM_Registry_01_Glass
+[2026.04.14-23.51.30:093][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Decals/T_Mask_02.T_Mask_02 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 170.083323 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.30:105][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Decals/T_PuddleBig_01_M.T_PuddleBig_01_M (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 339.083323 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.30:134][109]LogStaticMesh: Display: Building static mesh SM_UtilityElectronics_01_B (Required Memory Estimate: 0.227569 MB)...
+[2026.04.14-23.51.30:134][109]LogStaticMesh: Display: Building static mesh SM_UtilityElectronics_01_C (Required Memory Estimate: 0.264639 MB)...
+[2026.04.14-23.51.30:135][109]LogStaticMesh: Display: Building static mesh SM_UtilityElectronics_01_A (Required Memory Estimate: 0.326463 MB)...
+[2026.04.14-23.51.30:135][109]LogStaticMesh: Display: Building static mesh SM_Registry_01 (Required Memory Estimate: 0.934814 MB)...
+[2026.04.14-23.51.30:135][109]LogStaticMesh: Display: Building static mesh SM_UtilityElectronics_01_D (Required Memory Estimate: 0.596309 MB)...
+[2026.04.14-23.51.30:136][109]LogStaticMesh: Display: Building static mesh SM_UtilityElectronics_01_E (Required Memory Estimate: 0.275874 MB)...
+[2026.04.14-23.51.30:138][109]LogStaticMesh: Display: Building static mesh SM_UtilityElectronics_01_F (Required Memory Estimate: 1.27041 MB)...
+[2026.04.14-23.51.30:142][109]LogStaticMesh: Display: Building static mesh SM_UtilityElectronics_01_G (Required Memory Estimate: 1.899897 MB)...
+[2026.04.14-23.51.30:145][109]LogStaticMesh: Display: Building static mesh SM_UtilityElectronics_01_H (Required Memory Estimate: 0.583117 MB)...
+[2026.04.14-23.51.30:146][109]LogStaticMesh: Display: Building static mesh SM_UtilityElectronics_01_I (Required Memory Estimate: 0.583117 MB)...
+[2026.04.14-23.51.30:172][109]LogStaticMesh: Built static mesh [0.04s] /Game/HospitalCorridor/Meshes/Objects/SM_UtilityElectronics_01_B.SM_UtilityElectronics_01_B
+[2026.04.14-23.51.30:181][109]LogStaticMesh: Built static mesh [0.05s] /Game/HospitalCorridor/Meshes/Objects/SM_UtilityElectronics_01_C.SM_UtilityElectronics_01_C
+[2026.04.14-23.51.30:194][109]LogStaticMesh: Built static mesh [0.06s] /Game/HospitalCorridor/Meshes/Objects/SM_UtilityElectronics_01_A.SM_UtilityElectronics_01_A
+[2026.04.14-23.51.30:194][109]LogStaticMesh: Display: Building static mesh SM_UtilityElectronics_01_M (Required Memory Estimate: 0.115623 MB)...
+[2026.04.14-23.51.30:194][109]LogStaticMesh: Display: Building static mesh SM_UtilityElectronics_01_L (Required Memory Estimate: 0.068306 MB)...
+[2026.04.14-23.51.30:195][109]LogStaticMesh: Display: Building static mesh SM_UtilityElectronics_01_N (Required Memory Estimate: 0.072986 MB)...
+[2026.04.14-23.51.30:197][109]LogStaticMesh: Display: Building static mesh SM_UtilityElectronics_01_O (Required Memory Estimate: 0.145177 MB)...
+[2026.04.14-23.51.30:198][109]LogStaticMesh: Built static mesh [0.07s] /Game/HospitalCorridor/Meshes/Objects/SM_UtilityElectronics_01_E.SM_UtilityElectronics_01_E
+[2026.04.14-23.51.30:200][109]LogStaticMesh: Display: Building static mesh SM_UtilityElectronics_01_P (Required Memory Estimate: 0.194891 MB)...
+[2026.04.14-23.51.30:201][109]LogStaticMesh: Built static mesh [0.02s] /Game/HospitalCorridor/Meshes/Objects/SM_UtilityElectronics_01_L.SM_UtilityElectronics_01_L
+[2026.04.14-23.51.30:202][109]LogStaticMesh: Built static mesh [0.02s] /Game/HospitalCorridor/Meshes/Objects/SM_UtilityElectronics_01_M.SM_UtilityElectronics_01_M
+[2026.04.14-23.51.30:202][109]LogStaticMesh: Display: Building static mesh SM_UtilityElectronics_01_R (Required Memory Estimate: 0.251354 MB)...
+[2026.04.14-23.51.30:203][109]LogStaticMesh: Built static mesh [0.01s] /Game/HospitalCorridor/Meshes/Objects/SM_UtilityElectronics_01_N.SM_UtilityElectronics_01_N
+[2026.04.14-23.51.30:203][109]LogStaticMesh: Display: Building static mesh SM_UtilityElectronics_01_S (Required Memory Estimate: 0.288605 MB)...
+[2026.04.14-23.51.30:204][109]LogStaticMesh: Display: Building static mesh SM_UtilityElectronics_01_T (Required Memory Estimate: 0.507021 MB)...
+[2026.04.14-23.51.30:209][109]LogStaticMesh: Built static mesh [0.17s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalDoor_04_B.SM_HospitalDoor_04_B
+[2026.04.14-23.51.30:212][109]LogStaticMesh: Display: Building static mesh SM_UtilityElectronics_01_Trim_A (Required Memory Estimate: 0.313779 MB)...
+[2026.04.14-23.51.30:213][109]LogStaticMesh: Built static mesh [0.02s] /Game/HospitalCorridor/Meshes/Objects/SM_UtilityElectronics_01_O.SM_UtilityElectronics_01_O
+[2026.04.14-23.51.30:215][109]LogStaticMesh: Display: Building static mesh SM_HospitalLamps_01_E (Required Memory Estimate: 0.182681 MB)...
+[2026.04.14-23.51.30:220][109]LogStaticMesh: Built static mesh [0.09s] /Game/HospitalCorridor/Meshes/Objects/SM_UtilityElectronics_01_D.SM_UtilityElectronics_01_D
+[2026.04.14-23.51.30:222][109]LogStaticMesh: Display: Building static mesh SM_HospitalLamps_01_A01 (Required Memory Estimate: 2.790104 MB)...
+[2026.04.14-23.51.30:223][109]LogStaticMesh: Built static mesh [0.02s] /Game/HospitalCorridor/Meshes/Objects/SM_UtilityElectronics_01_P.SM_UtilityElectronics_01_P
+[2026.04.14-23.51.30:224][109]LogStaticMesh: Display: Building static mesh SM_HospitalLamps_01_A03 (Required Memory Estimate: 2.201365 MB)...
+[2026.04.14-23.51.30:226][109]LogChaosDD: Creating Chaos Debug Draw Scene for world Environment_Corridor
+[2026.04.14-23.51.30:229][109]LogStaticMesh: Built static mesh [0.03s] /Game/HospitalCorridor/Meshes/Objects/SM_UtilityElectronics_01_R.SM_UtilityElectronics_01_R
+[2026.04.14-23.51.30:229][109]LogStaticMesh: Built static mesh [0.01s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalLamps_01_E.SM_HospitalLamps_01_E
+[2026.04.14-23.51.30:230][109]LogStaticMesh: Display: Building static mesh SM_HospitalLamps_01_B01 (Required Memory Estimate: 2.451398 MB)...
+[2026.04.14-23.51.30:231][109]LogStaticMesh: Display: Building static mesh SM_HospitalLamps_01_B02 (Required Memory Estimate: 0.062545 MB)...
+[2026.04.14-23.51.30:234][109]LogStaticMesh: Built static mesh [0.00s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalLamps_01_B02.SM_HospitalLamps_01_B02
+[2026.04.14-23.51.30:235][109]LogStaticMesh: Display: Building static mesh SM_HospitalLamps_01_C01 (Required Memory Estimate: 2.089374 MB)...
+[2026.04.14-23.51.30:235][109]LogStaticMesh: Built static mesh [0.03s] /Game/HospitalCorridor/Meshes/Objects/SM_UtilityElectronics_01_S.SM_UtilityElectronics_01_S
+[2026.04.14-23.51.30:237][109]LogStaticMesh: Display: Building static mesh SM_HospitalLamps_01_C02 (Required Memory Estimate: 0.089702 MB)...
+[2026.04.14-23.51.30:243][109]LogStaticMesh: Built static mesh [0.01s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalLamps_01_C02.SM_HospitalLamps_01_C02
+[2026.04.14-23.51.30:246][109]LogStaticMesh: Built static mesh [0.03s] /Game/HospitalCorridor/Meshes/Trims/SM_UtilityElectronics_01_Trim_A.SM_UtilityElectronics_01_Trim_A
+[2026.04.14-23.51.30:246][109]LogStaticMesh: Display: Building static mesh SM_HospitalLamps_01_D01 (Required Memory Estimate: 3.078195 MB)...
+[2026.04.14-23.51.30:247][109]LogStaticMesh: Display: Building static mesh SM_HospitalLamps_01_D02 (Required Memory Estimate: 0.294206 MB)...
+[2026.04.14-23.51.30:249][109]LogAssetEditorSubsystem: Opening Asset editor for World /Game/HospitalCorridor/Maps/Environment_Corridor.Environment_Corridor
+[2026.04.14-23.51.30:249][109]Cmd: MAP LOAD FILE="../../../../Users/kenbs/Downloads/ClassProject/PlantHorrorGame/GroupProject/Content/HospitalCorridor/Maps/Environment_Corridor.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.04.14-23.51.30:273][109]LogStaticMesh: Built static mesh [0.13s] /Game/HospitalCorridor/Meshes/Objects/SM_UtilityElectronics_01_I.SM_UtilityElectronics_01_I
+[2026.04.14-23.51.30:275][109]LogStaticMesh: Built static mesh [0.24s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalDoor_01_Frame.SM_HospitalDoor_01_Frame
+[2026.04.14-23.51.30:275][109]LogStaticMesh: Display: Building static mesh SM_GlassLamps_01_A (Required Memory Estimate: 0.887223 MB)...
+[2026.04.14-23.51.30:277][109]LogStaticMesh: Built static mesh [0.07s] /Game/HospitalCorridor/Meshes/Objects/SM_UtilityElectronics_01_T.SM_UtilityElectronics_01_T
+[2026.04.14-23.51.30:278][109]LogWorld: UWorld::CleanupWorld for Testplace, bSessionEnded=true, bCleanupResources=true
+[2026.04.14-23.51.30:278][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.14-23.51.30:278][109]LogStaticMesh: Display: Building static mesh SM_GlassLamps_01_B (Required Memory Estimate: 1.291832 MB)...
+[2026.04.14-23.51.30:284][109]LogStaticMesh: Built static mesh [0.15s] /Game/HospitalCorridor/Meshes/Objects/SM_Registry_01.SM_Registry_01
+[2026.04.14-23.51.30:286][109]LogStaticMesh: Display: Building static mesh SM_HospitalCorridor_01 (Required Memory Estimate: 8.40128 MB)...
+[2026.04.14-23.51.30:287][109]LogStaticMesh: Built static mesh [0.04s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalLamps_01_D02.SM_HospitalLamps_01_D02
+[2026.04.14-23.51.30:288][109]LogStaticMesh: Display: Building static mesh SM_HospitalCorridor_01_Background (Required Memory Estimate: 1.242652 MB)...
+[2026.04.14-23.51.30:289][109]LogStaticMesh: Display: Building static mesh SM_linoleumPatches (Required Memory Estimate: 4.467385 MB)...
+[2026.04.14-23.51.30:304][109]LogStaticMesh: Built static mesh [0.02s] /Game/HospitalCorridor/Meshes/Environment/SM_HospitalCorridor_01_Background.SM_HospitalCorridor_01_Background
+[2026.04.14-23.51.30:308][109]LogStaticMesh: Built static mesh [0.16s] /Game/HospitalCorridor/Meshes/Objects/SM_UtilityElectronics_01_H.SM_UtilityElectronics_01_H
+[2026.04.14-23.51.30:309][109]LogStaticMesh: Display: Building static mesh SM_InformationStand_01 (Required Memory Estimate: 0.071537 MB)...
+[2026.04.14-23.51.30:310][109]LogStaticMesh: Display: Building static mesh SM_GlassWalll_01 (Required Memory Estimate: 3.838065 MB)...
+[2026.04.14-23.51.30:313][109]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.14-23.51.30:314][109]LogStaticMesh: Built static mesh [0.00s] /Game/HospitalCorridor/Meshes/Objects/SM_InformationStand_01.SM_InformationStand_01
+[2026.04.14-23.51.30:314][109]LogStaticMesh: Display: Building static mesh SM_FireExtinguisher_01 (Required Memory Estimate: 1.685072 MB)...
+[2026.04.14-23.51.30:316][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.04.14-23.51.30:318][109]LogStaticMesh: Display: Building static mesh SM_Radiator_03 (Required Memory Estimate: 16.212534 MB)...
+[2026.04.14-23.51.30:318][109]LogStaticMesh: Display: Building static mesh SM_HospitalPosters_01_E (Required Memory Estimate: 0.011429 MB)...
+[2026.04.14-23.51.30:320][109]LogStaticMesh: Built static mesh [0.00s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_01_E.SM_HospitalPosters_01_E
+[2026.04.14-23.51.30:322][109]LogStaticMesh: Display: Building static mesh SM_HospitalPosters_01_B (Required Memory Estimate: 0.011429 MB)...
+[2026.04.14-23.51.30:323][109]LogStaticMesh: Built static mesh [0.00s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_01_B.SM_HospitalPosters_01_B
+[2026.04.14-23.51.30:325][109]LogStaticMesh: Display: Building static mesh SM_HospitalPosters_01_K (Required Memory Estimate: 0.011429 MB)...
+[2026.04.14-23.51.30:326][109]LogStaticMesh: Built static mesh [0.19s] /Game/HospitalCorridor/Meshes/Objects/SM_UtilityElectronics_01_F.SM_UtilityElectronics_01_F
+[2026.04.14-23.51.30:327][109]LogStaticMesh: Built static mesh [0.00s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_01_K.SM_HospitalPosters_01_K
+[2026.04.14-23.51.30:327][109]LogStaticMesh: Display: Building static mesh SM_HospitalPosters_02_L (Required Memory Estimate: 0.011429 MB)...
+[2026.04.14-23.51.30:329][109]LogStaticMesh: Built static mesh [0.00s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_02_L.SM_HospitalPosters_02_L
+[2026.04.14-23.51.30:329][109]LogStaticMesh: Display: Building static mesh SM_HospitalPosters_01_O (Required Memory Estimate: 0.011429 MB)...
+[2026.04.14-23.51.30:330][109]LogStaticMesh: Display: Building static mesh SM_HospitalPosters_01_P (Required Memory Estimate: 0.011429 MB)...
+[2026.04.14-23.51.30:331][109]LogStaticMesh: Built static mesh [0.00s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_01_O.SM_HospitalPosters_01_O
+[2026.04.14-23.51.30:332][109]LogStaticMesh: Built static mesh [0.00s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_01_P.SM_HospitalPosters_01_P
+[2026.04.14-23.51.30:332][109]LogStaticMesh: Display: Building static mesh SM_HospitalPosters_02_I (Required Memory Estimate: 0.011429 MB)...
+[2026.04.14-23.51.30:333][109]LogStaticMesh: Display: Building static mesh SM_HospitalPosters_02_M (Required Memory Estimate: 0.011429 MB)...
+[2026.04.14-23.51.30:334][109]LogStaticMesh: Built static mesh [0.00s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_02_I.SM_HospitalPosters_02_I
+[2026.04.14-23.51.30:335][109]LogStaticMesh: Display: Waiting for static meshes to be ready 27/78 (/Game/HospitalCorridor/Meshes/Objects/SM_UtilityElectronics_01_G) ...
+[2026.04.14-23.51.30:335][109]LogStaticMesh: Display: Building static mesh SM_HospitalPosters_01_N (Required Memory Estimate: 0.011429 MB)...
+[2026.04.14-23.51.30:335][109]LogStaticMesh: Built static mesh [0.00s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_02_M.SM_HospitalPosters_02_M
+[2026.04.14-23.51.30:336][109]LogStaticMesh: Display: Building static mesh SM_HospitalPosters_01_I (Required Memory Estimate: 0.011429 MB)...
+[2026.04.14-23.51.30:337][109]LogStaticMesh: Built static mesh [0.00s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_01_N.SM_HospitalPosters_01_N
+[2026.04.14-23.51.30:338][109]LogStaticMesh: Built static mesh [0.00s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_01_I.SM_HospitalPosters_01_I
+[2026.04.14-23.51.30:338][109]LogStaticMesh: Display: Building static mesh SM_HospitalPosters_01_H (Required Memory Estimate: 0.011429 MB)...
+[2026.04.14-23.51.30:339][109]LogStaticMesh: Display: Building static mesh SM_HospitalPosters_01_D (Required Memory Estimate: 0.011429 MB)...
+[2026.04.14-23.51.30:340][109]LogStaticMesh: Built static mesh [0.00s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_01_H.SM_HospitalPosters_01_H
+[2026.04.14-23.51.30:341][109]LogStaticMesh: Built static mesh [0.00s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_01_D.SM_HospitalPosters_01_D
+[2026.04.14-23.51.30:341][109]LogStaticMesh: Display: Building static mesh SM_HospitalPosters_01_L (Required Memory Estimate: 0.011429 MB)...
+[2026.04.14-23.51.30:342][109]LogStaticMesh: Display: Building static mesh SM_HospitalPosters_02_N (Required Memory Estimate: 0.011429 MB)...
+[2026.04.14-23.51.30:343][109]LogStaticMesh: Built static mesh [0.00s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_01_L.SM_HospitalPosters_01_L
+[2026.04.14-23.51.30:343][109]LogStaticMesh: Built static mesh [0.00s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_02_N.SM_HospitalPosters_02_N
+[2026.04.14-23.51.30:343][109]LogStaticMesh: Display: Building static mesh SM_HospitalPosters_02_A (Required Memory Estimate: 0.011429 MB)...
+[2026.04.14-23.51.30:345][109]LogStaticMesh: Display: Building static mesh SM_HospitalPosters_02_B (Required Memory Estimate: 0.011429 MB)...
+[2026.04.14-23.51.30:346][109]LogStaticMesh: Built static mesh [0.00s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_02_A.SM_HospitalPosters_02_A
+[2026.04.14-23.51.30:347][109]LogStaticMesh: Built static mesh [0.00s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_02_B.SM_HospitalPosters_02_B
+[2026.04.14-23.51.30:347][109]LogStaticMesh: Display: Building static mesh SM_HospitalPosters_02_C (Required Memory Estimate: 0.011429 MB)...
+[2026.04.14-23.51.30:348][109]LogStaticMesh: Display: Building static mesh SM_HospitalPosters_02_K (Required Memory Estimate: 0.011429 MB)...
+[2026.04.14-23.51.30:349][109]LogStaticMesh: Built static mesh [0.00s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_02_C.SM_HospitalPosters_02_C
+[2026.04.14-23.51.30:350][109]LogStaticMesh: Built static mesh [0.00s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_02_K.SM_HospitalPosters_02_K
+[2026.04.14-23.51.30:351][109]LogStaticMesh: Display: Building static mesh SM_HospitalPosters_02_P (Required Memory Estimate: 0.011429 MB)...
+[2026.04.14-23.51.30:352][109]LogStaticMesh: Display: Building static mesh SM_HospitalPosters_02_H (Required Memory Estimate: 0.011429 MB)...
+[2026.04.14-23.51.30:352][109]LogStaticMesh: Built static mesh [0.00s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_02_P.SM_HospitalPosters_02_P
+[2026.04.14-23.51.30:353][109]LogStaticMesh: Built static mesh [0.00s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_02_H.SM_HospitalPosters_02_H
+[2026.04.14-23.51.30:354][109]LogStaticMesh: Display: Building static mesh SM_HospitalPosters_02_D (Required Memory Estimate: 0.011429 MB)...
+[2026.04.14-23.51.30:355][109]LogStaticMesh: Display: Building static mesh SM_HospitalPosters_02_E (Required Memory Estimate: 0.011429 MB)...
+[2026.04.14-23.51.30:355][109]LogStaticMesh: Built static mesh [0.00s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_02_D.SM_HospitalPosters_02_D
+[2026.04.14-23.51.30:356][109]LogStaticMesh: Built static mesh [0.00s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_02_E.SM_HospitalPosters_02_E
+[2026.04.14-23.51.30:356][109]LogStaticMesh: Display: Building static mesh SM_HospitalPosters_02_F (Required Memory Estimate: 0.011429 MB)...
+[2026.04.14-23.51.30:357][109]LogStaticMesh: Display: Building static mesh SM_HospitalPosters_02_G (Required Memory Estimate: 0.011429 MB)...
+[2026.04.14-23.51.30:358][109]LogStaticMesh: Built static mesh [0.00s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_02_F.SM_HospitalPosters_02_F
+[2026.04.14-23.51.30:359][109]LogStaticMesh: Built static mesh [0.00s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_02_G.SM_HospitalPosters_02_G
+[2026.04.14-23.51.30:359][109]LogStaticMesh: Display: Building static mesh SM_HospitalPosters_01_C (Required Memory Estimate: 0.011429 MB)...
+[2026.04.14-23.51.30:359][109]LogStaticMesh: Built static mesh [0.07s] /Game/HospitalCorridor/Meshes/Environment/SM_HospitalCorridor_01.SM_HospitalCorridor_01
+[2026.04.14-23.51.30:360][109]LogStaticMesh: Display: Building static mesh SM_HospitalPosters_01_A (Required Memory Estimate: 0.011429 MB)...
+[2026.04.14-23.51.30:362][109]LogStaticMesh: Built static mesh [0.00s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_01_C.SM_HospitalPosters_01_C
+[2026.04.14-23.51.30:362][109]LogStaticMesh: Built static mesh [0.00s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_01_A.SM_HospitalPosters_01_A
+[2026.04.14-23.51.30:363][109]LogStaticMesh: Built static mesh [0.09s] /Game/HospitalCorridor/Meshes/Objects/SM_GlassLamps_01_A.SM_GlassLamps_01_A
+[2026.04.14-23.51.30:363][109]LogStaticMesh: Display: Building static mesh SM_HospitalConers (Required Memory Estimate: 8.893321 MB)...
+[2026.04.14-23.51.30:364][109]LogStaticMesh: Display: Building static mesh SM_HospitalDoor_04_Glass (Required Memory Estimate: 0.015014 MB)...
+[2026.04.14-23.51.30:365][109]LogStaticMesh: Display: Building static mesh SM_HospitalDoor_04_Frame_Glass (Required Memory Estimate: 0.051156 MB)...
+[2026.04.14-23.51.30:366][109]LogStaticMesh: Built static mesh [0.00s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalDoor_04_Glass.SM_HospitalDoor_04_Glass
+[2026.04.14-23.51.30:367][109]LogStaticMesh: Display: Building static mesh SM_HospitalDoor_03_Frame (Required Memory Estimate: 1.96857 MB)...
+[2026.04.14-23.51.30:371][109]LogStaticMesh: Built static mesh [0.01s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalDoor_04_Frame_Glass.SM_HospitalDoor_04_Frame_Glass
+[2026.04.14-23.51.30:373][109]LogStaticMesh: Display: Building static mesh SM_HospitalDoor_03_A (Required Memory Estimate: 0.672112 MB)...
+[2026.04.14-23.51.30:373][109]LogStaticMesh: Display: Building static mesh SM_HospitalDoor_03_B (Required Memory Estimate: 0.987479 MB)...
+[2026.04.14-23.51.30:381][109]LogStaticMesh: Built static mesh [0.24s] /Game/HospitalCorridor/Meshes/Objects/SM_UtilityElectronics_01_G.SM_UtilityElectronics_01_G
+[2026.04.14-23.51.30:386][109]LogStaticMesh: Display: Building static mesh SM_HospitalDoor_02_Frame (Required Memory Estimate: 1.114058 MB)...
+[2026.04.14-23.51.30:402][109]LogStaticMesh: Display: Waiting for static meshes to be ready 59/78 (/Game/HospitalCorridor/Meshes/Trims/SM_GlassWalll_01) ...
+[2026.04.14-23.51.30:402][109]LogStaticMesh: Built static mesh [0.17s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalLamps_01_C01.SM_HospitalLamps_01_C01
+[2026.04.14-23.51.30:409][109]LogStaticMesh: Built static mesh [0.19s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalLamps_01_A03.SM_HospitalLamps_01_A03
+[2026.04.14-23.51.30:409][109]LogStaticMesh: Display: Building static mesh SM_HospitalDoor_02 (Required Memory Estimate: 2.889325 MB)...
+[2026.04.14-23.51.30:415][109]LogStaticMesh: Display: Building static mesh SM_FireExtinguisher_01_Stand (Required Memory Estimate: 1.801757 MB)...
+[2026.04.14-23.51.30:423][109]LogStaticMesh: Built static mesh [0.19s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalLamps_01_B01.SM_HospitalLamps_01_B01
+[2026.04.14-23.51.30:431][109]LogStaticMesh: Built static mesh [0.06s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalDoor_03_A.SM_HospitalDoor_03_A
+[2026.04.14-23.51.30:441][109]LogStaticMesh: Built static mesh [0.16s] /Game/HospitalCorridor/Meshes/Objects/SM_GlassLamps_01_B.SM_GlassLamps_01_B
+[2026.04.14-23.51.30:452][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Decals/T_DecalDamage_01_A.T_DecalDamage_01_A (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 85.541647 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.30:481][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Decals/T_DecalDamage_01_N.T_DecalDamage_01_N (TFO_BC5, 1024x512 x1x1x1) (Required Memory Estimate: 152.749975 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.30:491][109]LogStaticMesh: Built static mesh [0.27s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalLamps_01_A01.SM_HospitalLamps_01_A01
+[2026.04.14-23.51.30:502][109]LogStaticMesh: Built static mesh [0.19s] /Game/HospitalCorridor/Meshes/Objects/SM_FireExtinguisher_01.SM_FireExtinguisher_01
+[2026.04.14-23.51.30:507][109]LogStaticMesh: Built static mesh [0.47s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalDoor_04_Frame.SM_HospitalDoor_04_Frame
+[2026.04.14-23.51.30:507][109]LogStaticMesh: Built static mesh [0.13s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalDoor_03_B.SM_HospitalDoor_03_B
+[2026.04.14-23.51.30:520][109]LogStaticMesh: Built static mesh [0.14s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalDoor_02_Frame.SM_HospitalDoor_02_Frame
+[2026.04.14-23.51.30:520][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Decals/T_DecalCrack_01_A.T_DecalCrack_01_A (TFO_AutoDXT, 512x2048 x1x1x1) (Required Memory Estimate: 170.083323 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.30:522][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Decals/T_DecalCrack_01_N.T_DecalCrack_01_N (TFO_BC5, 512x2048 x1x1x1) (Required Memory Estimate: 85.499988 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.30:542][109]LogStaticMesh: Built static mesh [0.30s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalLamps_01_D01.SM_HospitalLamps_01_D01
+[2026.04.14-23.51.30:571][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Environment/T_PeelingMask_01_H.T_PeelingMask_01_H (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 339.083323 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.30:573][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Objects/T_GlassLamps_01_A.T_GlassLamps_01_A (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 170.083323 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.30:575][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Objects/T_GlassLamps_01_N.T_GlassLamps_01_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 304.499988 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.30:616][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Objects/T_GlassLamps_01_RGB.T_GlassLamps_01_RGB (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 170.083323 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.30:646][109]LogStaticMesh: Built static mesh [0.28s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalDoor_03_Frame.SM_HospitalDoor_03_Frame
+[2026.04.14-23.51.30:653][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Objects/T_HospitalLamps_01_A_Skin.T_HospitalLamps_01_A_Skin (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 170.083323 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.30:653][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Objects/T_HospitalLamps_01_N.T_HospitalLamps_01_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 304.499988 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.30:684][109]LogStaticMesh: Built static mesh [0.27s] /Game/HospitalCorridor/Meshes/Objects/SM_FireExtinguisher_01_Stand.SM_FireExtinguisher_01_Stand
+[2026.04.14-23.51.30:692][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Environment/T_linoleum_02_A.T_linoleum_02_A (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.30:713][109]LogStaticMesh: Built static mesh [0.30s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalDoor_02.SM_HospitalDoor_02
+[2026.04.14-23.51.30:744][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Objects/T_HospitalLamps_01_RGB.T_HospitalLamps_01_RGB (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 170.083323 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.30:757][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Objects/T_HospitalLamps_01_A.T_HospitalLamps_01_A (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 170.083323 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.30:817][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Environment/T_linoleum_04_A.T_linoleum_04_A (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 170.083323 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.30:827][109]LogStaticMesh: Built static mesh [0.54s] /Game/HospitalCorridor/Meshes/Environment/SM_linoleumPatches.SM_linoleumPatches
+[2026.04.14-23.51.30:889][109]LogStaticMesh: Built static mesh [0.58s] /Game/HospitalCorridor/Meshes/Trims/SM_GlassWalll_01.SM_GlassWalll_01
+[2026.04.14-23.51.30:905][109]LogStaticMesh: Display: Waiting for static meshes to be ready 75/78 (/Game/HospitalCorridor/Meshes/Objects/SM_Radiator_03) ...
+[2026.04.14-23.51.30:971][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Objects/T_UtilityElectronics_01_N.T_UtilityElectronics_01_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.30:971][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Objects/T_UtilityElectronics_01_A.T_UtilityElectronics_01_A (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.30:975][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Objects/T_UtilityElectronics_01_RGB.T_UtilityElectronics_01_RGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.31:087][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Environment/T_ConcreteRough_01_BC.T_ConcreteRough_01_BC (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.31:088][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Environment/T_ConcreteRough_01_M.T_ConcreteRough_01_M (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.31:100][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Environment/T_ConcreteRough_01_N.T_ConcreteRough_01_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.31:105][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Environment/T_CrackedPlaster_01_N.T_CrackedPlaster_01_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.31:234][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Objects/T_Registry_01_A.T_Registry_01_A (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.31:266][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Objects/T_Registry_01_RGB.T_Registry_01_RGB (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.31:341][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Environment/T_WallPainted_01_M.T_WallPainted_01_M (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.31:347][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Trims/T_TrimCorner_02_M.T_TrimCorner_02_M (TFO_AutoDXT, 1280x1280 x1x1x1) (Required Memory Estimate: 235.895823 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.31:358][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Objects/T_Registry_01_N.T_Registry_01_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1234.499988 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.31:391][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Environment/T_linoleum_01_H.T_linoleum_01_H (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 339.083323 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.31:503][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Environment/T_Stucco_01_A.T_Stucco_01_A (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.31:507][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Trims/T_TrimCorner_0_N.T_TrimCorner_0_N (TFO_BC5, 1280x1280 x1x1x1) (Required Memory Estimate: 425.999988 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.31:548][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Environment/T_WallPainted_01_N.T_WallPainted_01_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.31:726][109]LogStaticMesh: Built static mesh [1.36s] /Game/HospitalCorridor/Meshes/Environment/SM_HospitalConers.SM_HospitalConers
+[2026.04.14-23.51.31:883][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Environment/T_linoleum_03_A.T_linoleum_03_A (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 170.083323 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.31:887][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Environment/T_linoleum_02_H.T_linoleum_02_H (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.31:910][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Environment/T_linoleum_01_M.T_linoleum_01_M (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.31:927][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Environment/T_linoleum_01_N.T_linoleum_01_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.31:975][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Trims/T_TrimsLinoleum_01_RGB.T_TrimsLinoleum_01_RGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.31:995][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Trims/T_TrimsLinoleum_01_N.T_TrimsLinoleum_01_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.32:015][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Trims/T_TrimsLinoleum_01_A.T_TrimsLinoleum_01_A (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.32:043][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Environment/T_LinoleumOld_01_A.T_LinoleumOld_01_A (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.32:068][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Environment/T_linoleum_01_A.T_linoleum_01_A (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.32:146][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Trims/T_TrimModl_01_M.T_TrimModl_01_M (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.32:287][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Objects/T_InformationStand_01_RGB.T_InformationStand_01_RGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.32:301][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Objects/T_HospitalPosters_02_A.T_HospitalPosters_02_A (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.32:302][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Objects/T_InformationStand_01_N.T_InformationStand_01_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.32:303][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Objects/T_InformationStand_01_A.T_InformationStand_01_A (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.32:392][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Environment/T_ConcreteFloor_01_BC.T_ConcreteFloor_01_BC (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.32:411][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Objects/T_HospitalPosters_01_A.T_HospitalPosters_01_A (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.32:467][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Environment/T_ConcreteFloor_01_M.T_ConcreteFloor_01_M (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.32:473][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Trims/T_PaperTile_02_N.T_PaperTile_02_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.32:658][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Glass/T_GlassWall_01_N.T_GlassWall_01_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.32:677][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Glass/T_GlassWall_01_M.T_GlassWall_01_M (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.32:712][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Objects/T_FireExtinguisher_01_N.T_FireExtinguisher_01_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 304.499988 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.32:713][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Objects/T_FireExtinguisher_01_RGB.T_FireExtinguisher_01_RGB (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 170.083323 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.32:715][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Objects/T_FireExtinguisher_01_A.T_FireExtinguisher_01_A (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 170.083323 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.32:772][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Environment/T_ConcreteFloor_01_N.T_ConcreteFloor_01_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.32:991][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Trims/T_PaperTile_01_N.T_PaperTile_01_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1234.499988 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.33:096][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Objects/T_HospitalDoor_02_A.T_HospitalDoor_02_A (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.33:264][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Objects/T_HospitalDoor_02_RGB.T_HospitalDoor_02_RGB (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.33:266][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Objects/T_HospitalDoor_03_A.T_HospitalDoor_03_A (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.33:289][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Objects/T_HospitalDoor_02_N.T_HospitalDoor_02_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1234.499988 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.33:479][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Glass/T_Door_Glass_02_N.T_Door_Glass_02_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 85.499988 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.33:824][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Objects/T_HospitalDoor_03_RGB.T_HospitalDoor_03_RGB (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.33:852][109]LogStaticMesh: Built static mesh [3.53s] /Game/HospitalCorridor/Meshes/Objects/SM_Radiator_03.SM_Radiator_03
+[2026.04.14-23.51.33:882][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Objects/T_HospitalDoor_03_N.T_HospitalDoor_03_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1234.499988 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.33:886][109]LogStaticMesh: Display: Waiting for static meshes to be ready 77/78 (/Game/HospitalCorridor/Meshes/Environment/SM_CablesSet) ...
+[2026.04.14-23.51.33:899][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Trims/T_TrimConcreteCorner_01_M.T_TrimConcreteCorner_01_M (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 367.083323 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.33:913][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Objects/T_Radiator_03_A.T_Radiator_03_A (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.33:922][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Objects/T_Radiator_03_RGB.T_Radiator_03_RGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.33:941][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Trims/T_TrimConcreteConer_01_N.T_TrimConcreteConer_01_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 578.499988 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.34:003][109]LogTexture: Display: Building textures: /Game/HospitalCorridor/Textures/Objects/T_Radiator_03_N.T_Radiator_03_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.04.14-23.51.34:640][109]LogStaticMesh: Built static mesh [4.60s] /Game/HospitalCorridor/Meshes/Environment/SM_CablesSet.SM_CablesSet
+[2026.04.14-23.51.35:766][109]LogMeshUtilities: Finished distance field build in 1.1s - 126x126x91 sparse distance field, 2.1Mb total, 0.0Mb always loaded, 84% occupied, 0 triangles, SM_HospitalCorridor_01_Background
+[2026.04.14-23.51.42:152][109]LogMeshUtilities: Finished distance field build in 6.3s - 259x259x259 sparse distance field, 12.8Mb total, 0.3Mb always loaded, 42% occupied, 0 triangles, SM_Radiator_03
+[2026.04.14-23.51.42:342][109]LogWorld: UWorld::CleanupWorld for Environment_Corridor, bSessionEnded=true, bCleanupResources=true
+[2026.04.14-23.51.42:343][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.14-23.51.42:371][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.04.14-23.51.42:395][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.04.14-23.51.42:419][109]LogAudio: Display: Audio Device (ID: 1) registered with world 'Environment_Corridor'.
+[2026.04.14-23.51.42:419][109]LogChaosDD: Creating Chaos Debug Draw Scene for world Environment_Corridor
+[2026.04.14-23.51.42:775][109]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.04.14-23.51.42:821][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.04.14-23.51.42:822][109]MapCheck: Repaired painted vertex colors in 0.0s for 2 components in /Game/HospitalCorridor/Maps/Environment_Corridor.  Resave map to fix. 
+[2026.04.14-23.51.42:822][109]MapCheck: Warning: Spent 0.0s repairing painted vertex colors due to static mesh re-imports!  This will happen every load until the maps are resaved. 
+[2026.04.14-23.51.42:829][109]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.04.14-23.51.42:829][109]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0.07ms to complete.
+[2026.04.14-23.51.43:131][109]LogContentValidation: Display: Starting to validate 2 assets
+[2026.04.14-23.51.43:131][109]LogContentValidation: Enabled validators:
+[2026.04.14-23.51.43:131][109]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.14-23.51.43:131][109]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.14-23.51.43:131][109]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.14-23.51.43:131][109]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.14-23.51.43:131][109]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.14-23.51.43:131][109]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.14-23.51.43:131][109]AssetCheck: /Game/Blueprints/Dialogue_Interact/BP_NPC Validating asset
+[2026.04.14-23.51.43:131][109]AssetCheck: /Game/ThirdPerson/Blueprints/BP_Sprite Validating asset
+[2026.04.14-23.51.43:298][109]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../Users/kenbs/Downloads/ClassProject/PlantHorrorGame/GroupProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.14-23.51.43:445][110]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 768
+[2026.04.14-23.51.45:585][151]LogPSOHitching: Encountered 50 PSO creation hitches so far (21 graphics, 29 compute). 0 of them were precached.
+[2026.04.14-23.51.49:694][350]LogSlate: Window 'Message Log' being destroyed
+[2026.04.14-23.51.49:718][350]LogSlate: Window 'Message Log' being destroyed
+[2026.04.14-23.51.58:890][888]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.14-23.51.58:896][888]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.14-23.51.58:946][888]LogPlayLevel: Creating play world package: /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor
+[2026.04.14-23.51.58:972][888]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025631s)
+[2026.04.14-23.51.58:972][888]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HospitalCorridor/Maps/Environment_Corridor.Environment_Corridor to /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor (0.025714s)
+[2026.04.14-23.51.58:998][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.04.14-23.51.59:000][888]LogChaosDD: Creating Chaos Debug Draw Scene for world Environment_Corridor
+[2026.04.14-23.51.59:002][888]LogPlayLevel: PIE: World Init took: (0.001629s)
+[2026.04.14-23.51.59:002][888]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2026.04.14-23.51.59:002][888]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.14-23.51.59:002][888]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.14-23.51.59:002][888]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.14-23.51.59:002][888]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.14-23.51.59:002][888]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.14-23.51.59:002][888]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.14-23.51.59:002][888]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.14-23.51.59:002][888]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.14-23.51.59:002][888]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.14-23.51.59:002][888]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.14-23.51.59:002][888]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.14-23.51.59:004][888]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.14-23.51.59:126][888]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.04.14-23.51.59:126][888]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.14-23.51.59:126][888]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.14-23.51.59:126][888]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.14-23.51.59:127][888]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2026.04.14-23.51.59:127][888]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2026.04.14-23.51.59:129][888]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2026.04.14-23.51.59:129][888]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2026.04.14-23.51.59:129][888]LogInit: FAudioDevice initialized with ID 20.
+[2026.04.14-23.51.59:129][888]LogAudio: Display: Audio Device (ID: 20) registered with world 'Environment_Corridor'.
+[2026.04.14-23.51.59:129][888]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2026.04.14-23.51.59:132][888]LogLoad: Game class is 'BP_SpriteGameMode_C'
+[2026.04.14-23.51.59:140][888]LogWorld: Bringing World /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor up for play (max tick rate 60) at 2026.04.14-19.51.59
+[2026.04.14-23.51.59:140][888]LogWorld: Bringing up level for play took: 0.007523
+[2026.04.14-23.51.59:142][888]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2026.04.14-23.51.59:149][888]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.51.59:149][888]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.51.59:150][888]PIE: Server logged in
+[2026.04.14-23.51.59:152][888]PIE: Play in editor total start time 0.255 seconds.
+[2026.04.14-23.51.59:192][889]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 768
+[2026.04.14-23.52.00:644][974]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.00:644][974]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.00:710][978]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.00:710][978]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.00:827][985]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.00:827][985]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.00:844][986]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.00:844][986]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.00:844][986]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.00:844][986]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.00:860][987]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.00:861][987]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.03:194][127]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.03:194][127]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.03:277][132]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.03:277][132]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.03:327][135]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.03:327][135]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.03:344][136]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.03:344][136]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.03:344][136]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.03:344][136]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.03:361][137]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.03:361][137]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.03:776][162]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.03:776][162]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.03:844][166]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.03:844][166]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.03:910][170]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.03:910][170]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.03:961][173]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.03:961][173]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.04:510][206]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.04:511][206]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.04:710][218]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.04:711][218]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.04:711][218]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.04:711][218]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.04:711][218]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.04:711][218]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.04:727][219]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.04:727][219]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.05:977][294]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.05:977][294]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.06:293][313]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.06:293][313]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.06:293][313]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.06:293][313]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.06:310][314]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.06:310][314]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.06:310][314]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.06:310][314]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.06:310][314]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.06:311][314]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.06:311][314]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.06:311][314]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.06:327][315]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.06:327][315]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.06:327][315]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.06:327][315]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.08:444][442]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.08:444][442]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.08:461][443]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.08:461][443]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.08:494][445]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.08:494][445]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.08:511][446]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.08:511][446]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.08:527][447]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.08:527][447]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.08:577][450]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.08:577][450]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.08:610][452]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.08:610][452]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.09:577][510]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.09:577][510]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.09:627][513]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.09:627][513]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.09:677][516]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.09:677][516]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.09:677][516]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.09:677][516]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.09:677][516]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.09:677][516]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.09:694][517]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.09:694][517]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.10:027][537]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.10:027][537]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.10:060][539]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.10:060][539]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.10:094][541]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.10:094][541]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.10:126][543]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.10:126][543]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.11:311][614]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.11:311][614]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.11:311][614]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.11:311][614]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.12:293][673]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.12:293][673]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.12:810][704]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.12:810][704]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.12:943][712]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.12:944][712]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.13:527][747]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.13:527][747]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.13:660][755]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.13:660][755]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.14:944][832]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.14:944][832]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.14:960][833]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.14:960][833]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.14:977][834]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.14:977][834]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.15:010][836]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.15:010][836]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.16:377][918]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.16:377][918]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.17:877][  8]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.17:877][  8]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.17:927][ 11]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.17:927][ 11]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.17:977][ 14]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.17:977][ 14]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.17:977][ 14]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.17:977][ 14]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.17:977][ 14]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.17:977][ 14]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.17:994][ 15]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.52.17:994][ 15]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor.Environment_Corridor:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.52.21:336][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.14-23.52.21:336][214]LogWorld: BeginTearingDown for /Game/HospitalCorridor/Maps/UEDPIE_0_Environment_Corridor
+[2026.04.14-23.52.21:336][214]LogWorld: UWorld::CleanupWorld for Environment_Corridor, bSessionEnded=true, bCleanupResources=true
+[2026.04.14-23.52.21:339][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.14-23.52.21:340][214]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.14-23.52.21:344][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.14-23.52.21:363][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.14-23.52.21:364][214]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2026.04.14-23.52.21:364][214]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=4
+[2026.04.14-23.52.21:367][214]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=2
+[2026.04.14-23.52.21:390][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.04.14-23.52.21:457][216]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2026.04.14-23.52.25:413][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.04.14-23.52.25:414][449]LogStreaming: Display: FlushAsyncLoading(828): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.14-23.52.25:466][449]LogStaticMesh: Display: Building static mesh SM_UtilityElectronics_01_Trim_B (Required Memory Estimate: 0.816587 MB)...
+[2026.04.14-23.52.25:466][449]LogStaticMesh: Display: Building static mesh SM_UtilityElectronics_01_Trim_D (Required Memory Estimate: 0.779898 MB)...
+[2026.04.14-23.52.25:466][449]LogStaticMesh: Display: Building static mesh SM_UtilityElectronics_01_Trim_C (Required Memory Estimate: 0.522936 MB)...
+[2026.04.14-23.52.25:466][449]LogStaticMesh: Display: Building static mesh SM_UtilityElectronics_01_Trim_E (Required Memory Estimate: 0.908419 MB)...
+[2026.04.14-23.52.25:466][449]LogStaticMesh: Display: Building static mesh SM_HospitalLamps_01_A02 (Required Memory Estimate: 0.737006 MB)...
+[2026.04.14-23.52.25:466][449]LogStaticMesh: Display: Building static mesh SM_UtilityElectronics_01_K (Required Memory Estimate: 0.373099 MB)...
+[2026.04.14-23.52.25:469][449]LogChaosDD: Creating Chaos Debug Draw Scene for world Overview
+[2026.04.14-23.52.25:483][449]LogAssetEditorSubsystem: Opening Asset editor for World /Game/HospitalCorridor/Maps/Overview.Overview
+[2026.04.14-23.52.25:483][449]Cmd: MAP LOAD FILE="../../../../Users/kenbs/Downloads/ClassProject/PlantHorrorGame/GroupProject/Content/HospitalCorridor/Maps/Overview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.04.14-23.52.25:525][449]LogStaticMesh: Built static mesh [0.06s] /Game/HospitalCorridor/Meshes/Objects/SM_UtilityElectronics_01_K.SM_UtilityElectronics_01_K
+[2026.04.14-23.52.25:529][449]LogWorld: UWorld::CleanupWorld for Environment_Corridor, bSessionEnded=true, bCleanupResources=true
+[2026.04.14-23.52.25:529][449]LogStaticMesh: Built static mesh [0.06s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalLamps_01_A02.SM_HospitalLamps_01_A02
+[2026.04.14-23.52.25:529][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.14-23.52.25:531][449]LogStaticMesh: Built static mesh [0.07s] /Game/HospitalCorridor/Meshes/Trims/SM_UtilityElectronics_01_Trim_C.SM_UtilityElectronics_01_Trim_C
+[2026.04.14-23.52.25:539][449]LogTexture: Display: Building textures: /Game/HospitalCorridor/Maps/Overview_BuiltData.Overview_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1174.333316 MB), EncodeSpeed: Fast
+[2026.04.14-23.52.25:548][449]LogStaticMesh: Built static mesh [0.08s] /Game/HospitalCorridor/Meshes/Trims/SM_UtilityElectronics_01_Trim_D.SM_UtilityElectronics_01_Trim_D
+[2026.04.14-23.52.25:550][449]LogTexture: Display: Building textures: /Game/HospitalCorridor/Maps/Overview_BuiltData.Overview_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 4096x4096 x1x1x1) (Required Memory Estimate: 1142.333315 MB), EncodeSpeed: Fast
+[2026.04.14-23.52.25:563][449]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.14-23.52.25:564][449]LogStaticMesh: Built static mesh [0.10s] /Game/HospitalCorridor/Meshes/Trims/SM_UtilityElectronics_01_Trim_B.SM_UtilityElectronics_01_Trim_B
+[2026.04.14-23.52.25:569][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2026.04.14-23.52.25:594][449]LogStaticMesh: Built static mesh [0.13s] /Game/HospitalCorridor/Meshes/Trims/SM_UtilityElectronics_01_Trim_E.SM_UtilityElectronics_01_Trim_E
+[2026.04.14-23.52.25:704][449]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2026.04.14-23.52.25:704][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.14-23.52.25:731][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.04.14-23.52.25:759][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.04.14-23.52.25:767][449]LogAudio: Display: Audio Device (ID: 1) registered with world 'Overview'.
+[2026.04.14-23.52.25:767][449]LogChaosDD: Creating Chaos Debug Draw Scene for world Overview
+[2026.04.14-23.52.25:883][449]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.04.14-23.52.25:909][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.04.14-23.52.25:916][449]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.04.14-23.52.25:916][449]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.057ms to complete.
+[2026.04.14-23.52.25:983][449]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.14-23.52.29:401][450]LogD3D12RHI: Creating RTPSO with 37 shaders (0 cached, 37 new) took 3418.70 ms. Compile time 905.91 ms, link time 2512.76 ms.
+[2026.04.14-23.52.29:494][451]LogSlate: Took 0.000903 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.04.14-23.52.29:648][452]LogRenderer: Using fallback RTPSO
+[2026.04.14-23.52.30:457][489]LogRenderer: Using fallback RTPSO
+[2026.04.14-23.52.30:542][490]LogD3D12RHI: Creating RTPSO with 34 shaders (0 cached, 1 new) took 85.28 ms. Compile time 83.59 ms, link time 1.67 ms.
+[2026.04.14-23.52.38:233][912]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.04.14-23.52.38:273][913]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.04.14-23.52.39:158][966]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.04.14-23.52.39:193][967]LogRenderer: Using fallback RTPSO
+[2026.04.14-23.52.39:211][968]LogRenderer: Using fallback RTPSO
+[2026.04.14-23.52.39:216][968]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.04.14-23.52.39:234][969]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.04.14-23.52.39:257][970]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.04.14-23.52.39:310][973]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.04.14-23.52.39:353][974]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2026.04.14-23.52.39:375][975]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.04.14-23.52.40:342][ 30]LogRenderer: Using fallback RTPSO
+[2026.04.14-23.52.40:354][ 31]LogRenderer: Using fallback RTPSO
+[2026.04.14-23.52.46:367][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.04.14-23.52.46:369][382]LogStreaming: Display: FlushAsyncLoading(830): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.14-23.52.46:457][382]LogChaosDD: Creating Chaos Debug Draw Scene for world Testplace
+[2026.04.14-23.52.46:519][382]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Testplace/Testplace.Testplace
+[2026.04.14-23.52.46:519][382]Cmd: MAP LOAD FILE="../../../../Users/kenbs/Downloads/ClassProject/PlantHorrorGame/GroupProject/Content/Levels/Testplace/Testplace.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.04.14-23.52.46:544][382]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2026.04.14-23.52.46:545][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.14-23.52.46:576][382]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.14-23.52.46:578][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.04.14-23.52.46:581][382]LogWorld: UWorld::CleanupWorld for Testplace, bSessionEnded=true, bCleanupResources=true
+[2026.04.14-23.52.46:581][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.14-23.52.46:621][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.04.14-23.52.46:643][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.04.14-23.52.46:705][382]LogAudio: Display: Audio Device (ID: 1) registered with world 'Testplace'.
+[2026.04.14-23.52.46:705][382]LogChaosDD: Creating Chaos Debug Draw Scene for world Testplace
+[2026.04.14-23.52.46:731][382]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.04.14-23.52.46:775][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.04.14-23.52.46:785][382]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.04.14-23.52.46:785][382]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.062ms to complete.
+[2026.04.14-23.52.46:913][383]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display: ================================================
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display: Total job queries 686, among them cache hits 106 (15.45%), DDC hits 403 (58.75%), Duplicates 67 (9.77%)
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display: Tracking 513 distinct input hashes that result in 367 distinct outputs (71.54%)
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display: RAM used: 4.36 MiB of 1.60 GiB budget. Usage: 0.27%
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display: Shaders Compiled: 110
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display: Jobs assigned 110, completed 110 (100%)
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display: Average time worker was idle: 2.49 s
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display: Time job spent in pending queue: average 2.15 s, longest 4.85 s
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display: Job execution time: average 0.85 s, max 2.03 s
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display: Job life time (pending + execution): average 3.01 s, max 5.90
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display: Shader code size: total 0.988 MiB, numShaders 115, average 8.802 KiB, min 2.637 KiB, max 31.211 KiB
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.35 s
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.06%
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display: Jobs were issued in 110 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display: Average processing rate: 10.63 jobs/sec
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display: Total thread time: 73.153 s
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display: Total thread preprocess time: 10.882 s
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display: Percentage time preprocessing: 14.88%
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display: Effective parallelization: 7.07 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.441671
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    6 times, average 1.74 sec, max 1.94 sec, min 0.90 sec)
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    9 times, average 1.44 sec, max 1.54 sec, min 1.39 sec)
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    3 times, average 1.09 sec, max 1.12 sec, min 1.07 sec)
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    3 times, average 0.78 sec, max 0.92 sec, min 0.54 sec)
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 0.78 sec, max 1.01 sec, min 0.56 sec)
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 17.76% of total time (compiled    9 times, average 1.44 sec, max 1.54 sec, min 1.39 sec)
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 14.31% of total time (compiled    6 times, average 1.74 sec, max 1.94 sec, min 0.90 sec)
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.39% of total time (compiled   14 times, average 0.65 sec, max 0.79 sec, min 0.42 sec)
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display:                                                 FLumenCardPS - 7.97% of total time (compiled   13 times, average 0.45 sec, max 0.50 sec, min 0.40 sec)
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.36% of total time (compiled   13 times, average 0.41 sec, max 0.47 sec, min 0.27 sec)
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display: === Material stats ===
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display: Materials Translated:    172
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display: Material Translation Only: 0.05 s (35%)
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display: Material Cache Hits: 21 (12%)
+[2026.04.14-23.53.05:168][473]LogShaderCompilers: Display: ================================================
+[2026.04.14-23.53.32:103][ 38]LogActorFactory: Actor Factory attempting to spawn PaperSprite /Game/Characters/Scientist_Spritte_Sprite_4.Scientist_Spritte_Sprite_4
+[2026.04.14-23.53.32:103][ 38]LogActorFactory: Actor Factory attempting to spawn PaperSprite /Game/Characters/Scientist_Spritte_Sprite_4.Scientist_Spritte_Sprite_4
+[2026.04.14-23.53.32:105][ 38]LogActorFactory: Actor Factory spawned PaperSprite /Game/Characters/Scientist_Spritte_Sprite_4.Scientist_Spritte_Sprite_4 as actor: PaperSpriteActor /Game/Levels/Testplace/Testplace.Testplace:PersistentLevel.PaperSpriteActor_0
+[2026.04.14-23.53.32:105][ 38]LogActorFactory: Actor Factory spawned PaperSprite /Game/Characters/Scientist_Spritte_Sprite_4.Scientist_Spritte_Sprite_4 as actor: PaperSpriteActor /Game/Levels/Testplace/Testplace.Testplace:PersistentLevel.PaperSpriteActor_0
+[2026.04.14-23.53.32:108][ 38]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.04.14-23.53.32:755][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.04.14-23.53.32:758][ 75]LogEditorActor: Deleted 0 Actors (0.032 secs)
+[2026.04.14-23.53.32:765][ 75]LogActorFactory: Actor Factory attempting to spawn PaperSprite /Game/Characters/Scientist_Spritte_Sprite_4.Scientist_Spritte_Sprite_4
+[2026.04.14-23.53.32:765][ 75]LogActorFactory: Actor Factory attempting to spawn PaperSprite /Game/Characters/Scientist_Spritte_Sprite_4.Scientist_Spritte_Sprite_4
+[2026.04.14-23.53.32:767][ 75]LogActorFactory: Actor Factory spawned PaperSprite /Game/Characters/Scientist_Spritte_Sprite_4.Scientist_Spritte_Sprite_4 as actor: PaperSpriteActor /Game/Levels/Testplace/Testplace.Testplace:PersistentLevel.PaperSpriteActor_1
+[2026.04.14-23.53.32:767][ 75]LogActorFactory: Actor Factory spawned PaperSprite /Game/Characters/Scientist_Spritte_Sprite_4.Scientist_Spritte_Sprite_4 as actor: PaperSpriteActor /Game/Levels/Testplace/Testplace.Testplace:PersistentLevel.PaperSpriteActor_1
+[2026.04.14-23.54.27:242][289]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.14-23.54.27:251][289]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.14-23.54.27:276][289]LogPlayLevel: Creating play world package: /Game/Levels/Testplace/UEDPIE_0_Testplace
+[2026.04.14-23.54.27:288][289]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011805s)
+[2026.04.14-23.54.27:288][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testplace/Testplace.Testplace to /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace (0.011859s)
+[2026.04.14-23.54.27:313][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.04.14-23.54.27:314][289]LogChaosDD: Creating Chaos Debug Draw Scene for world Testplace
+[2026.04.14-23.54.27:316][289]LogPlayLevel: PIE: World Init took: (0.001588s)
+[2026.04.14-23.54.27:316][289]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2026.04.14-23.54.27:316][289]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.14-23.54.27:316][289]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.14-23.54.27:316][289]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.14-23.54.27:316][289]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.14-23.54.27:316][289]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.14-23.54.27:317][289]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.14-23.54.27:317][289]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.14-23.54.27:317][289]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.14-23.54.27:317][289]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.14-23.54.27:317][289]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.14-23.54.27:317][289]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.14-23.54.27:319][289]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.14-23.54.27:429][289]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.04.14-23.54.27:429][289]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.14-23.54.27:429][289]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.14-23.54.27:429][289]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.14-23.54.27:430][289]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2026.04.14-23.54.27:430][289]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2026.04.14-23.54.27:432][289]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2026.04.14-23.54.27:432][289]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2026.04.14-23.54.27:432][289]LogInit: FAudioDevice initialized with ID 21.
+[2026.04.14-23.54.27:432][289]LogAudio: Display: Audio Device (ID: 21) registered with world 'Testplace'.
+[2026.04.14-23.54.27:432][289]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2026.04.14-23.54.27:436][289]LogLoad: Game class is 'BP_SpriteGameMode_C'
+[2026.04.14-23.54.27:438][289]LogWorld: Bringing World /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace up for play (max tick rate 60) at 2026.04.14-19.54.27
+[2026.04.14-23.54.27:439][289]LogWorld: Bringing up level for play took: 0.002336
+[2026.04.14-23.54.27:440][289]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2026.04.14-23.54.27:442][289]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.54.27:442][289]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.54.27:443][289]PIE: Server logged in
+[2026.04.14-23.54.27:445][289]PIE: Play in editor total start time 0.194 seconds.
+[2026.04.14-23.54.27:490][290]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.14-23.54.28:877][372]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.54.28:877][372]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.54.33:216][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.14-23.54.33:217][630]LogWorld: BeginTearingDown for /Game/Levels/Testplace/UEDPIE_0_Testplace
+[2026.04.14-23.54.33:217][630]LogWorld: UWorld::CleanupWorld for Testplace, bSessionEnded=true, bCleanupResources=true
+[2026.04.14-23.54.33:217][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.14-23.54.33:220][630]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.14-23.54.33:223][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.14-23.54.33:239][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.14-23.54.33:239][630]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2026.04.14-23.54.33:239][630]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=4
+[2026.04.14-23.54.33:241][630]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=2
+[2026.04.14-23.54.33:247][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.04.14-23.54.33:304][631]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2026.04.14-23.54.55:638][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.04.14-23.54.59:325][152]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.14-23.54.59:333][152]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.14-23.54.59:333][152]LogPlayLevel: Creating play world package: /Game/Levels/Testplace/UEDPIE_0_Testplace
+[2026.04.14-23.54.59:343][152]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009897s)
+[2026.04.14-23.54.59:343][152]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testplace/Testplace.Testplace to /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace (0.009930s)
+[2026.04.14-23.54.59:366][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.04.14-23.54.59:367][152]LogChaosDD: Creating Chaos Debug Draw Scene for world Testplace
+[2026.04.14-23.54.59:368][152]LogPlayLevel: PIE: World Init took: (0.001459s)
+[2026.04.14-23.54.59:369][152]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2026.04.14-23.54.59:369][152]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.14-23.54.59:369][152]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.14-23.54.59:369][152]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.14-23.54.59:369][152]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.14-23.54.59:369][152]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.14-23.54.59:369][152]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.14-23.54.59:369][152]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.14-23.54.59:369][152]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.14-23.54.59:369][152]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.14-23.54.59:369][152]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.14-23.54.59:369][152]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.14-23.54.59:371][152]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.14-23.54.59:477][152]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.04.14-23.54.59:477][152]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.14-23.54.59:477][152]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.14-23.54.59:477][152]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.14-23.54.59:478][152]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2026.04.14-23.54.59:478][152]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2026.04.14-23.54.59:480][152]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2026.04.14-23.54.59:480][152]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2026.04.14-23.54.59:480][152]LogInit: FAudioDevice initialized with ID 22.
+[2026.04.14-23.54.59:480][152]LogAudio: Display: Audio Device (ID: 22) registered with world 'Testplace'.
+[2026.04.14-23.54.59:480][152]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2026.04.14-23.54.59:483][152]LogLoad: Game class is 'BP_SpriteGameMode_C'
+[2026.04.14-23.54.59:486][152]LogWorld: Bringing World /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace up for play (max tick rate 60) at 2026.04.14-19.54.59
+[2026.04.14-23.54.59:487][152]LogWorld: Bringing up level for play took: 0.002874
+[2026.04.14-23.54.59:488][152]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2026.04.14-23.54.59:491][152]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.54.59:491][152]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.54.59:492][152]PIE: Server logged in
+[2026.04.14-23.54.59:493][152]PIE: Play in editor total start time 0.161 seconds.
+[2026.04.14-23.54.59:535][153]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.14-23.55.02:737][344]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.55.02:737][344]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.55.05:221][493]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.55.05:221][493]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.55.09:454][747]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.55.09:454][747]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.55.11:177][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.14-23.55.11:177][848]LogWorld: BeginTearingDown for /Game/Levels/Testplace/UEDPIE_0_Testplace
+[2026.04.14-23.55.11:177][848]LogWorld: UWorld::CleanupWorld for Testplace, bSessionEnded=true, bCleanupResources=true
+[2026.04.14-23.55.11:178][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.14-23.55.11:180][848]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.14-23.55.11:184][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.14-23.55.11:214][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.14-23.55.11:215][848]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2026.04.14-23.55.11:215][848]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=4
+[2026.04.14-23.55.11:217][848]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=2
+[2026.04.14-23.55.11:223][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.04.14-23.55.11:317][849]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2026.04.14-23.55.19:167][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.04.14-23.55.20:986][409]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.14-23.55.20:994][409]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.14-23.55.20:994][409]LogPlayLevel: Creating play world package: /Game/Levels/Testplace/UEDPIE_0_Testplace
+[2026.04.14-23.55.21:004][409]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010230s)
+[2026.04.14-23.55.21:004][409]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testplace/Testplace.Testplace to /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace (0.010264s)
+[2026.04.14-23.55.21:030][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.04.14-23.55.21:031][409]LogChaosDD: Creating Chaos Debug Draw Scene for world Testplace
+[2026.04.14-23.55.21:033][409]LogPlayLevel: PIE: World Init took: (0.001593s)
+[2026.04.14-23.55.21:033][409]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2026.04.14-23.55.21:033][409]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.14-23.55.21:033][409]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.14-23.55.21:033][409]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.14-23.55.21:033][409]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.14-23.55.21:033][409]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.14-23.55.21:033][409]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.14-23.55.21:033][409]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.14-23.55.21:033][409]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.14-23.55.21:033][409]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.14-23.55.21:033][409]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.14-23.55.21:033][409]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.14-23.55.21:035][409]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.14-23.55.21:163][409]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.04.14-23.55.21:163][409]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.14-23.55.21:163][409]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.14-23.55.21:163][409]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.14-23.55.21:164][409]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2026.04.14-23.55.21:164][409]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2026.04.14-23.55.21:166][409]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2026.04.14-23.55.21:166][409]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2026.04.14-23.55.21:166][409]LogInit: FAudioDevice initialized with ID 23.
+[2026.04.14-23.55.21:166][409]LogAudio: Display: Audio Device (ID: 23) registered with world 'Testplace'.
+[2026.04.14-23.55.21:166][409]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2026.04.14-23.55.21:171][409]LogLoad: Game class is 'BP_SpriteGameMode_C'
+[2026.04.14-23.55.21:173][409]LogWorld: Bringing World /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace up for play (max tick rate 60) at 2026.04.14-19.55.21
+[2026.04.14-23.55.21:174][409]LogWorld: Bringing up level for play took: 0.002777
+[2026.04.14-23.55.21:176][409]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2026.04.14-23.55.21:178][409]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.55.21:178][409]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.55.21:179][409]PIE: Server logged in
+[2026.04.14-23.55.21:180][409]PIE: Play in editor total start time 0.187 seconds.
+[2026.04.14-23.55.21:222][410]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.14-23.55.23:124][523]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.55.23:124][523]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.55.25:558][669]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.55.25:558][669]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.55.28:358][837]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.55.28:358][837]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.55.30:258][951]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.55.30:258][951]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.55.34:825][225]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.55.34:825][225]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.55.38:525][447]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.14-23.55.38:525][447]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace:PersistentLevel.BP_Sprite_C_0
+[2026.04.14-23.56.34:818][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.14-23.56.34:818][821]LogWorld: BeginTearingDown for /Game/Levels/Testplace/UEDPIE_0_Testplace
+[2026.04.14-23.56.34:818][821]LogWorld: UWorld::CleanupWorld for Testplace, bSessionEnded=true, bCleanupResources=true
+[2026.04.14-23.56.34:820][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.14-23.56.34:824][821]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.14-23.56.34:827][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.14-23.56.34:865][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.14-23.56.34:865][821]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2026.04.14-23.56.34:865][821]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=4
+[2026.04.14-23.56.34:868][821]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=2
+[2026.04.14-23.56.34:890][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.04.14-23.56.34:995][822]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2026.04.14-23.56.41:874][993]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.14-23.56.41:982][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.04.14-23.56.42:088][993]LogSavePackage: Moving output files for package: /Game/Levels/Testplace/Testplace
+[2026.04.14-23.56.42:089][993]LogSavePackage: Moving '../../../../Users/kenbs/Downloads/ClassProject/PlantHorrorGame/GroupProject/Saved/Testplace2776AB2C416219DDAD8527A3D6C77FC8.tmp' to '../../../../Users/kenbs/Downloads/ClassProject/PlantHorrorGame/GroupProject/Content/Levels/Testplace/Testplace.umap'
+[2026.04.14-23.56.42:098][993]LogFileHelpers: Saving map 'Testplace' took 0.163
+[2026.04.14-23.56.42:109][993]LogFileHelpers: InternalPromptForCheckoutAndSave took 234.410 ms (total: 1.04 sec)
+[2026.04.14-23.56.42:160][993]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.14-23.56.42:160][993]LogContentValidation: Enabled validators:
+[2026.04.14-23.56.42:160][993]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.14-23.56.42:160][993]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.14-23.56.42:160][993]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.14-23.56.42:160][993]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.14-23.56.42:160][993]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.14-23.56.42:160][993]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.14-23.56.42:160][993]AssetCheck: /Game/Levels/Testplace/Testplace Validating asset
