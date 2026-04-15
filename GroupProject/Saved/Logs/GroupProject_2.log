@@ -1312,3 +1312,256 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.15-01.30.41:378][836]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.04.15-01.30.41:378][836]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.04.15-01.30.41:378][836]AssetCheck: /Game/Characters/Walk/WalkF Validating asset
+[2026.04.15-01.33.07:773][ 86]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 457.264893
+[2026.04.15-01.33.08:673][ 89]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.15-01.33.08:673][ 89]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 457.908691, Update Interval: 354.393127
+[2026.04.15-01.33.15:038][108]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.04.15-01.33.15:038][108]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.04.15-01.51.54:966][108]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2026.04.15-01.51.54:966][108]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.04.15-01.51.54:966][108]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=AudioMixerPlatformInterface. Timeout waiting for h/w.
+[2026.04.15-01.51.55:655][109]LogHttp: Warning: 000002B33D6D2300: request failed, libcurl error: 6 (Could not resolve hostname)
+[2026.04.15-01.51.55:655][109]LogHttp: Warning: 000002B33D6D2300: libcurl info message cache 0 (Too old connection (1127 seconds idle), disconnect it)
+[2026.04.15-01.51.55:655][109]LogHttp: Warning: 000002B33D6D2300: libcurl info message cache 1 (Connection 1 seems to be dead)
+[2026.04.15-01.51.55:655][109]LogHttp: Warning: 000002B33D6D2300: libcurl info message cache 2 (shutting down connection #1)
+[2026.04.15-01.51.55:655][109]LogHttp: Warning: 000002B33D6D2300: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2026.04.15-01.51.55:655][109]LogHttp: Warning: 000002B33D6D2300: libcurl info message cache 4 (Send failure: Connection was reset)
+[2026.04.15-01.51.55:655][109]LogHttp: Warning: 000002B33D6D2300: libcurl info message cache 5 (Recv failure: Connection was reset)
+[2026.04.15-01.51.55:655][109]LogHttp: Warning: 000002B33D6D2300: libcurl info message cache 6 (Hostname in DNS cache was stale, zapped)
+[2026.04.15-01.51.55:655][109]LogHttp: Warning: 000002B33D6D2300: libcurl info message cache 7 (Could not resolve host: datarouter.ol.epicgames.com)
+[2026.04.15-01.51.55:655][109]LogHttp: Warning: 000002B33D6D2300: libcurl info message cache 8 (shutting down connection #2)
+[2026.04.15-01.51.55:655][109]LogHttp: Warning: 000002B33D6D2300 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F2773D1-4B22-60ED-6620-62BC372DC655%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=29a6355b48be541de02edba4480460d4%7Ca793ce670a2a405c92242f1e89989ddf%7Ce7cc03ed-b496-4415-aa3a-a44b5fc1ff2e&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 0.11s
+[2026.04.15-01.51.55:655][109]LogEOSSDK: Warning: LogHttp: 000002B40F060C00: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BAB501A6C-4F84-0589-2A72-3EBF1E1E7D74%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.04.15-01.51.55:655][109]LogEOSSDK: Warning: LogHttp: 000002B40F060C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.04.15-01.51.55:655][109]LogEOSSDK: Warning: LogHttp: 000002B40F060C00: libcurl info message cache 0 (Too old connection (1126 seconds idle), disconnect it)
+[2026.04.15-01.51.55:655][109]LogEOSSDK: Warning: LogHttp: 000002B40F060C00: libcurl info message cache 1 (Connection 3 seems to be dead)
+[2026.04.15-01.51.55:655][109]LogEOSSDK: Warning: LogHttp: 000002B40F060C00: libcurl info message cache 2 (Closing connection)
+[2026.04.15-01.51.55:655][109]LogEOSSDK: Warning: LogHttp: 000002B40F060C00: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2026.04.15-01.51.55:655][109]LogEOSSDK: Warning: LogHttp: 000002B40F060C00: libcurl info message cache 4 (Send failure: Connection was reset)
+[2026.04.15-01.51.55:655][109]LogEOSSDK: Warning: LogHttp: 000002B40F060C00: libcurl info message cache 5 (Recv failure: Connection was reset)
+[2026.04.15-01.51.55:655][109]LogEOSSDK: Warning: LogHttp: 000002B40F060C00: libcurl info message cache 6 (Too old connection (1126 seconds idle), disconnect it)
+[2026.04.15-01.51.55:655][109]LogEOSSDK: Warning: LogHttp: 000002B40F060C00: libcurl info message cache 7 (Connection 4 seems to be dead)
+[2026.04.15-01.51.55:655][109]LogEOSSDK: Warning: LogHttp: 000002B40F060C00: libcurl info message cache 8 (Closing connection)
+[2026.04.15-01.51.55:655][109]LogEOSSDK: Warning: LogHttp: 000002B40F060C00: libcurl info message cache 9 (Recv failure: Connection was reset)
+[2026.04.15-01.51.55:655][110]LogEOSSDK: Warning: LogHttp: 000002B40F060C00: libcurl info message cache 10 (Send failure: Connection was reset)
+[2026.04.15-01.51.55:655][110]LogEOSSDK: Warning: LogHttp: 000002B40F060C00: libcurl info message cache 11 (Recv failure: Connection was reset)
+[2026.04.15-01.51.55:655][110]LogEOSSDK: Warning: LogHttp: 000002B40F060C00: libcurl info message cache 12 (Hostname in DNS cache was stale, zapped)
+[2026.04.15-01.51.55:655][110]LogEOSSDK: Warning: LogHttp: 000002B40F060C00: libcurl info message cache 13 (Could not resolve host: api.epicgames.dev)
+[2026.04.15-01.51.55:655][110]LogEOSSDK: Warning: LogHttp: 000002B40F060C00: libcurl info message cache 14 (Closing connection)
+[2026.04.15-01.51.55:660][110]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{3bdd9187-9364-4a64-891e-fd947a3b56e9}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=624.58
+[2026.04.15-01.51.55:660][110]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.04.15-01.51.55:660][110]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.04.15-01.51.55:663][110]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.04.15-01.51.55:721][110]LogEOSSDK: Warning: LogHttp: 000002B40F064200: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=F223C62F41C5A9C194CE0984E19F55E7, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.04.15-01.51.55:721][110]LogEOSSDK: Warning: LogHttp: 000002B40F064200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.04.15-01.51.55:721][110]LogEOSSDK: Warning: LogHttp: 000002B40F064200: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2026.04.15-01.51.55:721][110]LogEOSSDK: Warning: LogHttp: 000002B40F064200: libcurl info message cache 1 (Closing connection)
+[2026.04.15-01.51.55:721][110]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BAB501A6C-4F84-0589-2A72-3EBF1E1E7D74%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.04.15-01.51.55:721][110]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=F223C62F41C5A9C194CE0984E19F55E7
+[2026.04.15-01.51.56:137][112]LogUdpMessaging: Error: Socket error detected when communicating with 164.76.48.237:55572. Banning communication to that endpoint.
+[2026.04.15-01.51.56:322][112]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.04.15-01.51.56:997][114]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=F223C62F41C5A9C194CE0984E19F55E7
+[2026.04.15-01.51.57:332][115]LogEOSSDK: Warning: LogHttp: 000002B40F064200: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=F223C62F41C5A9C194CE0984E19F55E7, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.04.15-01.51.57:332][116]LogEOSSDK: Warning: LogHttp: 000002B40F064200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.04.15-01.51.57:332][116]LogEOSSDK: Warning: LogHttp: 000002B40F064200: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2026.04.15-01.51.57:332][116]LogEOSSDK: Warning: LogHttp: 000002B40F064200: libcurl info message cache 3 (Closing connection)
+[2026.04.15-01.51.57:332][116]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=F223C62F41C5A9C194CE0984E19F55E7
+[2026.04.15-01.51.58:654][117]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:62944'.
+[2026.04.15-01.51.58:661][117]LogUdpMessaging: Display: Added local interface '164.76.48.237' to multicast group '230.0.0.1:6666'
+[2026.04.15-01.51.58:672][117]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.04.15-01.51.58:692][118]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=F223C62F41C5A9C194CE0984E19F55E7
+[2026.04.15-01.51.59:024][119]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1588.515991
+[2026.04.15-01.51.59:024][119]LogEOSSDK: Warning: LogHttp: 000002B40F064200: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=F223C62F41C5A9C194CE0984E19F55E7, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.04.15-01.51.59:024][119]LogEOSSDK: Warning: LogHttp: 000002B40F064200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.04.15-01.51.59:024][119]LogEOSSDK: Warning: LogHttp: 000002B40F064200: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2026.04.15-01.51.59:024][120]LogEOSSDK: Warning: LogHttp: 000002B40F064200: libcurl info message cache 5 (Closing connection)
+[2026.04.15-01.51.59:024][120]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=F223C62F41C5A9C194CE0984E19F55E7
+[2026.04.15-01.51.59:024][120]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2026.04.15-01.51.59:693][121]LogEOSSDK: Warning: LogHttp: 000002B33D58F000: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/product/86f32f1151354e7cb39c12f8ab2c22a3?platformId=WIN&deploymentId=a652a72ea1664dcab3a467891eea5f30, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.04.15-01.51.59:693][121]LogEOSSDK: Warning: LogHttp: 000002B33D58F000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.04.15-01.51.59:693][121]LogEOSSDK: Warning: LogHttp: 000002B33D58F000: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2026.04.15-01.51.59:693][121]LogEOSSDK: Warning: LogHttp: 000002B33D58F000: libcurl info message cache 1 (Closing connection)
+[2026.04.15-01.51.59:693][121]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/product/86f32f1151354e7cb39c12f8ab2c22a3?platformId=WIN&deploymentId=a652a72ea1664dcab3a467891eea5f30
+[2026.04.15-01.51.59:693][121]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetProductConfigRoute], Url=[<Redacted>]
+[2026.04.15-01.52.00:028][122]LogEOSSDK: Warning: LogEOS: SDK Config Product Update Request Failed, Result Code: EOS_NoConnection, Retrying after 7.052706 seconds
+[2026.04.15-01.52.00:028][123]LogUdpMessaging: Error: Socket error detected when communicating with 127.0.0.1:55572. Banning communication to that endpoint.
+[2026.04.15-01.52.00:346][123]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.04.15-01.52.02:672][128]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:53170'.
+[2026.04.15-01.52.02:676][128]LogUdpMessaging: Display: Added local interface '164.76.48.237' to multicast group '230.0.0.1:6666'
+[2026.04.15-01.52.02:683][128]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.04.15-01.52.04:037][134]LogUdpMessaging: Error: Socket error detected when communicating with 127.0.0.1:55572. Banning communication to that endpoint.
+[2026.04.15-01.52.04:356][134]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.04.15-01.52.04:888][136]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.04.15-01.52.04:888][136]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.04.15-02.33.07:107][136]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2026.04.15-02.33.07:107][136]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.04.15-02.33.07:107][136]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=AudioMixerPlatformInterface. Timeout waiting for h/w.
+[2026.04.15-02.33.07:125][136]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4056.617920
+[2026.04.15-02.33.07:876][136]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:58162'.
+[2026.04.15-02.33.07:884][136]Could not fetch the local adapter addresses
+[2026.04.15-02.33.07:884][136]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2026.04.15-02.33.07:888][136]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.04.15-02.33.07:967][137]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.04.15-02.33.07:967][137]LogHttp: Warning: 000002B33D6D8500: request failed, libcurl error: 6 (Could not resolve hostname)
+[2026.04.15-02.33.07:967][137]LogHttp: Warning: 000002B33D6D8500: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2026.04.15-02.33.07:967][137]LogHttp: Warning: 000002B33D6D8500: libcurl info message cache 1 (shutting down connection #3)
+[2026.04.15-02.33.07:967][137]LogHttp: Warning: 000002B33D6D8500 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F2773D1-4B22-60ED-6620-62BC372DC655%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=29a6355b48be541de02edba4480460d4%7Ca793ce670a2a405c92242f1e89989ddf%7Ce7cc03ed-b496-4415-aa3a-a44b5fc1ff2e&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 0.02s
+[2026.04.15-02.33.07:967][137]LogEOSSDK: Warning: LogHttp: 000002B33D586600: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BAB501A6C-4F84-0589-2A72-3EBF1E1E7D74%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.04.15-02.33.07:967][137]LogEOSSDK: Warning: LogHttp: 000002B33D586600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.04.15-02.33.07:967][137]LogEOSSDK: Warning: LogHttp: 000002B33D586600: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2026.04.15-02.33.07:967][137]LogEOSSDK: Warning: LogHttp: 000002B33D586600: libcurl info message cache 1 (Closing connection)
+[2026.04.15-02.33.08:228][138]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{3bdd9187-9364-4a64-891e-fd947a3b56e9}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=1090.01
+[2026.04.15-02.33.08:228][138]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.04.15-02.33.08:228][138]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.04.15-02.33.08:229][138]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.04.15-02.33.08:241][138]LogEOSSDK: Warning: LogHttp: 000002B33D58C600: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.04.15-02.33.08:241][138]LogEOSSDK: Warning: LogHttp: 000002B33D58C600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.04.15-02.33.08:241][138]LogEOSSDK: Warning: LogHttp: 000002B33D58C600: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2026.04.15-02.33.08:241][138]LogEOSSDK: Warning: LogHttp: 000002B33D58C600: libcurl info message cache 1 (Closing connection)
+[2026.04.15-02.33.08:241][138]LogEOSSDK: Warning: LogHttp: 000002B326823C00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=F223C62F41C5A9C194CE0984E19F55E7, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.04.15-02.33.08:241][139]LogEOSSDK: Warning: LogHttp: 000002B326823C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.04.15-02.33.08:241][139]LogEOSSDK: Warning: LogHttp: 000002B326823C00: libcurl info message cache 0 (Found bundle for host: 0x2b3df0801e0 [serially])
+[2026.04.15-02.33.08:241][139]LogEOSSDK: Warning: LogHttp: 000002B326823C00: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2026.04.15-02.33.08:241][139]LogEOSSDK: Warning: LogHttp: 000002B326823C00: libcurl info message cache 2 (Closing connection)
+[2026.04.15-02.33.08:241][139]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BAB501A6C-4F84-0589-2A72-3EBF1E1E7D74%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.04.15-02.33.08:241][139]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.04.15-02.33.08:241][139]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=F223C62F41C5A9C194CE0984E19F55E7
+[2026.04.15-02.33.09:397][141]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:62886'.
+[2026.04.15-02.33.09:401][141]Could not fetch the local adapter addresses
+[2026.04.15-02.33.09:401][141]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2026.04.15-02.33.09:405][141]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.04.15-02.33.09:558][142]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.04.15-02.33.09:563][142]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.04.15-02.33.09:563][143]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=F223C62F41C5A9C194CE0984E19F55E7
+[2026.04.15-02.33.09:897][143]LogEOSSDK: Warning: LogHttp: 000002B33D58C600: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.04.15-02.33.09:897][143]LogEOSSDK: Warning: LogHttp: 000002B33D58C600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.04.15-02.33.09:897][143]LogEOSSDK: Warning: LogHttp: 000002B33D58C600: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2026.04.15-02.33.09:897][143]LogEOSSDK: Warning: LogHttp: 000002B33D58C600: libcurl info message cache 3 (Closing connection)
+[2026.04.15-02.33.09:897][143]LogEOSSDK: Warning: LogHttp: 000002B326823C00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=F223C62F41C5A9C194CE0984E19F55E7, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.04.15-02.33.09:897][143]LogEOSSDK: Warning: LogHttp: 000002B326823C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.04.15-02.33.09:897][143]LogEOSSDK: Warning: LogHttp: 000002B326823C00: libcurl info message cache 3 (Found bundle for host: 0x2b3df0803c0 [serially])
+[2026.04.15-02.33.09:897][143]LogEOSSDK: Warning: LogHttp: 000002B326823C00: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2026.04.15-02.33.09:897][143]LogEOSSDK: Warning: LogHttp: 000002B326823C00: libcurl info message cache 5 (Closing connection)
+[2026.04.15-02.33.09:897][143]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.04.15-02.33.09:897][143]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=F223C62F41C5A9C194CE0984E19F55E7
+[2026.04.15-02.33.10:936][145]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.04.15-02.33.10:937][146]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=F223C62F41C5A9C194CE0984E19F55E7
+[2026.04.15-02.33.11:536][146]LogEOSSDK: Warning: LogHttp: 000002B33D58C600: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.04.15-02.33.11:536][146]LogEOSSDK: Warning: LogHttp: 000002B33D58C600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.04.15-02.33.11:536][146]LogEOSSDK: Warning: LogHttp: 000002B33D58C600: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2026.04.15-02.33.11:536][146]LogEOSSDK: Warning: LogHttp: 000002B33D58C600: libcurl info message cache 5 (Closing connection)
+[2026.04.15-02.33.11:536][146]LogEOSSDK: Warning: LogHttp: 000002B326823C00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=F223C62F41C5A9C194CE0984E19F55E7, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.04.15-02.33.11:536][146]LogEOSSDK: Warning: LogHttp: 000002B326823C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.04.15-02.33.11:536][146]LogEOSSDK: Warning: LogHttp: 000002B326823C00: libcurl info message cache 6 (Found bundle for host: 0x2b3df080000 [serially])
+[2026.04.15-02.33.11:536][146]LogEOSSDK: Warning: LogHttp: 000002B326823C00: libcurl info message cache 7 (Could not resolve host: api.epicgames.dev)
+[2026.04.15-02.33.11:536][146]LogEOSSDK: Warning: LogHttp: 000002B326823C00: libcurl info message cache 8 (Closing connection)
+[2026.04.15-02.33.11:536][146]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.04.15-02.33.11:536][147]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=F223C62F41C5A9C194CE0984E19F55E7
+[2026.04.15-02.33.11:536][147]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2026.04.15-02.33.13:519][147]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:62426'.
+[2026.04.15-02.33.13:520][147]LogUdpMessaging: Display: Added local interface '164.76.48.164' to multicast group '230.0.0.1:6666'
+[2026.04.15-02.33.13:524][147]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.04.15-02.33.13:531][149]LogEOSSDK: Warning: LogHttp: Retry 3 on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.04.15-02.33.13:864][150]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.04.15-02.33.15:199][153]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.15-02.33.15:199][153]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4064.358643, Update Interval: 330.956757
+[2026.04.15-02.33.28:539][193]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.04.15-02.33.32:984][194]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.04.15-02.33.32:984][194]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.04.15-02.33.37:985][194]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.04.15-02.33.37:985][194]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.04.15-02.33.37:985][194]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.04.15-06.27.36:515][195]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2026.04.15-06.27.36:515][195]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.04.15-06.27.36:515][195]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=AudioMixerPlatformInterface. Timeout waiting for h/w.
+[2026.04.15-06.27.37:827][195]LogEOSSDK: Warning: LogHttp: 000002B326821200: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B183C05B7-4348-E38A-5048-23A87A406030%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.04.15-06.27.37:827][195]LogEOSSDK: Warning: LogHttp: 000002B326821200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.04.15-06.27.37:827][195]LogEOSSDK: Warning: LogHttp: 000002B326821200: libcurl info message cache 0 (Too old connection (14072 seconds idle), disconnect it)
+[2026.04.15-06.27.37:827][195]LogEOSSDK: Warning: LogHttp: 000002B326821200: libcurl info message cache 1 (Connection 17 seems to be dead)
+[2026.04.15-06.27.37:827][195]LogEOSSDK: Warning: LogHttp: 000002B326821200: libcurl info message cache 2 (Closing connection)
+[2026.04.15-06.27.37:827][195]LogEOSSDK: Warning: LogHttp: 000002B326821200: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2026.04.15-06.27.37:827][195]LogEOSSDK: Warning: LogHttp: 000002B326821200: libcurl info message cache 4 (Send failure: Connection was reset)
+[2026.04.15-06.27.37:827][195]LogEOSSDK: Warning: LogHttp: 000002B326821200: libcurl info message cache 5 (Recv failure: Connection was reset)
+[2026.04.15-06.27.37:827][195]LogEOSSDK: Warning: LogHttp: 000002B326821200: libcurl info message cache 6 (Hostname in DNS cache was stale, zapped)
+[2026.04.15-06.27.37:827][195]LogEOSSDK: Warning: LogHttp: 000002B326821200: libcurl info message cache 7 (Could not resolve host: api.epicgames.dev)
+[2026.04.15-06.27.37:827][195]LogEOSSDK: Warning: LogHttp: 000002B326821200: libcurl info message cache 8 (Closing connection)
+[2026.04.15-06.27.37:827][195]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B183C05B7-4348-E38A-5048-23A87A406030%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.04.15-06.27.38:119][195]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:54579'.
+[2026.04.15-06.27.38:126][195]Could not fetch the local adapter addresses
+[2026.04.15-06.27.38:126][195]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2026.04.15-06.27.38:134][195]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.04.15-06.27.38:141][196]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{3bdd9187-9364-4a64-891e-fd947a3b56e9}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=1208.77
+[2026.04.15-06.27.38:141][196]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.04.15-06.27.38:141][196]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.04.15-06.27.38:143][196]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.04.15-06.27.38:671][196]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.04.15-06.27.38:671][196]LogHttp: Warning: 000002B33D6D6200: request failed, libcurl error: 6 (Could not resolve hostname)
+[2026.04.15-06.27.38:671][196]LogHttp: Warning: 000002B33D6D6200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2026.04.15-06.27.38:672][196]LogHttp: Warning: 000002B33D6D6200: libcurl info message cache 1 (shutting down connection #4)
+[2026.04.15-06.27.38:672][196]LogHttp: Warning: 000002B33D6D6200 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F2773D1-4B22-60ED-6620-62BC372DC655%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=29a6355b48be541de02edba4480460d4%7Ca793ce670a2a405c92242f1e89989ddf%7Ce7cc03ed-b496-4415-aa3a-a44b5fc1ff2e&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 0.01s
+[2026.04.15-06.27.38:672][196]LogEOSSDK: Warning: LogHttp: 000002B326820600: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.04.15-06.27.38:672][196]LogEOSSDK: Warning: LogHttp: 000002B326820600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.04.15-06.27.38:672][196]LogEOSSDK: Warning: LogHttp: 000002B326820600: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2026.04.15-06.27.38:672][196]LogEOSSDK: Warning: LogHttp: 000002B326820600: libcurl info message cache 1 (Closing connection)
+[2026.04.15-06.27.38:672][196]LogEOSSDK: Warning: LogHttp: 000002B326820C00: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BAB501A6C-4F84-0589-2A72-3EBF1E1E7D74%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.04.15-06.27.38:672][196]LogEOSSDK: Warning: LogHttp: 000002B326820C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.04.15-06.27.38:672][196]LogEOSSDK: Warning: LogHttp: 000002B326820C00: libcurl info message cache 0 (Found bundle for host: 0x2b3df080f00 [serially])
+[2026.04.15-06.27.38:672][197]LogEOSSDK: Warning: LogHttp: 000002B326820C00: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2026.04.15-06.27.38:672][197]LogEOSSDK: Warning: LogHttp: 000002B326820C00: libcurl info message cache 2 (Closing connection)
+[2026.04.15-06.27.38:672][197]LogEOSSDK: Warning: LogHttp: 000002B326822A00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=F223C62F41C5A9C194CE0984E19F55E7, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.04.15-06.27.38:672][197]LogEOSSDK: Warning: LogHttp: 000002B326822A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.04.15-06.27.38:672][197]LogEOSSDK: Warning: LogHttp: 000002B326822A00: libcurl info message cache 0 (Found bundle for host: 0x2b3df080f00 [serially])
+[2026.04.15-06.27.38:672][197]LogEOSSDK: Warning: LogHttp: 000002B326822A00: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2026.04.15-06.27.38:672][197]LogEOSSDK: Warning: LogHttp: 000002B326822A00: libcurl info message cache 2 (Closing connection)
+[2026.04.15-06.27.38:672][197]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BAB501A6C-4F84-0589-2A72-3EBF1E1E7D74%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.04.15-06.27.38:672][197]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.04.15-06.27.38:673][197]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=F223C62F41C5A9C194CE0984E19F55E7
+[2026.04.15-06.27.39:683][200]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.04.15-06.27.39:683][200]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=F223C62F41C5A9C194CE0984E19F55E7
+[2026.04.15-06.27.40:017][201]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.04.15-06.27.40:018][201]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=F223C62F41C5A9C194CE0984E19F55E7
+[2026.04.15-06.27.41:337][202]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:56689'.
+[2026.04.15-06.27.41:342][202]LogUdpMessaging: Display: Added local interface '164.76.49.136' to multicast group '230.0.0.1:6666'
+[2026.04.15-06.27.41:348][202]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.04.15-06.27.43:701][211]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.04.15-06.27.43:701][211]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.04.15-06.27.44:020][211]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2026.04.15-06.27.44:020][211]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.04.15-06.27.44:020][211]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=AudioMixerPlatformInterface. Timeout waiting for h/w.
+[2026.04.15-06.27.44:347][211]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.04.15-06.28.28:218][211]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2026.04.15-06.28.28:218][211]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.04.15-06.28.28:218][211]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [56 Seconds] waiting for h/w. InstanceID=1
+[2026.04.15-06.28.29:342][211]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18200.115234
+[2026.04.15-06.28.29:383][212]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{3bdd9187-9364-4a64-891e-fd947a3b56e9}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=53650.64
+[2026.04.15-06.28.29:383][212]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.04.15-06.28.29:383][212]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.04.15-06.28.29:384][212]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.04.15-06.28.29:918][212]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:54634'.
+[2026.04.15-06.28.29:923][212]LogUdpMessaging: Display: Added local interface '164.76.49.136' to multicast group '230.0.0.1:6666'
+[2026.04.15-06.28.29:930][212]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.04.15-06.28.30:275][214]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.15-06.28.30:275][214]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18200.714844, Update Interval: 315.223846
+[2026.04.15-06.34.08:316][261]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18540.009766
+[2026.04.15-06.34.08:414][268]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.15-06.34.08:415][268]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18540.091797, Update Interval: 325.267487
+[2026.04.15-06.35.11:678][ 50]LogStreaming: Display: FlushAsyncLoading(538): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.15-06.35.11:678][ 50]LogStreaming: Warning: LoadPackage: SkipPackage: /Game/Characters/Rwalk/AnimSequences/NewPaperZDAnimSequence (0xEDE3C312B4568142) - The package to load does not exist on disk or in the loader
+[2026.04.15-06.35.11:872][ 61]LogStreaming: Display: FlushAsyncLoading(539): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.15-06.35.12:072][ 73]LogStreaming: Display: FlushAsyncLoading(540): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.15-06.35.14:255][202]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.15-06.35.14:332][202]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Walk/AS_Player] ([1] browsable assets)...
+[2026.04.15-06.35.14:332][202]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Walk/AS_Player]
+[2026.04.15-06.35.14:333][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Walk/AS_Player" FILE="../../../../Users/kenbs/Downloads/ClassProject/PlantHorrorGame/GroupProject/Content/Characters/Walk/AS_Player.uasset" SILENT=true
+[2026.04.15-06.35.14:339][202]LogSavePackage: Moving output files for package: /Game/Characters/Walk/AS_Player
+[2026.04.15-06.35.14:339][202]LogSavePackage: Moving '../../../../Users/kenbs/Downloads/ClassProject/PlantHorrorGame/GroupProject/Saved/AS_Player668ED40E4D8BDDA06B3114AB829DA2AE.tmp' to '../../../../Users/kenbs/Downloads/ClassProject/PlantHorrorGame/GroupProject/Content/Characters/Walk/AS_Player.uasset'
+[2026.04.15-06.35.14:349][202]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.277 ms (total: 249.927 ms)
+[2026.04.15-06.35.14:413][202]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.15-06.35.14:413][202]LogContentValidation: Enabled validators:
+[2026.04.15-06.35.14:413][202]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.15-06.35.14:413][202]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.15-06.35.14:413][202]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.15-06.35.14:413][202]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.15-06.35.14:413][202]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.15-06.35.14:413][202]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.15-06.35.14:413][202]AssetCheck: /Game/Characters/Walk/AS_Player Validating asset
