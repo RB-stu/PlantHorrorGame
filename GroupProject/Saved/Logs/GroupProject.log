@@ -4227,3 +4227,4 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.15-01.11.26:708][786]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.04.15-01.11.26:708][786]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.04.15-01.11.26:708][786]AssetCheck: /Game/Levels/Testplace/Testplace Validating asset
+[2026.04.15-01.11.56:061][794]LogFab: Display: OpenUrlInBrowser com.epicgames.launcher://fab/plugins/egl/listings/6664e3b5-e376-47aa-a0dd-f7bbbd5b93c0
