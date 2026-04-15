@@ -2134,3 +2134,49 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.15-13.22.07:418][463]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
 [2026.04.15-13.22.07:424][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
 [2026.04.15-13.22.07:517][465]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2026.04.15-13.22.39:791][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.04.15-13.22.41:324][584]LogSlate: Window 'Save Content' being destroyed
+[2026.04.15-13.22.41:333][584]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.15-13.22.41:396][584]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Walk/AnimSequences/Idle] ([1] browsable assets)...
+[2026.04.15-13.22.41:396][584]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Walk/AnimSequences/Idle]
+[2026.04.15-13.22.41:403][584]LogSavePackage: Moving output files for package: /Game/Characters/Walk/AnimSequences/Idle
+[2026.04.15-13.22.41:403][584]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Idle855513724CAC42CDC9A180A34049AA60.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Characters/Walk/AnimSequences/Idle.uasset'
+[2026.04.15-13.22.41:404][584]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Walk/AnimSequences/Walk] ([1] browsable assets)...
+[2026.04.15-13.22.41:404][584]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Walk/AnimSequences/Walk]
+[2026.04.15-13.22.41:408][584]LogSavePackage: Moving output files for package: /Game/Characters/Walk/AnimSequences/Walk
+[2026.04.15-13.22.41:409][584]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/WalkA35F79B1414BC0342E135DAE5848771B.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Characters/Walk/AnimSequences/Walk.uasset'
+[2026.04.15-13.22.41:465][584]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.216 ms (total: 530.164 ms)
+[2026.04.15-13.22.41:465][584]LogStreaming: Display: FlushAsyncLoading(1179): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.15-13.22.41:516][584]LogChaosDD: Creating Chaos Debug Draw Scene for world Testplace
+[2026.04.15-13.22.41:519][584]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Testplace/Testplace.Testplace
+[2026.04.15-13.22.41:520][584]Cmd: MAP LOAD FILE="../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Levels/Testplace/Testplace.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.04.15-13.22.41:539][584]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.15-13.22.41:539][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.15-13.22.41:539][584]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/MainLevel/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.04.15-13.22.41:563][584]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.15-13.22.41:567][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.04.15-13.22.41:569][584]LogWorld: UWorld::CleanupWorld for Testplace, bSessionEnded=true, bCleanupResources=true
+[2026.04.15-13.22.41:569][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.15-13.22.41:589][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.04.15-13.22.41:608][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.04.15-13.22.41:658][584]LogAudio: Display: Audio Device (ID: 1) registered with world 'Testplace'.
+[2026.04.15-13.22.41:658][584]LogChaosDD: Creating Chaos Debug Draw Scene for world Testplace
+[2026.04.15-13.22.41:689][584]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.04.15-13.22.41:709][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.04.15-13.22.41:717][584]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.04.15-13.22.41:717][584]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.054ms to complete.
+[2026.04.15-13.22.41:777][584]LogContentValidation: Display: Starting to validate 2 assets
+[2026.04.15-13.22.41:777][584]LogContentValidation: Enabled validators:
+[2026.04.15-13.22.41:777][584]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.15-13.22.41:777][584]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.15-13.22.41:777][584]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.15-13.22.41:777][584]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.15-13.22.41:777][584]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.15-13.22.41:777][584]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.15-13.22.41:777][584]AssetCheck: /Game/Characters/Walk/AnimSequences/Idle Validating asset
+[2026.04.15-13.22.41:777][584]AssetCheck: /Game/Characters/Walk/AnimSequences/Walk Validating asset
+[2026.04.15-13.22.41:803][585]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.15-13.22.41:856][586]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.15-13.22.41:932][587]LogPSOHitching: Encountered 450 PSO creation hitches so far (178 graphics, 272 compute). 0 of them were precached.
