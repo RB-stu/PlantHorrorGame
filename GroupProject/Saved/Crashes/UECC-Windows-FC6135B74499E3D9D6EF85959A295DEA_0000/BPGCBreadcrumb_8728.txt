@@ -1,0 +1,2 @@
+/Game/Blueprints/Dialogue_Interact/BP_DialogueComponent.Default__BP_DialogueComponent_C
+/Game/Blueprints/Dialogue_Interact/BP_DialogueComponent.BP_DialogueComponent_C

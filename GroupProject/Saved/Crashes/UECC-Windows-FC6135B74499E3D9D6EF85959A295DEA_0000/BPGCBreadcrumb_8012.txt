@@ -1,0 +1,2 @@
+/Game/Levels/Testplace/Testplace.Testplace:PersistentLevel.Jacob_C_5.BP_DialogueComponent
+/Game/Blueprints/Dialogue_Interact/BP_DialogueComponent.BP_DialogueComponent_C
