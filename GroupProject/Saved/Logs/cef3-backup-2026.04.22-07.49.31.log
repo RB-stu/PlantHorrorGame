@@ -1,0 +1,7 @@
+[0422/034730.829:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[0422/034800.895:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0422/034801.145:WARNING:storage_block-inl.h(146)] Failed data load.
+[0422/034801.145:WARNING:storage_block-inl.h(146)] Failed data load.
+[0422/034801.146:WARNING:storage_block-inl.h(146)] Failed data load.
+[0422/034801.153:ERROR:entry_impl.cc(998)] Failed to save user data
+[0422/034931.906:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
