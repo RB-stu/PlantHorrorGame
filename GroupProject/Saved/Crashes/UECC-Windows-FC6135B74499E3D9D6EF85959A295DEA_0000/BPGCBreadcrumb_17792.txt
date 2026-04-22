@@ -1,0 +1,2 @@
+/Game/Blueprints/Dialogue_Interact/Jacob/Jacob.Jacob_C:BP_DialogueComponent_GEN_VARIABLE
+/Game/Blueprints/Dialogue_Interact/BP_DialogueComponent.BP_DialogueComponent_C
