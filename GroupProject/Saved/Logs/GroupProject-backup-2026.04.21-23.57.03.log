@@ -1,0 +1,84 @@
+﻿Log file open, 04/21/26 19:56:52
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=9308)
+LogWindows: Enabling Tpause support
+LogWindows: Custom abort handler registered for crash reporting.
+LogInit: Display: Running engine for game: GroupProject
+LogCore: UTS: Unreal Trace Server launched successfully
+LogTrace: Initializing trace...
+LogCore: Display: Requested channels: 'cpu,gpu,frame,log,bookmark,screenshot,region'
+LogTrace: Display: Control listening on port 33348
+LogTrace: Finished trace initialization.
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.6-CL-44394996"
+LogCsvProfiler: Display: Metadata set : engineversion="5.6.1-44394996+++UE5+Release-5.6"
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (24H2) [10.0.26100.4652] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|12th Gen Intel(R) Core(TM) i9-12900F"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : pgoprofilingenabled="0"
+LogCsvProfiler: Display: Metadata set : ltoenabled="0"
+LogCsvProfiler: Display: Metadata set : asan="0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:/Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/GroupProject.uproject -AUTH_LOGIN=unused -AUTH_PASSWORD=c0d72fd46e6740af91e209758e015fdd -AUTH_TYPE=exchangecode -epicapp=UE_5.6 -epicenv=Prod -EpicPortal -epicusername=JumpingGoblin -epicuserid=a793ce670a2a405c92242f1e89989ddf -epiclocale=en -epicsandboxid=ue""
+LogCsvProfiler: Display: Metadata set : loginid="47a271da4267fe34a9cd7e9edd990214"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogStats: Stats thread started at 0.245926
+LogCsvProfiler: Display: Metadata set : systemresolution.resx="1280"
+LogCsvProfiler: Display: Metadata set : systemresolution.resy="720"
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-CDCE990A4D5B90CC1BC6ECA17238DB0C
+         Session CrashGUID >====================================================
+LogConfig: No local boot hotfix file found at: [../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
+LogAudio: Display: Pre-Initializing Audio Device Manager...
+LogAudio: Display: AudioInfo: 'OPUS' Registered
+LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+LogAudio: Display: AudioInfo: 'OGG' Registered
+LogAudio: Display: AudioInfo: 'ADPCM' Registered
+LogAudio: Display: AudioInfo: 'PCM' Registered
+LogAudio: Display: AudioInfo: 'BINKA' Registered
+LogAudio: Display: AudioInfo: 'RADA' Registered
+LogAudio: Display: Audio Device Manager Pre-Initialized
+LogPluginManager: Looking for build plugins target receipt
+LogPluginManager: Unable to find target receipt in path: ../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Binaries/Win64/*.target
+LogAssetRegistry: Display: PlatformFileJournal journal has wrapped for volume 'C:'. AssetRegistry discovery of files on this volume will be uncached. Notes on wrapping:
+The stored value for StartingJournalEntry on volume 'C:' is invalid; it is past the end of the current Journal. This can happen when the Journal has been destroyed and recreated. StoredValue = 2390545448, CurrentEnd = 1926913216.
+LogAssetRegistry: Warning: PlatformFileJournal is not available on volume 'D:'. AssetRegistry discovery of files on this volume will be uncached. Unavailability reason:
+	CreateFile failed to open for reading FileJournal on volume 'D:'. GetLastError == 2 (0x00000002) (The system cannot find the file specified.)
+LogAssetRegistry: Warning: PlatformFileJournal is not available on volume 'M:'. AssetRegistry discovery of files on this volume will be uncached. Unavailability reason:
+	CreateFile failed to open for reading FileJournal on volume 'M:'. GetLastError == 2 (0x00000002) (The system cannot find the file specified.)
+LogAssetRegistry: Display: Asset registry cache read as 70.7 MiB from ../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Intermediate/CachedAssetRegistry_0.bin.
+LogConfig: Display: Loading Mac ini files took 0.04 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.04 seconds
+LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading Android ini files took 0.04 seconds
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
+LogConfig: Display: Loading VisionOS ini files took 0.05 seconds
+LogConfig: Display: Loading Windows ini files took 0.05 seconds
+LogConfig: Display: Loading Linux ini files took 0.05 seconds
+LogPluginManager: Found matching target receipt: ../../../Engine/Binaries/Win64/UnrealEditor.target
+LogPluginManager: Looking for enabled plugins target receipt
+LogPluginManager: Unable to find target receipt in path: ../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Binaries/Win64/*.target
+LogPluginManager: Found matching target receipt: ../../../Engine/Binaries/Win64/UnrealEditor.target
+Message dialog closed, result: No, title: Missing Plugin, text: This project requires the 'PaperZD' plugin, which could not be found. Would you like to disable it and continue?
+
+If you do, you will no longer be able to open any assets created with it. If not, the application will close.
+LogPluginManager: Error: Unable to load plugin 'PaperZD'. It was requested by Enabled plugins in .uproject for , but is missing on disk. Aborting. Looked in these locations for .uplugin files:
+	PluginsDir: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins
+	PluginsDir: C:/Program Files/Epic Games/UE_5.6/Engine/Platforms/Android/Plugins
+	PluginsDir: C:/Program Files/Epic Games/UE_5.6/Engine/Platforms/IOS/Plugins
+	PluginsDir: C:/Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Mods/
+LogCore: Engine exit requested (reason: EngineExit() was called)
+LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: )...
+LogAudio: Display: Audio Device Manager Shutdown
+LogExit: Preparing to exit.
+LogPakFile: Destroying PakPlatformFile
+LogExit: Exiting.
+Log file closed, 04/21/26 19:57:03
