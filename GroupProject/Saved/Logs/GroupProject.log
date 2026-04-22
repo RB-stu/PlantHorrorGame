@@ -4216,3 +4216,1032 @@ Sampler Limit: 32
 [2026.04.22-10.58.57:591][534]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10094.938477
 [2026.04.22-10.58.58:592][537]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.04.22-10.58.58:592][537]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10095.607422, Update Interval: 351.040375
+[2026.04.22-11.03.54:107][893]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.04.22-11.03.54:119][893]LogContentBrowser: Creating deferred item: NewFolder
+[2026.04.22-11.03.54:147][894]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.04.22-11.03.59:700][347]LogContentBrowser: Attempting asset rename: NewFolder -> Attack
+[2026.04.22-11.03.59:701][347]LogContentBrowser: End creating deferred item NewFolder
+[2026.04.22-11.04.20:380][736]LogStreaming: Display: FlushAsyncLoading(569): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.22-11.04.20:430][736]LogInterchangeEngine: [Pending] Importing
+[2026.04.22-11.04.20:430][736]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/ksande57/Documents/Sprites/Attack.png]
+[2026.04.22-11.04.21:103][738]LogStreaming: Display: FlushAsyncLoading(600): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.22-11.04.21:105][739]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.04.22-11.04.21:392][740]LogTexture: Display: Building textures: /Game/Characters/Attack/Attack.Attack (BGRA8, 512x126 x1x1x1) (Required Memory Estimate: 3.214844 MB), EncodeSpeed: Fast
+[2026.04.22-11.04.21:724][740]LogInterchangeEngine: Display: Interchange import completed [C:/Users/ksande57/Documents/Sprites/Attack.png]
+[2026.04.22-11.04.21:739][740]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.04.22-11.04.21:739][740]LogInterchangeEngine: [Success] Import Done
+[2026.04.22-11.04.22:092][742]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Characters/Attack/Attack.Attack
+[2026.04.22-11.04.22:574][742]LogDeviceProfileManager: Display: Deviceprofile Android_ASTC not found.
+[2026.04.22-11.04.22:574][742]LogDeviceProfileManager: Display: Deviceprofile Android_DXT not found.
+[2026.04.22-11.04.22:575][742]LogDeviceProfileManager: Display: Deviceprofile Android_ETC2 not found.
+[2026.04.22-11.04.22:575][742]LogDeviceProfileManager: Display: Deviceprofile Android_Multi not found.
+[2026.04.22-11.04.30:016][315]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.04.22-11.04.57:385][ 38]LogSlate: Window 'Extract sprites' being destroyed
+[2026.04.22-11.05.28:187][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.04.22-11.05.28:191][574]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Testplace/Testplace' took 0.059
+[2026.04.22-11.05.28:192][574]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Attack/Attack] ([1] browsable assets)...
+[2026.04.22-11.05.28:194][574]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/Attack/Attack.Attack]
+[2026.04.22-11.05.28:194][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Attack/Attack]
+[2026.04.22-11.05.28:202][574]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Attack/Attack_Auto7
+[2026.04.22-11.05.28:202][574]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Attack_Auto73279EC104B1DECAECE1CD7AC551383F2.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/Characters/Attack/Attack_Auto7.uasset'
+[2026.04.22-11.05.28:203][574]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Attack/Attack_Sprite_0] ([1] browsable assets)...
+[2026.04.22-11.05.28:204][574]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Characters/Attack/Attack_Sprite_0.Attack_Sprite_0]
+[2026.04.22-11.05.28:204][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Attack/Attack_Sprite_0]
+[2026.04.22-11.05.28:210][574]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Attack/Attack_Sprite_0_Auto7
+[2026.04.22-11.05.28:210][574]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Attack_Sprite_0_Auto7FF7C938A4B42D1E4467F9E8F49B7848F.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/Characters/Attack/Attack_Sprite_0_Auto7.uasset'
+[2026.04.22-11.05.28:210][574]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Attack/Attack_Sprite_1] ([1] browsable assets)...
+[2026.04.22-11.05.28:212][574]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Characters/Attack/Attack_Sprite_1.Attack_Sprite_1]
+[2026.04.22-11.05.28:212][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Attack/Attack_Sprite_1]
+[2026.04.22-11.05.28:218][574]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Attack/Attack_Sprite_1_Auto7
+[2026.04.22-11.05.28:218][574]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Attack_Sprite_1_Auto7B6BE0BF743A90C28051880BD5213E037.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/Characters/Attack/Attack_Sprite_1_Auto7.uasset'
+[2026.04.22-11.05.28:218][574]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Attack/Attack_Sprite_2] ([1] browsable assets)...
+[2026.04.22-11.05.28:220][574]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Characters/Attack/Attack_Sprite_2.Attack_Sprite_2]
+[2026.04.22-11.05.28:220][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Attack/Attack_Sprite_2]
+[2026.04.22-11.05.28:225][574]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Attack/Attack_Sprite_2_Auto7
+[2026.04.22-11.05.28:225][574]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Attack_Sprite_2_Auto7137853F8407084C008BE838059140962.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/Characters/Attack/Attack_Sprite_2_Auto7.uasset'
+[2026.04.22-11.05.28:226][574]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Attack/Attack_Sprite_3] ([1] browsable assets)...
+[2026.04.22-11.05.28:229][574]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Characters/Attack/Attack_Sprite_3.Attack_Sprite_3]
+[2026.04.22-11.05.28:229][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Attack/Attack_Sprite_3]
+[2026.04.22-11.05.28:234][574]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Attack/Attack_Sprite_3_Auto7
+[2026.04.22-11.05.28:234][574]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Attack_Sprite_3_Auto75BBEBA7149D93BF56ABC739449F7B220.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/Characters/Attack/Attack_Sprite_3_Auto7.uasset'
+[2026.04.22-11.05.28:235][574]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Attack/Attack_Sprite_4] ([1] browsable assets)...
+[2026.04.22-11.05.28:242][574]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Characters/Attack/Attack_Sprite_4.Attack_Sprite_4]
+[2026.04.22-11.05.28:242][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Attack/Attack_Sprite_4]
+[2026.04.22-11.05.28:246][574]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Attack/Attack_Sprite_4_Auto7
+[2026.04.22-11.05.28:246][574]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Attack_Sprite_4_Auto78601AACF40C71E4E950F29A4113525C4.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/Characters/Attack/Attack_Sprite_4_Auto7.uasset'
+[2026.04.22-11.05.28:247][574]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Attack/Attack_Sprite_5] ([1] browsable assets)...
+[2026.04.22-11.05.28:249][574]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Characters/Attack/Attack_Sprite_5.Attack_Sprite_5]
+[2026.04.22-11.05.28:249][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Attack/Attack_Sprite_5]
+[2026.04.22-11.05.28:254][574]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Attack/Attack_Sprite_5_Auto7
+[2026.04.22-11.05.28:254][574]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Attack_Sprite_5_Auto7077306384B1A5FC14C24F98649A78F33.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/Characters/Attack/Attack_Sprite_5_Auto7.uasset'
+[2026.04.22-11.05.28:255][574]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Attack/Attack_Sprite_6] ([1] browsable assets)...
+[2026.04.22-11.05.28:257][574]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Characters/Attack/Attack_Sprite_6.Attack_Sprite_6]
+[2026.04.22-11.05.28:257][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Attack/Attack_Sprite_6]
+[2026.04.22-11.05.28:263][574]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Attack/Attack_Sprite_6_Auto7
+[2026.04.22-11.05.28:263][574]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Attack_Sprite_6_Auto759AB73E24B4D83B6BA1F148A0472AC85.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/Characters/Attack/Attack_Sprite_6_Auto7.uasset'
+[2026.04.22-11.05.28:263][574]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Attack/Attack_Sprite_7] ([1] browsable assets)...
+[2026.04.22-11.05.28:265][574]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Characters/Attack/Attack_Sprite_7.Attack_Sprite_7]
+[2026.04.22-11.05.28:265][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Attack/Attack_Sprite_7]
+[2026.04.22-11.05.28:270][574]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Attack/Attack_Sprite_7_Auto7
+[2026.04.22-11.05.28:270][574]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Attack_Sprite_7_Auto751CDB7B14A3635A1A68550A2BD34F50B.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/Characters/Attack/Attack_Sprite_7_Auto7.uasset'
+[2026.04.22-11.05.28:270][574]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Attack/Attack_Sprite_8] ([1] browsable assets)...
+[2026.04.22-11.05.28:272][574]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Characters/Attack/Attack_Sprite_8.Attack_Sprite_8]
+[2026.04.22-11.05.28:272][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Attack/Attack_Sprite_8]
+[2026.04.22-11.05.28:278][574]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Attack/Attack_Sprite_8_Auto7
+[2026.04.22-11.05.28:278][574]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Attack_Sprite_8_Auto7B1300433403A407797D1C981245AE97B.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/Characters/Attack/Attack_Sprite_8_Auto7.uasset'
+[2026.04.22-11.05.28:278][574]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Attack/Attack_Sprite_9] ([1] browsable assets)...
+[2026.04.22-11.05.28:280][574]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Characters/Attack/Attack_Sprite_9.Attack_Sprite_9]
+[2026.04.22-11.05.28:280][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Attack/Attack_Sprite_9]
+[2026.04.22-11.05.28:284][574]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Attack/Attack_Sprite_9_Auto7
+[2026.04.22-11.05.28:284][574]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Attack_Sprite_9_Auto7D92F8F61419DF5A7BDF7E0B4C01DB40D.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/Characters/Attack/Attack_Sprite_9_Auto7.uasset'
+[2026.04.22-11.05.28:285][574]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Attack/Attack_Sprite_10] ([1] browsable assets)...
+[2026.04.22-11.05.28:287][574]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Characters/Attack/Attack_Sprite_10.Attack_Sprite_10]
+[2026.04.22-11.05.28:287][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Attack/Attack_Sprite_10]
+[2026.04.22-11.05.28:292][574]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Attack/Attack_Sprite_10_Auto7
+[2026.04.22-11.05.28:292][574]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Attack_Sprite_10_Auto72652D7CE41CF1B380BA866B39B1AE26D.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/Characters/Attack/Attack_Sprite_10_Auto7.uasset'
+[2026.04.22-11.05.28:292][574]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Attack/Attack_Sprite_11] ([1] browsable assets)...
+[2026.04.22-11.05.28:294][574]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Characters/Attack/Attack_Sprite_11.Attack_Sprite_11]
+[2026.04.22-11.05.28:294][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Attack/Attack_Sprite_11]
+[2026.04.22-11.05.28:299][574]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Attack/Attack_Sprite_11_Auto7
+[2026.04.22-11.05.28:299][574]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Attack_Sprite_11_Auto73ED4D49848F593BC5F670BB8105AA4B0.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/Characters/Attack/Attack_Sprite_11_Auto7.uasset'
+[2026.04.22-11.05.28:299][574]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Attack/Attack_Sprite_12] ([1] browsable assets)...
+[2026.04.22-11.05.28:301][574]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Characters/Attack/Attack_Sprite_12.Attack_Sprite_12]
+[2026.04.22-11.05.28:301][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Attack/Attack_Sprite_12]
+[2026.04.22-11.05.28:307][574]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Attack/Attack_Sprite_12_Auto7
+[2026.04.22-11.05.28:307][574]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Attack_Sprite_12_Auto71FBFDA654B08E965C4D23B8B9474DCB0.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/Characters/Attack/Attack_Sprite_12_Auto7.uasset'
+[2026.04.22-11.05.28:307][574]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Attack/Attack_Sprite_13] ([1] browsable assets)...
+[2026.04.22-11.05.28:310][574]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Characters/Attack/Attack_Sprite_13.Attack_Sprite_13]
+[2026.04.22-11.05.28:310][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Attack/Attack_Sprite_13]
+[2026.04.22-11.05.28:315][574]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Attack/Attack_Sprite_13_Auto7
+[2026.04.22-11.05.28:315][574]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Attack_Sprite_13_Auto76603FF394ABC699F5D24E0B59A6453E2.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/Characters/Attack/Attack_Sprite_13_Auto7.uasset'
+[2026.04.22-11.05.28:315][574]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Attack/Attack_Sprite_14] ([1] browsable assets)...
+[2026.04.22-11.05.28:317][574]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Characters/Attack/Attack_Sprite_14.Attack_Sprite_14]
+[2026.04.22-11.05.28:317][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Attack/Attack_Sprite_14]
+[2026.04.22-11.05.28:322][574]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Attack/Attack_Sprite_14_Auto7
+[2026.04.22-11.05.28:322][574]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Attack_Sprite_14_Auto76E9DC1B5454B7E35EE977BAEB67EA5E7.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/Characters/Attack/Attack_Sprite_14_Auto7.uasset'
+[2026.04.22-11.05.28:323][574]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Attack/Attack_Sprite_15] ([1] browsable assets)...
+[2026.04.22-11.05.28:325][574]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Characters/Attack/Attack_Sprite_15.Attack_Sprite_15]
+[2026.04.22-11.05.28:325][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Attack/Attack_Sprite_15]
+[2026.04.22-11.05.28:330][574]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Attack/Attack_Sprite_15_Auto7
+[2026.04.22-11.05.28:330][574]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Attack_Sprite_15_Auto7626B128849CF0917BB9049BB74526A0B.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/Characters/Attack/Attack_Sprite_15_Auto7.uasset'
+[2026.04.22-11.05.28:333][574]LogFileHelpers: Auto-saving content packages took 0.142
+[2026.04.22-11.05.31:964][586]LogSlate: Window 'Message Log' being destroyed
+[2026.04.22-11.05.31:969][586]LogSlate: Window 'Message Log' being destroyed
+[2026.04.22-11.05.32:745][589]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10489.945312
+[2026.04.22-11.05.33:425][591]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.22-11.05.33:425][591]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10490.613281, Update Interval: 352.089600
+[2026.04.22-11.05.38:581][818]LogSlate: Window 'Message' being destroyed
+[2026.04.22-11.05.38:588][818]Message dialog closed, result: Cancel, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Objects/M_RCard.M_RCard
+(Selecting 'No' will cause all changes to be lost!)
+[2026.04.22-11.05.39:623][890]LogPSOHitching: Encountered 1300 PSO creation hitches so far (509 graphics, 791 compute). 0 of them were precached.
+[2026.04.22-11.05.57:151][217]LogContentBrowser: Deferred new asset file creation: Attack1
+[2026.04.22-11.05.57:162][217]LogContentBrowser: Creating deferred item: Attack1
+[2026.04.22-11.05.57:179][218]LogContentBrowser: Renaming the item being created (Deferred Item: Attack1).
+[2026.04.22-11.06.13:579][666]LogContentBrowser: Attempting asset rename: Attack1 -> AttackR
+[2026.04.22-11.06.13:579][666]LogContentBrowser: End creating deferred item Attack1
+[2026.04.22-11.06.15:960][839]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Characters/Attack/AttackR.AttackR
+[2026.04.22-11.06.15:962][839]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2026.04.22-11.06.16:394][839]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.04.22-11.06.37:747][587]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-11.06.37:803][587]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Attack/AttackR] ([1] browsable assets)...
+[2026.04.22-11.06.37:805][587]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Characters/Attack/AttackR.AttackR]
+[2026.04.22-11.06.37:805][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Attack/AttackR]
+[2026.04.22-11.06.37:805][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Attack/AttackR" FILE="../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Characters/Attack/AttackR.uasset" SILENT=true
+[2026.04.22-11.06.37:812][587]LogSavePackage: Moving output files for package: /Game/Characters/Attack/AttackR
+[2026.04.22-11.06.37:812][587]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/AttackR9522580D4C17240B8E49E8BB496C75F4.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Characters/Attack/AttackR.uasset'
+[2026.04.22-11.06.37:823][587]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.418 ms (total: 1.92 sec)
+[2026.04.22-11.06.37:885][587]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.22-11.06.37:885][587]LogContentValidation: Enabled validators:
+[2026.04.22-11.06.37:885][587]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-11.06.37:885][587]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-11.06.37:885][587]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-11.06.37:885][587]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-11.06.37:885][587]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-11.06.37:885][587]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-11.06.37:885][587]AssetCheck: /Game/Characters/Attack/AttackR Validating asset
+[2026.04.22-11.06.37:910][587]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.22-11.06.56:013][138]LogSlate: Window 'Content Browser' being destroyed
+[2026.04.22-11.07.12:713][826]LogSlate: Window 'Content Browser' being destroyed
+[2026.04.22-11.07.15:847][ 95]LogSlate: Window 'Content Browser' being destroyed
+[2026.04.22-11.07.36:832][799]LogContentBrowser: Deferred new asset file creation: Attack1
+[2026.04.22-11.07.36:878][799]LogContentBrowser: Creating deferred item: Attack1
+[2026.04.22-11.07.36:915][800]LogContentBrowser: Renaming the item being created (Deferred Item: Attack1).
+[2026.04.22-11.07.54:265][364]LogContentBrowser: Attempting asset rename: Attack1 -> AttackL
+[2026.04.22-11.07.54:265][364]LogContentBrowser: End creating deferred item Attack1
+[2026.04.22-11.07.55:667][468]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Characters/Attack/AttackL.AttackL
+[2026.04.22-11.07.55:668][468]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2026.04.22-11.09.09:084][631]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-11.09.09:131][631]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Attack/AttackL] ([1] browsable assets)...
+[2026.04.22-11.09.09:133][631]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Characters/Attack/AttackL.AttackL]
+[2026.04.22-11.09.09:133][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Attack/AttackL]
+[2026.04.22-11.09.09:133][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Attack/AttackL" FILE="../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Characters/Attack/AttackL.uasset" SILENT=true
+[2026.04.22-11.09.09:142][631]LogSavePackage: Moving output files for package: /Game/Characters/Attack/AttackL
+[2026.04.22-11.09.09:142][631]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/AttackL43B2F0204DC72919CAF7ACB1328CD586.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Characters/Attack/AttackL.uasset'
+[2026.04.22-11.09.09:155][631]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.680 ms (total: 1.99 sec)
+[2026.04.22-11.09.09:211][631]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.22-11.09.09:212][631]LogContentValidation: Enabled validators:
+[2026.04.22-11.09.09:212][631]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-11.09.09:212][631]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-11.09.09:212][631]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-11.09.09:212][631]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-11.09.09:212][631]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-11.09.09:212][631]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-11.09.09:212][631]AssetCheck: /Game/Characters/Attack/AttackL Validating asset
+[2026.04.22-11.09.09:239][631]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.22-11.09.18:341][302]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-11.09.18:396][302]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Attack/AttackR] ([1] browsable assets)...
+[2026.04.22-11.09.18:396][302]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Attack/AttackR]
+[2026.04.22-11.09.18:396][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Attack/AttackR" FILE="../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Characters/Attack/AttackR.uasset" SILENT=true
+[2026.04.22-11.09.18:402][302]LogSavePackage: Moving output files for package: /Game/Characters/Attack/AttackR
+[2026.04.22-11.09.18:402][302]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/AttackR8F59D56D4139138EF598E28EA56CA16F.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Characters/Attack/AttackR.uasset'
+[2026.04.22-11.09.18:413][302]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.192 ms (total: 2.06 sec)
+[2026.04.22-11.09.18:481][302]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.22-11.09.18:481][302]LogContentValidation: Enabled validators:
+[2026.04.22-11.09.18:481][302]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-11.09.18:481][302]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-11.09.18:481][302]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-11.09.18:481][302]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-11.09.18:481][302]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-11.09.18:481][302]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-11.09.18:481][302]AssetCheck: /Game/Characters/Attack/AttackR Validating asset
+[2026.04.22-11.11.37:755][700]LogAssetEditorSubsystem: Opening Asset editor for PaperZDAnimationSource_Flipbook /Game/Characters/Walk/AS_Player.AS_Player
+[2026.04.22-11.11.37:783][700]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2026.04.22-11.11.41:881][ 17]LogPSOHitching: Encountered 1350 PSO creation hitches so far (535 graphics, 815 compute). 0 of them were precached.
+[2026.04.22-11.12.05:780][852]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10882.927734
+[2026.04.22-11.12.05:865][862]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.22-11.12.05:865][862]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10883.002930, Update Interval: 335.948364
+[2026.04.22-11.12.40:657][278]LogDerivedDataCache: C:/Users/ksande57/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.22-11.12.47:103][897]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2026.04.22-11.12.47:114][897]LogContentBrowser: Creating deferred item: NewInputAction
+[2026.04.22-11.12.47:126][898]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2026.04.22-11.13.01:742][612]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Attack
+[2026.04.22-11.13.01:744][612]LogContentBrowser: End creating deferred item NewInputAction
+[2026.04.22-11.13.05:483][ 19]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/Actions/IA_Attack.IA_Attack
+[2026.04.22-11.13.24:618][978]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Input/IMC_Default.IMC_Default
+[2026.04.22-11.14.01:460][969]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-11.14.01:521][969]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Default] ([1] browsable assets)...
+[2026.04.22-11.14.01:521][969]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Default]
+[2026.04.22-11.14.01:521][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Default" FILE="../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Input/IMC_Default.uasset" SILENT=true
+[2026.04.22-11.14.01:529][969]LogSavePackage: Moving output files for package: /Game/Input/IMC_Default
+[2026.04.22-11.14.01:529][969]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/IMC_Default0E53941F4856CCC03DC031B5AE1CB5CC.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Input/IMC_Default.uasset'
+[2026.04.22-11.14.01:542][969]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.223 ms (total: 2.14 sec)
+[2026.04.22-11.14.01:579][969]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.22-11.14.01:579][969]LogContentValidation: Enabled validators:
+[2026.04.22-11.14.01:579][969]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-11.14.01:579][969]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-11.14.01:579][969]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-11.14.01:579][969]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-11.14.01:579][969]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-11.14.01:579][969]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-11.14.01:580][969]AssetCheck: /Game/Input/IMC_Default Validating asset
+[2026.04.22-11.14.01:601][969]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.22-11.14.26:672][322]LogAssetEditorSubsystem: Opening Asset editor for PaperZDAnimBP /Game/Characters/Walk/ABP_Player.ABP_Player
+[2026.04.22-11.14.26:672][322]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2026.04.22-11.15.28:684][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.04.22-11.15.28:691][582]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Testplace/Testplace' took 0.155
+[2026.04.22-11.15.28:691][582]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Walk/ABP_Player] ([2] browsable assets)...
+[2026.04.22-11.15.28:691][582]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Walk/ABP_Player]
+[2026.04.22-11.15.28:705][582]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Walk/ABP_Player_Auto8
+[2026.04.22-11.15.28:705][582]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/ABP_Player_Auto8315CFA7645BEBC9AA94CD4BEA5786EB2.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/Characters/Walk/ABP_Player_Auto8.uasset'
+[2026.04.22-11.15.28:706][582]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_Attack] ([1] browsable assets)...
+[2026.04.22-11.15.28:706][582]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_Attack]
+[2026.04.22-11.15.28:711][582]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/Actions/IA_Attack_Auto8
+[2026.04.22-11.15.28:711][582]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/IA_Attack_Auto854FC28C74FE207714FC46C8550F67DD1.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Autosaves/Game/Input/Actions/IA_Attack_Auto8.uasset'
+[2026.04.22-11.15.28:711][582]LogFileHelpers: Auto-saving content packages took 0.021
+[2026.04.22-11.17.25:623][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.04.22-11.17.45:822][509]LogContentBrowser: Attempting asset rename: NewPaperZDAnimSequence -> Attack
+[2026.04.22-11.17.45:904][509]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-11.17.45:904][509]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Walk/AnimSequences/Attack] ([1] browsable assets)...
+[2026.04.22-11.17.45:904][509]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Walk/AnimSequences/Attack]
+[2026.04.22-11.17.45:911][509]LogSavePackage: Moving output files for package: /Game/Characters/Walk/AnimSequences/Attack
+[2026.04.22-11.17.45:911][509]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Attack0DD266DB450D324AC66F71A8D1B8B658.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Characters/Walk/AnimSequences/Attack.uasset'
+[2026.04.22-11.17.45:912][509]LogFileHelpers: InternalPromptForCheckoutAndSave took 7.475 ms (total: 2.15 sec)
+[2026.04.22-11.17.45:943][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.04.22-11.17.45:971][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.04.22-11.17.46:000][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.04.22-11.17.46:075][509]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.22-11.17.46:075][509]LogContentValidation: Enabled validators:
+[2026.04.22-11.17.46:075][509]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-11.17.46:075][509]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-11.17.46:075][509]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-11.17.46:075][509]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-11.17.46:075][509]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-11.17.46:075][509]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-11.17.46:075][509]AssetCheck: /Game/Characters/Walk/AnimSequences/Attack Validating asset
+[2026.04.22-11.17.46:114][509]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.22-11.18.20:222][412]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11257.732422
+[2026.04.22-11.18.20:299][421]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.22-11.18.20:299][421]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11257.799805, Update Interval: 356.147339
+[2026.04.22-11.19.05:646][522]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-11.19.05:700][522]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Walk/AS_Player] ([1] browsable assets)...
+[2026.04.22-11.19.05:700][522]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Walk/AS_Player]
+[2026.04.22-11.19.05:700][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Walk/AS_Player" FILE="../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Characters/Walk/AS_Player.uasset" SILENT=true
+[2026.04.22-11.19.05:707][522]LogSavePackage: Moving output files for package: /Game/Characters/Walk/AS_Player
+[2026.04.22-11.19.05:707][522]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/AS_PlayerCDD4EC4C44E4754DBE3A7D935A316712.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Characters/Walk/AS_Player.uasset'
+[2026.04.22-11.19.05:718][522]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.843 ms (total: 2.22 sec)
+[2026.04.22-11.19.05:779][522]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.22-11.19.05:779][522]LogContentValidation: Enabled validators:
+[2026.04.22-11.19.05:779][522]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-11.19.05:779][522]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-11.19.05:779][522]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-11.19.05:780][522]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-11.19.05:780][522]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-11.19.05:780][522]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-11.19.05:780][522]AssetCheck: /Game/Characters/Walk/AS_Player Validating asset
+[2026.04.22-11.20.38:814][128]LogPSOHitching: Encountered 1400 PSO creation hitches so far (559 graphics, 841 compute). 0 of them were precached.
+[2026.04.22-11.20.39:015][128]LogPSOHitching: Encountered 1450 PSO creation hitches so far (562 graphics, 888 compute). 0 of them were precached.
+[2026.04.22-11.20.39:244][129]LogPSOHitching: Encountered 1500 PSO creation hitches so far (577 graphics, 923 compute). 0 of them were precached.
+[2026.04.22-11.20.41:536][330]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-11.20.41:536][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-11.20.41:547][330]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-11.20.41:547][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-11.20.41:663][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2026.04.22-11.20.42:475][413]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-11.20.42:475][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-11.20.42:483][413]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-11.20.42:483][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-11.20.42:565][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.04.22-11.22.50:833][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.04.22-11.24.29:369][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.04.22-11.24.46:496][695]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.04.22-11.24.51:675][ 42]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_SpriteController.BP_SpriteController
+[2026.04.22-11.24.51:675][ 42]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2026.04.22-11.25.13:540][408]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11671.315430
+[2026.04.22-11.25.13:639][415]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.22-11.25.13:639][415]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11671.399414, Update Interval: 309.920959
+[2026.04.22-11.28.05:734][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.04.22-11.28.09:959][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-11.28.10:014][ 14]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_SpriteController] ([2] browsable assets)...
+[2026.04.22-11.28.10:014][ 14]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_SpriteController]
+[2026.04.22-11.28.10:025][ 14]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_SpriteController
+[2026.04.22-11.28.10:025][ 14]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/BP_SpriteControllerD354530448E728F5344BECB16FCC3B39.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/ThirdPerson/Blueprints/BP_SpriteController.uasset'
+[2026.04.22-11.28.10:039][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.178 ms (total: 2.30 sec)
+[2026.04.22-11.28.10:094][ 14]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.22-11.28.10:094][ 14]LogContentValidation: Enabled validators:
+[2026.04.22-11.28.10:094][ 14]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-11.28.10:094][ 14]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-11.28.10:094][ 14]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-11.28.10:094][ 14]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-11.28.10:094][ 14]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-11.28.10:094][ 14]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-11.28.10:094][ 14]AssetCheck: /Game/ThirdPerson/Blueprints/BP_SpriteController Validating asset
+[2026.04.22-11.28.10:119][ 14]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.22-11.28.13:027][285]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.22-11.28.13:035][285]LogPlayLevel: [PlayLevel] Compiling BP_Item before play...
+[2026.04.22-11.28.13:096][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.04.22-11.28.13:101][285]LogPlayLevel: PlayLevel: Blueprint regeneration took 67 ms (1 blueprints)
+[2026.04.22-11.28.13:136][285]LogPlayLevel: Display: Creating online subsystem for client :Context_42
+[2026.04.22-11.28.13:139][285]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2026.04.22-11.28.13:153][286]LogPlayLevel: Creating play world package: /Game/Levels/Testplace/UEDPIE_0_Testplace
+[2026.04.22-11.28.13:170][286]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016997s)
+[2026.04.22-11.28.13:170][286]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testplace/Testplace.Testplace to /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace (0.017107s)
+[2026.04.22-11.28.13:171][286]LogPSOHitching: Encountered 1550 PSO creation hitches so far (603 graphics, 947 compute). 0 of them were precached.
+[2026.04.22-11.28.13:205][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.04.22-11.28.13:209][286]LogChaosDD: Creating Chaos Debug Draw Scene for world Testplace
+[2026.04.22-11.28.13:211][286]LogPlayLevel: PIE: World Init took: (0.001847s)
+[2026.04.22-11.28.13:212][286]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2026.04.22-11.28.13:212][286]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.22-11.28.13:212][286]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.22-11.28.13:212][286]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.22-11.28.13:212][286]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.22-11.28.13:212][286]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.22-11.28.13:212][286]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.22-11.28.13:212][286]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.22-11.28.13:212][286]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.22-11.28.13:212][286]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.22-11.28.13:212][286]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.22-11.28.13:212][286]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.22-11.28.13:214][286]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.22-11.28.13:244][286]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.22-11.28.13:244][286]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.22-11.28.13:244][286]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.22-11.28.13:244][286]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.22-11.28.13:245][286]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2026.04.22-11.28.13:245][286]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2026.04.22-11.28.13:248][286]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2026.04.22-11.28.13:248][286]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2026.04.22-11.28.13:248][286]LogInit: FAudioDevice initialized with ID 19.
+[2026.04.22-11.28.13:248][286]LogAudio: Display: Audio Device (ID: 19) registered with world 'Testplace'.
+[2026.04.22-11.28.13:248][286]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2026.04.22-11.28.13:253][286]LogLoad: Game class is 'BP_SpriteGameMode_C'
+[2026.04.22-11.28.13:257][286]LogWorld: Bringing World /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace up for play (max tick rate 0) at 2026.04.22-07.28.13
+[2026.04.22-11.28.13:257][286]LogWorld: Bringing up level for play took: 0.003427
+[2026.04.22-11.28.13:260][286]LogScript: Warning: Script Msg: The widget 'WBP_GameUI_C_0' was already added to the screen.
+[2026.04.22-11.28.13:260][286]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace:PersistentLevel.BP_Sprite_C_0
+[2026.04.22-11.28.13:260][286]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.22-11.28.13:260][286]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace:PersistentLevel.BP_Sprite_C_0
+[2026.04.22-11.28.13:261][286]PIE: Server logged in
+[2026.04.22-11.28.13:263][286]PIE: Play in editor total start time 0.229 seconds.
+[2026.04.22-11.28.13:315][287]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.22-11.28.25:922][688]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.22-11.28.25:922][688]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace:PersistentLevel.BP_Sprite_C_0
+[2026.04.22-11.28.33:757][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-11.28.33:757][571]LogWorld: BeginTearingDown for /Game/Levels/Testplace/UEDPIE_0_Testplace
+[2026.04.22-11.28.33:757][571]LogWorld: UWorld::CleanupWorld for Testplace, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-11.28.33:758][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-11.28.33:761][571]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.22-11.28.33:765][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-11.28.33:785][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-11.28.33:786][571]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2026.04.22-11.28.33:786][571]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=4
+[2026.04.22-11.28.33:788][571]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=2
+[2026.04.22-11.28.33:797][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.04.22-11.28.33:834][572]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2026.04.22-11.28.35:604][748]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.22-11.28.35:610][748]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.22-11.28.35:646][748]LogPlayLevel: Display: Creating online subsystem for client :Context_43
+[2026.04.22-11.28.35:648][748]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2026.04.22-11.28.35:662][749]LogPlayLevel: Creating play world package: /Game/Levels/Testplace/UEDPIE_0_Testplace
+[2026.04.22-11.28.35:670][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009741s)
+[2026.04.22-11.28.35:670][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testplace/Testplace.Testplace to /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace (0.009784s)
+[2026.04.22-11.28.35:692][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.04.22-11.28.35:696][749]LogChaosDD: Creating Chaos Debug Draw Scene for world Testplace
+[2026.04.22-11.28.35:697][749]LogPlayLevel: PIE: World Init took: (0.001454s)
+[2026.04.22-11.28.35:698][749]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2026.04.22-11.28.35:698][749]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.22-11.28.35:698][749]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.22-11.28.35:698][749]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.22-11.28.35:698][749]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.22-11.28.35:698][749]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.22-11.28.35:698][749]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.22-11.28.35:698][749]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.22-11.28.35:698][749]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.22-11.28.35:698][749]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.22-11.28.35:698][749]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.22-11.28.35:698][749]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.22-11.28.35:701][749]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.22-11.28.35:731][749]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.22-11.28.35:732][749]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.22-11.28.35:732][749]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.22-11.28.35:732][749]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.22-11.28.35:732][749]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2026.04.22-11.28.35:732][749]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2026.04.22-11.28.35:734][749]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2026.04.22-11.28.35:734][749]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2026.04.22-11.28.35:734][749]LogInit: FAudioDevice initialized with ID 20.
+[2026.04.22-11.28.35:734][749]LogAudio: Display: Audio Device (ID: 20) registered with world 'Testplace'.
+[2026.04.22-11.28.35:734][749]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2026.04.22-11.28.35:738][749]LogLoad: Game class is 'BP_SpriteGameMode_C'
+[2026.04.22-11.28.35:741][749]LogWorld: Bringing World /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace up for play (max tick rate 0) at 2026.04.22-07.28.35
+[2026.04.22-11.28.35:742][749]LogWorld: Bringing up level for play took: 0.002750
+[2026.04.22-11.28.35:744][749]LogScript: Warning: Script Msg: The widget 'WBP_GameUI_C_0' was already added to the screen.
+[2026.04.22-11.28.35:744][749]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace:PersistentLevel.BP_Sprite_C_0
+[2026.04.22-11.28.35:744][749]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.22-11.28.35:744][749]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace:PersistentLevel.BP_Sprite_C_0
+[2026.04.22-11.28.35:744][749]PIE: Server logged in
+[2026.04.22-11.28.35:748][749]PIE: Play in editor total start time 0.138 seconds.
+[2026.04.22-11.28.35:787][750]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.22-11.28.40:259][220]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.22-11.28.40:259][220]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace:PersistentLevel.BP_Sprite_C_0
+[2026.04.22-11.28.57:188][ 34]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.22-11.28.57:188][ 34]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace:PersistentLevel.BP_Sprite_C_0
+[2026.04.22-11.29.12:996][718]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.22-11.29.12:997][718]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace:PersistentLevel.BP_Sprite_C_0
+[2026.04.22-11.29.20:944][566]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.22-11.29.20:944][566]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace:PersistentLevel.BP_Sprite_C_0
+[2026.04.22-11.30.22:827][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-11.30.22:827][136]LogWorld: BeginTearingDown for /Game/Levels/Testplace/UEDPIE_0_Testplace
+[2026.04.22-11.30.22:827][136]LogWorld: UWorld::CleanupWorld for Testplace, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-11.30.22:828][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-11.30.22:830][136]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.22-11.30.22:835][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-11.30.22:853][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-11.30.22:853][136]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2026.04.22-11.30.22:853][136]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=4
+[2026.04.22-11.30.22:856][136]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=2
+[2026.04.22-11.30.22:864][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.04.22-11.30.23:001][137]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2026.04.22-11.30.23:092][139]LogPSOHitching: Encountered 1600 PSO creation hitches so far (625 graphics, 975 compute). 0 of them were precached.
+[2026.04.22-11.30.50:177][262]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Characters/Walk/Janitor_Sprite_Rwalk.Janitor_Sprite_Rwalk
+[2026.04.22-11.30.50:178][262]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2026.04.22-11.31.03:561][973]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12023.200195
+[2026.04.22-11.31.03:632][979]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.22-11.31.03:632][979]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12023.258789, Update Interval: 329.193390
+[2026.04.22-11.31.13:798][837]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-11.31.13:798][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-11.31.13:852][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.04.22-11.31.20:938][296]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-11.31.20:938][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-11.31.21:047][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.04.22-11.31.23:754][385]LogSlate: Window 'Message' being destroyed
+[2026.04.22-11.31.23:762][385]Message dialog closed, result: Cancel, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Objects/M_GCard.M_GCard
+(Selecting 'No' will cause all changes to be lost!)
+[2026.04.22-11.31.27:083][486]LogSlate: Window 'Message' being destroyed
+[2026.04.22-11.31.27:091][486]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Objects/M_RCard.M_RCard
+(Selecting 'No' will cause all changes to be lost!)
+[2026.04.22-11.31.27:202][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.04.22-11.31.27:435][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.04.22-11.31.27:520][486]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-11.31.27:521][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-11.31.27:646][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.04.22-11.31.32:409][582]LogSlate: Window 'Message' being destroyed
+[2026.04.22-11.31.32:416][582]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Objects/M_GCard.M_GCard
+(Selecting 'No' will cause all changes to be lost!)
+[2026.04.22-11.31.32:513][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.04.22-11.31.32:712][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.04.22-11.31.32:782][582]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-11.31.32:782][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-11.31.32:895][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.04.22-11.32.04:290][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.04.22-11.32.06:867][734]LogSlate: Window 'Save Content' being destroyed
+[2026.04.22-11.32.06:877][734]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-11.32.06:927][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Walk/ABP_Player] ([2] browsable assets)...
+[2026.04.22-11.32.06:927][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Walk/ABP_Player]
+[2026.04.22-11.32.06:927][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Walk/ABP_Player" FILE="../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Characters/Walk/ABP_Player.uasset" SILENT=true
+[2026.04.22-11.32.06:942][734]LogSavePackage: Moving output files for package: /Game/Characters/Walk/ABP_Player
+[2026.04.22-11.32.06:942][734]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/ABP_Player50F23E76482BD8D0C9F64FAC51D6504F.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Characters/Walk/ABP_Player.uasset'
+[2026.04.22-11.32.06:943][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Attack/Attack] ([1] browsable assets)...
+[2026.04.22-11.32.06:943][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Attack/Attack]
+[2026.04.22-11.32.06:943][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Attack/Attack" FILE="../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Characters/Attack/Attack.uasset" SILENT=true
+[2026.04.22-11.32.06:949][734]LogSavePackage: Moving output files for package: /Game/Characters/Attack/Attack
+[2026.04.22-11.32.06:949][734]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Attack61DF1D0A4336914F40DE87B8C491678D.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Characters/Attack/Attack.uasset'
+[2026.04.22-11.32.06:951][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Walk/AnimSequences/Attack] ([1] browsable assets)...
+[2026.04.22-11.32.06:951][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Walk/AnimSequences/Attack]
+[2026.04.22-11.32.06:955][734]LogSavePackage: Moving output files for package: /Game/Characters/Walk/AnimSequences/Attack
+[2026.04.22-11.32.06:955][734]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/AttackA1DFD0564FD3F978D6295DA8027DFBA0.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Characters/Walk/AnimSequences/Attack.uasset'
+[2026.04.22-11.32.06:955][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Attack/Attack_Sprite_0] ([1] browsable assets)...
+[2026.04.22-11.32.06:955][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Attack/Attack_Sprite_0]
+[2026.04.22-11.32.06:960][734]LogSavePackage: Moving output files for package: /Game/Characters/Attack/Attack_Sprite_0
+[2026.04.22-11.32.06:960][734]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Attack_Sprite_0D3F0EB0C4C2EA6D95E36AE8F41CCBA56.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Characters/Attack/Attack_Sprite_0.uasset'
+[2026.04.22-11.32.06:961][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Attack/Attack_Sprite_1] ([1] browsable assets)...
+[2026.04.22-11.32.06:961][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Attack/Attack_Sprite_1]
+[2026.04.22-11.32.06:965][734]LogSavePackage: Moving output files for package: /Game/Characters/Attack/Attack_Sprite_1
+[2026.04.22-11.32.06:965][734]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Attack_Sprite_1CF7069FC4367A8B839AACAA91F9E19DD.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Characters/Attack/Attack_Sprite_1.uasset'
+[2026.04.22-11.32.06:966][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Attack/Attack_Sprite_10] ([1] browsable assets)...
+[2026.04.22-11.32.06:966][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Attack/Attack_Sprite_10]
+[2026.04.22-11.32.06:970][734]LogSavePackage: Moving output files for package: /Game/Characters/Attack/Attack_Sprite_10
+[2026.04.22-11.32.06:970][734]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Attack_Sprite_1050AFEAAF44240D58B49F96B945418DC3.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Characters/Attack/Attack_Sprite_10.uasset'
+[2026.04.22-11.32.06:971][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Attack/Attack_Sprite_11] ([1] browsable assets)...
+[2026.04.22-11.32.06:971][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Attack/Attack_Sprite_11]
+[2026.04.22-11.32.06:976][734]LogSavePackage: Moving output files for package: /Game/Characters/Attack/Attack_Sprite_11
+[2026.04.22-11.32.06:976][734]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Attack_Sprite_1181ABF387486B23DB41489F961E8DE91A.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Characters/Attack/Attack_Sprite_11.uasset'
+[2026.04.22-11.32.06:977][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Attack/Attack_Sprite_12] ([1] browsable assets)...
+[2026.04.22-11.32.06:977][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Attack/Attack_Sprite_12]
+[2026.04.22-11.32.06:981][734]LogSavePackage: Moving output files for package: /Game/Characters/Attack/Attack_Sprite_12
+[2026.04.22-11.32.06:981][734]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Attack_Sprite_1212F45AC04D0B39977A26839846CAC704.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Characters/Attack/Attack_Sprite_12.uasset'
+[2026.04.22-11.32.06:982][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Attack/Attack_Sprite_13] ([1] browsable assets)...
+[2026.04.22-11.32.06:982][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Attack/Attack_Sprite_13]
+[2026.04.22-11.32.06:985][734]LogSavePackage: Moving output files for package: /Game/Characters/Attack/Attack_Sprite_13
+[2026.04.22-11.32.06:985][734]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Attack_Sprite_13A6E17D7E4122B1EA587C559306E7E2B7.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Characters/Attack/Attack_Sprite_13.uasset'
+[2026.04.22-11.32.06:986][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Attack/Attack_Sprite_14] ([1] browsable assets)...
+[2026.04.22-11.32.06:986][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Attack/Attack_Sprite_14]
+[2026.04.22-11.32.06:991][734]LogSavePackage: Moving output files for package: /Game/Characters/Attack/Attack_Sprite_14
+[2026.04.22-11.32.06:991][734]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Attack_Sprite_145076C2EA42A53B96BF8D7981A48961CE.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Characters/Attack/Attack_Sprite_14.uasset'
+[2026.04.22-11.32.06:991][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Attack/Attack_Sprite_15] ([1] browsable assets)...
+[2026.04.22-11.32.06:991][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Attack/Attack_Sprite_15]
+[2026.04.22-11.32.06:996][734]LogSavePackage: Moving output files for package: /Game/Characters/Attack/Attack_Sprite_15
+[2026.04.22-11.32.06:996][734]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Attack_Sprite_15224FC3794A58F98AF645B2B313449E98.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Characters/Attack/Attack_Sprite_15.uasset'
+[2026.04.22-11.32.06:997][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Attack/Attack_Sprite_2] ([1] browsable assets)...
+[2026.04.22-11.32.06:997][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Attack/Attack_Sprite_2]
+[2026.04.22-11.32.07:001][734]LogSavePackage: Moving output files for package: /Game/Characters/Attack/Attack_Sprite_2
+[2026.04.22-11.32.07:001][734]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Attack_Sprite_2E5AF05C7404936FCDD192088C4B012D4.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Characters/Attack/Attack_Sprite_2.uasset'
+[2026.04.22-11.32.07:002][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Attack/Attack_Sprite_3] ([1] browsable assets)...
+[2026.04.22-11.32.07:002][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Attack/Attack_Sprite_3]
+[2026.04.22-11.32.07:007][734]LogSavePackage: Moving output files for package: /Game/Characters/Attack/Attack_Sprite_3
+[2026.04.22-11.32.07:007][734]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Attack_Sprite_32844402E4332BCB81762BB8769B03755.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Characters/Attack/Attack_Sprite_3.uasset'
+[2026.04.22-11.32.07:008][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Attack/Attack_Sprite_4] ([1] browsable assets)...
+[2026.04.22-11.32.07:008][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Attack/Attack_Sprite_4]
+[2026.04.22-11.32.07:011][734]LogSavePackage: Moving output files for package: /Game/Characters/Attack/Attack_Sprite_4
+[2026.04.22-11.32.07:011][734]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Attack_Sprite_4BB8363394040A199C9E661927735A0E7.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Characters/Attack/Attack_Sprite_4.uasset'
+[2026.04.22-11.32.07:012][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Attack/Attack_Sprite_5] ([1] browsable assets)...
+[2026.04.22-11.32.07:012][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Attack/Attack_Sprite_5]
+[2026.04.22-11.32.07:017][734]LogSavePackage: Moving output files for package: /Game/Characters/Attack/Attack_Sprite_5
+[2026.04.22-11.32.07:017][734]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Attack_Sprite_5EBD10B624A0A94F14A1F298064CCBD17.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Characters/Attack/Attack_Sprite_5.uasset'
+[2026.04.22-11.32.07:017][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Attack/Attack_Sprite_6] ([1] browsable assets)...
+[2026.04.22-11.32.07:017][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Attack/Attack_Sprite_6]
+[2026.04.22-11.32.07:021][734]LogSavePackage: Moving output files for package: /Game/Characters/Attack/Attack_Sprite_6
+[2026.04.22-11.32.07:021][734]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Attack_Sprite_683429036422E3DF3186541BCC95DBE08.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Characters/Attack/Attack_Sprite_6.uasset'
+[2026.04.22-11.32.07:022][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Attack/Attack_Sprite_7] ([1] browsable assets)...
+[2026.04.22-11.32.07:022][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Attack/Attack_Sprite_7]
+[2026.04.22-11.32.07:027][734]LogSavePackage: Moving output files for package: /Game/Characters/Attack/Attack_Sprite_7
+[2026.04.22-11.32.07:027][734]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Attack_Sprite_7F83691424D029CB1BF06298FBF29DB73.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Characters/Attack/Attack_Sprite_7.uasset'
+[2026.04.22-11.32.07:028][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Attack/Attack_Sprite_8] ([1] browsable assets)...
+[2026.04.22-11.32.07:028][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Attack/Attack_Sprite_8]
+[2026.04.22-11.32.07:032][734]LogSavePackage: Moving output files for package: /Game/Characters/Attack/Attack_Sprite_8
+[2026.04.22-11.32.07:032][734]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Attack_Sprite_894E73A2D40F801F1FCE076B020790393.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Characters/Attack/Attack_Sprite_8.uasset'
+[2026.04.22-11.32.07:033][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Attack/Attack_Sprite_9] ([1] browsable assets)...
+[2026.04.22-11.32.07:033][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Attack/Attack_Sprite_9]
+[2026.04.22-11.32.07:038][734]LogSavePackage: Moving output files for package: /Game/Characters/Attack/Attack_Sprite_9
+[2026.04.22-11.32.07:038][734]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/Attack_Sprite_9C29D81D145F96CA148389196E4B2AFDD.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Characters/Attack/Attack_Sprite_9.uasset'
+[2026.04.22-11.32.07:039][734]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WBP/InventoryBlueprints/BP_Item] ([2] browsable assets)...
+[2026.04.22-11.32.07:074][734]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WBP/InventoryBlueprints/BP_Item.BP_Item]
+[2026.04.22-11.32.07:074][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WBP/InventoryBlueprints/BP_Item]
+[2026.04.22-11.32.07:084][734]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP/InventoryBlueprints/BP_Item
+[2026.04.22-11.32.07:084][734]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/BP_Item8D0801C7435E9AE0F7FE5188A2CFC507.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Blueprints/WBP/InventoryBlueprints/BP_Item.uasset'
+[2026.04.22-11.32.07:085][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_Attack] ([1] browsable assets)...
+[2026.04.22-11.32.07:085][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_Attack]
+[2026.04.22-11.32.07:085][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/Actions/IA_Attack" FILE="../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Input/Actions/IA_Attack.uasset" SILENT=true
+[2026.04.22-11.32.07:089][734]LogSavePackage: Moving output files for package: /Game/Input/Actions/IA_Attack
+[2026.04.22-11.32.07:089][734]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/IA_Attack106EB8FD499E3F6DF8ABC3A89D6C0783.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Input/Actions/IA_Attack.uasset'
+[2026.04.22-11.32.07:089][734]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Objects/M_GCard] ([1] browsable assets)...
+[2026.04.22-11.32.07:099][734]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Objects/M_GCard.M_GCard]
+[2026.04.22-11.32.07:099][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Objects/M_GCard]
+[2026.04.22-11.32.07:099][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/M_GCard" FILE="../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Objects/M_GCard.uasset" SILENT=true
+[2026.04.22-11.32.07:105][734]LogSavePackage: Moving output files for package: /Game/Objects/M_GCard
+[2026.04.22-11.32.07:105][734]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/M_GCard3DDE246542239CCDB9E16B9DDF570FD2.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Objects/M_GCard.uasset'
+[2026.04.22-11.32.07:106][734]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Objects/M_RCard] ([1] browsable assets)...
+[2026.04.22-11.32.07:115][734]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Objects/M_RCard.M_RCard]
+[2026.04.22-11.32.07:115][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Objects/M_RCard]
+[2026.04.22-11.32.07:115][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/M_RCard" FILE="../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Objects/M_RCard.uasset" SILENT=true
+[2026.04.22-11.32.07:121][734]LogSavePackage: Moving output files for package: /Game/Objects/M_RCard
+[2026.04.22-11.32.07:121][734]LogSavePackage: Moving '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/M_RCard4B7658E04F25197E3BDC76A8FE97636A.tmp' to '../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Objects/M_RCard.uasset'
+[2026.04.22-11.32.07:174][734]LogFileHelpers: InternalPromptForCheckoutAndSave took 295.939 ms (total: 2.60 sec)
+[2026.04.22-11.32.07:174][734]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Testplace/Testplace.Testplace
+[2026.04.22-11.32.07:174][734]Cmd: MAP LOAD FILE="../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Levels/Testplace/Testplace.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.04.22-11.32.07:195][734]LogWorld: UWorld::CleanupWorld for Testplace, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-11.32.07:195][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-11.32.07:214][734]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.22-11.32.07:219][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.04.22-11.32.07:223][734]LogStreaming: Display: FlushAsyncLoading(601): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.22-11.32.07:318][734]LogAudio: Display: Audio Device (ID: 1) registered with world 'Testplace'.
+[2026.04.22-11.32.07:318][734]LogChaosDD: Creating Chaos Debug Draw Scene for world Testplace
+[2026.04.22-11.32.07:354][734]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.04.22-11.32.07:376][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.04.22-11.32.07:392][734]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.04.22-11.32.07:392][734]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.056ms to complete.
+[2026.04.22-11.32.07:457][734]LogContentValidation: Display: Starting to validate 23 assets
+[2026.04.22-11.32.07:457][734]LogContentValidation: Enabled validators:
+[2026.04.22-11.32.07:457][734]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-11.32.07:457][734]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-11.32.07:457][734]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-11.32.07:457][734]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-11.32.07:457][734]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-11.32.07:457][734]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-11.32.07:457][734]AssetCheck: /Game/Characters/Walk/ABP_Player Validating asset
+[2026.04.22-11.32.07:458][734]AssetCheck: /Game/Characters/Attack/Attack Validating asset
+[2026.04.22-11.32.07:458][734]AssetCheck: /Game/Characters/Walk/AnimSequences/Attack Validating asset
+[2026.04.22-11.32.07:458][734]AssetCheck: /Game/Characters/Attack/Attack_Sprite_0 Validating asset
+[2026.04.22-11.32.07:458][734]AssetCheck: /Game/Characters/Attack/Attack_Sprite_1 Validating asset
+[2026.04.22-11.32.07:458][734]AssetCheck: /Game/Characters/Attack/Attack_Sprite_10 Validating asset
+[2026.04.22-11.32.07:458][734]AssetCheck: /Game/Characters/Attack/Attack_Sprite_11 Validating asset
+[2026.04.22-11.32.07:458][734]AssetCheck: /Game/Characters/Attack/Attack_Sprite_12 Validating asset
+[2026.04.22-11.32.07:458][734]AssetCheck: /Game/Characters/Attack/Attack_Sprite_13 Validating asset
+[2026.04.22-11.32.07:458][734]AssetCheck: /Game/Characters/Attack/Attack_Sprite_14 Validating asset
+[2026.04.22-11.32.07:458][734]AssetCheck: /Game/Characters/Attack/Attack_Sprite_15 Validating asset
+[2026.04.22-11.32.07:458][734]AssetCheck: /Game/Characters/Attack/Attack_Sprite_2 Validating asset
+[2026.04.22-11.32.07:458][734]AssetCheck: /Game/Characters/Attack/Attack_Sprite_3 Validating asset
+[2026.04.22-11.32.07:458][734]AssetCheck: /Game/Characters/Attack/Attack_Sprite_4 Validating asset
+[2026.04.22-11.32.07:458][734]AssetCheck: /Game/Characters/Attack/Attack_Sprite_5 Validating asset
+[2026.04.22-11.32.07:458][734]AssetCheck: /Game/Characters/Attack/Attack_Sprite_6 Validating asset
+[2026.04.22-11.32.07:458][734]AssetCheck: /Game/Characters/Attack/Attack_Sprite_7 Validating asset
+[2026.04.22-11.32.07:458][734]AssetCheck: /Game/Characters/Attack/Attack_Sprite_8 Validating asset
+[2026.04.22-11.32.07:458][734]AssetCheck: /Game/Characters/Attack/Attack_Sprite_9 Validating asset
+[2026.04.22-11.32.07:458][734]AssetCheck: /Game/Blueprints/WBP/InventoryBlueprints/BP_Item Validating asset
+[2026.04.22-11.32.07:458][734]AssetCheck: /Game/Input/Actions/IA_Attack Validating asset
+[2026.04.22-11.32.07:459][734]AssetCheck: /Game/Objects/M_GCard Validating asset
+[2026.04.22-11.32.07:459][734]AssetCheck: /Game/Objects/M_RCard Validating asset
+[2026.04.22-11.32.07:496][735]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.22-11.32.07:507][735]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.22-11.32.13:523][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.04.22-11.32.13:530][168]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Testplace/Testplace.Testplace
+[2026.04.22-11.32.13:530][168]Cmd: MAP LOAD FILE="../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Levels/Testplace/Testplace.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.04.22-11.32.13:548][168]LogWorld: UWorld::CleanupWorld for Testplace, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-11.32.13:548][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-11.32.13:572][168]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.22-11.32.13:575][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.04.22-11.32.13:579][168]LogStreaming: Display: FlushAsyncLoading(602): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.22-11.32.13:631][168]LogAudio: Display: Audio Device (ID: 1) registered with world 'Testplace'.
+[2026.04.22-11.32.13:631][168]LogChaosDD: Creating Chaos Debug Draw Scene for world Testplace
+[2026.04.22-11.32.13:723][168]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.04.22-11.32.13:746][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.04.22-11.32.13:758][168]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.04.22-11.32.13:758][168]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.051ms to complete.
+[2026.04.22-11.32.13:834][169]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.22-11.32.17:028][448]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.22-11.32.17:035][448]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.22-11.32.17:066][448]LogPlayLevel: Display: Creating online subsystem for client :Context_45
+[2026.04.22-11.32.17:068][448]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2026.04.22-11.32.17:082][449]LogPlayLevel: Creating play world package: /Game/Levels/Testplace/UEDPIE_0_Testplace
+[2026.04.22-11.32.17:093][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010523s)
+[2026.04.22-11.32.17:093][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testplace/Testplace.Testplace to /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace (0.010575s)
+[2026.04.22-11.32.17:118][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.04.22-11.32.17:126][449]LogChaosDD: Creating Chaos Debug Draw Scene for world Testplace
+[2026.04.22-11.32.17:128][449]LogPlayLevel: PIE: World Init took: (0.001569s)
+[2026.04.22-11.32.17:129][449]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2026.04.22-11.32.17:129][449]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.22-11.32.17:129][449]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.22-11.32.17:129][449]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.22-11.32.17:129][449]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.22-11.32.17:129][449]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.22-11.32.17:129][449]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.22-11.32.17:129][449]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.22-11.32.17:129][449]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.22-11.32.17:129][449]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.22-11.32.17:129][449]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.22-11.32.17:129][449]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.22-11.32.17:131][449]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.22-11.32.17:156][449]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.22-11.32.17:157][449]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.22-11.32.17:157][449]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.22-11.32.17:157][449]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.22-11.32.17:157][449]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2026.04.22-11.32.17:157][449]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2026.04.22-11.32.17:159][449]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2026.04.22-11.32.17:159][449]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2026.04.22-11.32.17:159][449]LogInit: FAudioDevice initialized with ID 21.
+[2026.04.22-11.32.17:159][449]LogAudio: Display: Audio Device (ID: 21) registered with world 'Testplace'.
+[2026.04.22-11.32.17:159][449]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2026.04.22-11.32.17:164][449]LogLoad: Game class is 'BP_SpriteGameMode_C'
+[2026.04.22-11.32.17:166][449]LogWorld: Bringing World /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace up for play (max tick rate 0) at 2026.04.22-07.32.17
+[2026.04.22-11.32.17:166][449]LogWorld: Bringing up level for play took: 0.003091
+[2026.04.22-11.32.17:169][449]LogScript: Warning: Script Msg: The widget 'WBP_GameUI_C_0' was already added to the screen.
+[2026.04.22-11.32.17:169][449]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace:PersistentLevel.BP_Sprite_C_0
+[2026.04.22-11.32.17:169][449]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.22-11.32.17:169][449]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace:PersistentLevel.BP_Sprite_C_0
+[2026.04.22-11.32.17:170][449]PIE: Server logged in
+[2026.04.22-11.32.17:172][449]PIE: Play in editor total start time 0.138 seconds.
+[2026.04.22-11.32.17:211][450]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.22-11.32.37:026][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-11.32.37:026][716]LogWorld: BeginTearingDown for /Game/Levels/Testplace/UEDPIE_0_Testplace
+[2026.04.22-11.32.37:027][716]LogWorld: UWorld::CleanupWorld for Testplace, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-11.32.37:028][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-11.32.37:030][716]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.22-11.32.37:035][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-11.32.37:052][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-11.32.37:052][716]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2026.04.22-11.32.37:052][716]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=4
+[2026.04.22-11.32.37:055][716]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=2
+[2026.04.22-11.32.37:062][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.04.22-11.32.37:100][717]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2026.04.22-11.32.38:319][841]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.22-11.32.38:325][841]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.22-11.32.38:356][841]LogPlayLevel: Display: Creating online subsystem for client :Context_46
+[2026.04.22-11.32.38:358][841]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2026.04.22-11.32.38:389][842]LogPlayLevel: Creating play world package: /Game/Levels/Testplace/UEDPIE_0_Testplace
+[2026.04.22-11.32.38:399][842]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009877s)
+[2026.04.22-11.32.38:399][842]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testplace/Testplace.Testplace to /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace (0.009918s)
+[2026.04.22-11.32.38:433][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.04.22-11.32.38:438][842]LogChaosDD: Creating Chaos Debug Draw Scene for world Testplace
+[2026.04.22-11.32.38:439][842]LogPlayLevel: PIE: World Init took: (0.001509s)
+[2026.04.22-11.32.38:440][842]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2026.04.22-11.32.38:440][842]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.22-11.32.38:440][842]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.22-11.32.38:440][842]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.22-11.32.38:440][842]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.22-11.32.38:440][842]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.22-11.32.38:440][842]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.22-11.32.38:440][842]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.22-11.32.38:440][842]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.22-11.32.38:440][842]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.22-11.32.38:440][842]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.22-11.32.38:440][842]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.22-11.32.38:442][842]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.22-11.32.38:466][842]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.22-11.32.38:466][842]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.22-11.32.38:466][842]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.22-11.32.38:466][842]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.22-11.32.38:466][842]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2026.04.22-11.32.38:466][842]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2026.04.22-11.32.38:468][842]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2026.04.22-11.32.38:468][842]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2026.04.22-11.32.38:468][842]LogInit: FAudioDevice initialized with ID 22.
+[2026.04.22-11.32.38:468][842]LogAudio: Display: Audio Device (ID: 22) registered with world 'Testplace'.
+[2026.04.22-11.32.38:468][842]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2026.04.22-11.32.38:473][842]LogLoad: Game class is 'BP_SpriteGameMode_C'
+[2026.04.22-11.32.38:475][842]LogWorld: Bringing World /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace up for play (max tick rate 0) at 2026.04.22-07.32.38
+[2026.04.22-11.32.38:476][842]LogWorld: Bringing up level for play took: 0.003092
+[2026.04.22-11.32.38:478][842]LogScript: Warning: Script Msg: The widget 'WBP_GameUI_C_0' was already added to the screen.
+[2026.04.22-11.32.38:478][842]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace:PersistentLevel.BP_Sprite_C_0
+[2026.04.22-11.32.38:478][842]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.22-11.32.38:478][842]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace:PersistentLevel.BP_Sprite_C_0
+[2026.04.22-11.32.38:479][842]PIE: Server logged in
+[2026.04.22-11.32.38:481][842]PIE: Play in editor total start time 0.157 seconds.
+[2026.04.22-11.32.38:519][843]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.22-11.32.42:076][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-11.32.42:076][251]LogWorld: BeginTearingDown for /Game/Levels/Testplace/UEDPIE_0_Testplace
+[2026.04.22-11.32.42:077][251]LogWorld: UWorld::CleanupWorld for Testplace, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-11.32.42:077][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-11.32.42:080][251]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.22-11.32.42:084][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-11.32.42:104][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-11.32.42:104][251]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2026.04.22-11.32.42:105][251]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=4
+[2026.04.22-11.32.42:106][251]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=2
+[2026.04.22-11.32.42:114][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.04.22-11.32.42:181][254]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2026.04.22-11.33.24:961][474]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.22-11.33.24:968][474]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.22-11.33.24:968][474]LogPlayLevel: Display: Creating online subsystem for client :Context_47
+[2026.04.22-11.33.24:971][474]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2026.04.22-11.33.24:984][475]LogPlayLevel: Creating play world package: /Game/Levels/Testplace/UEDPIE_0_Testplace
+[2026.04.22-11.33.24:994][475]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010265s)
+[2026.04.22-11.33.24:994][475]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testplace/Testplace.Testplace to /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace (0.010312s)
+[2026.04.22-11.33.25:017][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.04.22-11.33.25:024][475]LogChaosDD: Creating Chaos Debug Draw Scene for world Testplace
+[2026.04.22-11.33.25:026][475]LogPlayLevel: PIE: World Init took: (0.001631s)
+[2026.04.22-11.33.25:027][475]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2026.04.22-11.33.25:027][475]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.22-11.33.25:027][475]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.22-11.33.25:027][475]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.22-11.33.25:027][475]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.22-11.33.25:027][475]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.22-11.33.25:027][475]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.22-11.33.25:027][475]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.22-11.33.25:027][475]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.22-11.33.25:027][475]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.22-11.33.25:027][475]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.22-11.33.25:027][475]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.22-11.33.25:029][475]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.22-11.33.25:055][475]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.22-11.33.25:055][475]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.22-11.33.25:055][475]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.22-11.33.25:055][475]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.22-11.33.25:056][475]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2026.04.22-11.33.25:056][475]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2026.04.22-11.33.25:058][475]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2026.04.22-11.33.25:058][475]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2026.04.22-11.33.25:058][475]LogInit: FAudioDevice initialized with ID 23.
+[2026.04.22-11.33.25:058][475]LogAudio: Display: Audio Device (ID: 23) registered with world 'Testplace'.
+[2026.04.22-11.33.25:058][475]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2026.04.22-11.33.25:062][475]LogLoad: Game class is 'BP_SpriteGameMode_C'
+[2026.04.22-11.33.25:065][475]LogWorld: Bringing World /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace up for play (max tick rate 0) at 2026.04.22-07.33.25
+[2026.04.22-11.33.25:066][475]LogWorld: Bringing up level for play took: 0.003543
+[2026.04.22-11.33.25:068][475]LogScript: Warning: Script Msg: The widget 'WBP_GameUI_C_0' was already added to the screen.
+[2026.04.22-11.33.25:068][475]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace:PersistentLevel.BP_Sprite_C_0
+[2026.04.22-11.33.25:068][475]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.22-11.33.25:068][475]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/Levels/Testplace/UEDPIE_0_Testplace.Testplace:PersistentLevel.BP_Sprite_C_0
+[2026.04.22-11.33.25:069][475]PIE: Server logged in
+[2026.04.22-11.33.25:072][475]PIE: Play in editor total start time 0.105 seconds.
+[2026.04.22-11.33.25:110][476]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.22-11.33.27:686][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-11.33.27:686][766]LogWorld: BeginTearingDown for /Game/Levels/Testplace/UEDPIE_0_Testplace
+[2026.04.22-11.33.27:687][766]LogWorld: UWorld::CleanupWorld for Testplace, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-11.33.27:688][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-11.33.27:690][766]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.22-11.33.27:695][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-11.33.27:717][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-11.33.27:717][766]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2026.04.22-11.33.27:717][766]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=4
+[2026.04.22-11.33.27:719][766]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=2
+[2026.04.22-11.33.27:726][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.04.22-11.33.27:827][768]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2026.04.22-11.34.59:566][166]Cmd: TRANSACTION UNDO
+[2026.04.22-11.34.59:566][166]LogEditorTransaction: Undo Edit Animation
+[2026.04.22-11.35.44:443][728]Cmd: TRANSACTION UNDO
+[2026.04.22-11.35.44:443][728]LogEditorTransaction: Undo Insert Notify Track
+[2026.04.22-11.35.48:304][131]Cmd: TRANSACTION REDO
+[2026.04.22-11.35.48:304][131]LogEditorTransaction: Redo Insert Notify Track
+[2026.04.22-11.35.50:361][321]Cmd: TRANSACTION UNDO
+[2026.04.22-11.35.50:361][321]LogEditorTransaction: Undo Insert Notify Track
+[2026.04.22-11.36.24:179][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.04.22-11.36.28:115][144]LogSlate: Window 'Delete Assets' being destroyed
+[2026.04.22-11.36.31:947][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.04.22-11.36.34:417][505]LogSlate: Window 'Delete Assets' being destroyed
+[2026.04.22-11.36.51:139][441]LogPSOHitching: Encountered 1650 PSO creation hitches so far (652 graphics, 998 compute). 0 of them were precached.
+[2026.04.22-11.36.51:245][441]LogPSOHitching: Encountered 1700 PSO creation hitches so far (669 graphics, 1031 compute). 0 of them were precached.
+[2026.04.22-11.36.51:497][441]LogPSOHitching: Encountered 1750 PSO creation hitches so far (678 graphics, 1072 compute). 0 of them were precached.
+[2026.04.22-11.37.00:121][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.04.22-11.37.00:127][163]LogStreaming: Display: FlushAsyncLoading(603): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.22-11.37.00:144][163]LogChaosDD: Creating Chaos Debug Draw Scene for world Unsafe_1-2
+[2026.04.22-11.37.00:146][163]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Unsafe_1-2.Unsafe_1-2
+[2026.04.22-11.37.00:146][163]Cmd: MAP LOAD FILE="../../../../../../Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Content/Levels/Unsafe_1-2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.04.22-11.37.00:165][163]LogWorld: UWorld::CleanupWorld for Testplace, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-11.37.00:165][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-11.37.00:186][163]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.22-11.37.00:188][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.04.22-11.37.00:193][163]LogMaterial: Display: Material /Fab/Materials/Standard/M_MS_Base.M_MS_Base needed to have new flag set bUsedWithNanite !
+[2026.04.22-11.37.00:213][163]MapCheck: Warning: M_MS_Base Material /Fab/Materials/Standard/M_MS_Base.M_MS_Base was missing the usage flag bUsedWithNanite. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2026.04.22-11.37.00:345][163]LogWorld: UWorld::CleanupWorld for Unsafe_1-2, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-11.37.00:346][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-11.37.00:370][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.04.22-11.37.00:399][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.04.22-11.37.00:405][163]LogAudio: Display: Audio Device (ID: 1) registered with world 'Unsafe_1-2'.
+[2026.04.22-11.37.00:405][163]LogChaosDD: Creating Chaos Debug Draw Scene for world Unsafe_1-2
+[2026.04.22-11.37.00:431][163]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.04.22-11.37.00:456][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.04.22-11.37.00:467][163]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.04.22-11.37.00:467][163]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0.053ms to complete.
+[2026.04.22-11.37.00:619][163]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 3/2 Textures; frames since last flush: 787024
+[2026.04.22-11.37.00:619][163]LogSlate: Warning: Setting the threshold to trigger a flush to 3 non-atlased textures as there is a lot of font data being cached.
+[2026.04.22-11.37.00:625][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-11.37.00:680][164]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.22-11.37.00:831][164]LogPSOHitching: Encountered 1800 PSO creation hitches so far (696 graphics, 1104 compute). 0 of them were precached.
+[2026.04.22-11.37.02:127][228]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.22-11.37.02:134][228]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.22-11.37.02:155][228]LogPlayLevel: Display: Creating online subsystem for client :Context_48
+[2026.04.22-11.37.02:158][228]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2026.04.22-11.37.02:173][229]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Unsafe_1-2
+[2026.04.22-11.37.02:176][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002379s)
+[2026.04.22-11.37.02:176][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Unsafe_1-2.Unsafe_1-2 to /Game/Levels/UEDPIE_0_Unsafe_1-2.Unsafe_1-2 (0.002426s)
+[2026.04.22-11.37.02:205][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.04.22-11.37.02:213][229]LogChaosDD: Creating Chaos Debug Draw Scene for world Unsafe_1-2
+[2026.04.22-11.37.02:215][229]LogPlayLevel: PIE: World Init took: (0.001522s)
+[2026.04.22-11.37.02:215][229]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2026.04.22-11.37.02:215][229]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.22-11.37.02:215][229]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.22-11.37.02:215][229]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.22-11.37.02:215][229]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.22-11.37.02:215][229]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.22-11.37.02:215][229]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.22-11.37.02:215][229]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.22-11.37.02:215][229]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.22-11.37.02:215][229]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.22-11.37.02:215][229]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.22-11.37.02:215][229]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.22-11.37.02:217][229]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.22-11.37.02:258][229]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.22-11.37.02:258][229]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.22-11.37.02:258][229]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.22-11.37.02:258][229]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.22-11.37.02:259][229]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2026.04.22-11.37.02:259][229]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2026.04.22-11.37.02:261][229]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2026.04.22-11.37.02:261][229]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2026.04.22-11.37.02:261][229]LogInit: FAudioDevice initialized with ID 24.
+[2026.04.22-11.37.02:261][229]LogAudio: Display: Audio Device (ID: 24) registered with world 'Unsafe_1-2'.
+[2026.04.22-11.37.02:261][229]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2026.04.22-11.37.02:265][229]LogLoad: Game class is 'BP_SpriteGameMode_C'
+[2026.04.22-11.37.02:266][229]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Unsafe_1-2.Unsafe_1-2 up for play (max tick rate 0) at 2026.04.22-07.37.02
+[2026.04.22-11.37.02:267][229]LogWorld: Bringing up level for play took: 0.001366
+[2026.04.22-11.37.02:269][229]LogScript: Warning: Script Msg: The widget 'WBP_GameUI_C_0' was already added to the screen.
+[2026.04.22-11.37.02:269][229]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/Levels/UEDPIE_0_Unsafe_1-2.Unsafe_1-2:PersistentLevel.BP_Sprite_C_0
+[2026.04.22-11.37.02:269][229]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Sprite.BP_Sprite_C:ExecuteUbergraph_BP_Sprite'!
+[2026.04.22-11.37.02:269][229]LogScript: Warning: Script Msg called by: BP_Sprite_C /Game/Levels/UEDPIE_0_Unsafe_1-2.Unsafe_1-2:PersistentLevel.BP_Sprite_C_0
+[2026.04.22-11.37.02:270][229]PIE: Server logged in
+[2026.04.22-11.37.02:272][229]PIE: Play in editor total start time 0.139 seconds.
+[2026.04.22-11.37.02:307][230]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.22-11.37.10:251][  7]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12390.553711
+[2026.04.22-11.37.10:315][ 13]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.22-11.37.10:315][ 13]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12390.606445, Update Interval: 307.758423
+[2026.04.22-11.43.04:365][949]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12744.641602
+[2026.04.22-11.43.05:365][951]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.22-11.43.05:365][951]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12745.308594, Update Interval: 306.441833
+[2026.04.22-11.47.37:067][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.04.22-11.47.37:106][935]LogStall: Shutdown...
+[2026.04.22-11.47.37:106][935]LogStall: Shutdown complete.
+[2026.04.22-11.47.37:122][935]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-11.47.37:122][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-11.47.37:147][935]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-11.47.37:147][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-11.47.37:196][935]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-11.47.37:196][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-11.47.37:303][935]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-11.47.37:303][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-11.47.37:462][935]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.04.22-11.47.37:462][935]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-11.47.37:462][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-11.47.37:622][935]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.04.22-11.47.37:622][935]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-11.47.37:622][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-11.47.37:663][935]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-11.47.37:663][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-11.47.37:722][935]LogSlate: Window 'ABP_Player' being destroyed
+[2026.04.22-11.47.37:732][935]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-11.47.37:732][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-11.47.37:775][935]LogSlate: Window 'Content Browser' being destroyed
+[2026.04.22-11.47.37:782][935]LogSlate: Window 'Message Log' being destroyed
+[2026.04.22-11.47.37:784][935]LogSlate: Window 'GroupProject - Unreal Editor' being destroyed
+[2026.04.22-11.47.37:785][935]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.04.22-11.47.37:886][935]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-11.47.37:886][935]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Unsafe_1-2
+[2026.04.22-11.47.37:886][935]LogWorld: UWorld::CleanupWorld for Unsafe_1-2, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-11.47.37:886][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-11.47.37:887][935]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.22-11.47.37:892][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-11.47.37:918][935]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-11.47.37:918][935]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2026.04.22-11.47.37:918][935]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=4
+[2026.04.22-11.47.37:921][935]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=2
+[2026.04.22-11.47.37:943][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.04.22-11.47.38:449][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.04.22-11.47.38:495][936]Cmd: QUIT_EDITOR
+[2026.04.22-11.47.38:496][936]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.04.22-11.47.38:500][936]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.04.22-11.47.38:502][936]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.04.22-11.47.38:502][936]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.04.22-11.47.38:502][936]LogWorld: UWorld::CleanupWorld for Unsafe_1-2, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-11.47.38:502][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-11.47.38:510][936]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.04.22-11.47.38:510][936]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.04.22-11.47.38:510][936]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.04.22-11.47.38:530][936]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-11.47.38:530][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-11.47.38:533][936]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-11.47.38:533][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-11.47.38:536][936]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-11.47.38:536][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-11.47.38:538][936]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-11.47.38:538][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-11.47.38:541][936]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-11.47.38:541][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-11.47.38:543][936]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.04.22-11.47.38:543][936]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.04.22-11.47.38:545][936]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.04.22-11.47.39:541][936]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.04.22-11.47.39:541][936]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.04.22-11.47.39:541][936]LogAudio: Display: Audio Device unregistered from world 'Unsafe_1-2'.
+[2026.04.22-11.47.39:541][936]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.04.22-11.47.39:542][936]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.04.22-11.47.39:543][936]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.04.22-11.47.39:547][936]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.04.22-11.47.39:547][936]LogAudio: Display: Audio Device Manager Shutdown
+[2026.04.22-11.47.39:550][936]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.04.22-11.47.39:551][936]LogExit: Preparing to exit.
+[2026.04.22-11.47.39:599][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.04.22-11.47.39:607][936]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.22-11.47.39:607][936]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.22-11.47.39:608][936]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.22-11.47.39:608][936]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.22-11.47.39:608][936]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.22-11.47.39:608][936]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.22-11.47.39:608][936]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.22-11.47.39:608][936]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.22-11.47.39:608][936]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.22-11.47.39:608][936]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.22-11.47.39:608][936]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.22-11.47.39:608][936]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.22-11.47.39:608][936]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.22-11.47.39:608][936]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.22-11.47.39:608][936]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.22-11.47.39:608][936]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.22-11.47.39:608][936]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.22-11.47.39:608][936]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.22-11.47.39:608][936]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.22-11.47.39:608][936]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.22-11.47.39:608][936]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.22-11.47.40:640][936]LogEditorDataStorage: Deinitializing
+[2026.04.22-11.47.40:745][936]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.04.22-11.47.40:762][936]LogExit: Editor shut down
+[2026.04.22-11.47.40:766][936]LogExit: Transaction tracking system shut down
+[2026.04.22-11.47.41:001][936]LogExit: Object subsystem successfully closed.
+[2026.04.22-11.47.41:071][936]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.04.22-11.47.41:156][936]LogMemoryProfiler: Shutdown
+[2026.04.22-11.47.41:156][936]LogNetworkingProfiler: Shutdown
+[2026.04.22-11.47.41:156][936]LoadingProfiler: Shutdown
+[2026.04.22-11.47.41:156][936]LogTimingProfiler: Shutdown
+[2026.04.22-11.47.41:156][936]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.04.22-11.47.41:156][936]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.04.22-11.47.41:490][936]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.04.22-11.47.41:493][936]LogNFORDenoise: NFORDenoise function shutting down
+[2026.04.22-11.47.41:493][936]RenderDocPlugin: plugin has been unloaded.
+[2026.04.22-11.47.41:522][936]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.04.22-11.47.41:522][936]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B10CDFEB4-4C04-C0FF-D732-B4A4F9BDD056%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=47a271da4267fe34a9cd7e9edd990214%7Ca793ce670a2a405c92242f1e89989ddf%7C9ab006e4-9ec6-400f-be00-f85f69f53945&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.04.22-11.47.42:064][936]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.04.22-11.47.42:066][936]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.04.22-11.47.42:066][936]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.04.22-11.47.42:066][936]LogPakFile: Destroying PakPlatformFile
+[2026.04.22-11.47.42:520][936]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.04.22-11.47.42:558][936]LogExit: Exiting.
+[2026.04.22-11.47.42:580][936]Log file closed, 04/22/26 07:47:42
