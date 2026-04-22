@@ -41,7 +41,7 @@
 		<RootDir>C:/Program Files/Epic Games/UE_5.6/</RootDir>
 		<MachineId>19FED8B746762B43CE0369B03EE27648</MachineId>
 		<LoginId>19fed8b746762b43ce0369b03ee27648</LoginId>
-		<EpicAccountId>e9a96079c55f48ff9b8d0fc4f89db5a7</EpicAccountId>
+		<EpicAccountId />
 		<SourceContext />
 		<UserDescription />
 		<UserActivityHint>Layout=&quot;LevelEditorViewport&quot; Label=&quot;Viewport 1&quot; Content=SAssetE</UserActivityHint>
@@ -2440,7 +2440,7 @@ ntdll 0x00007fff76d60000 + 3c34c
 			</Thread>
 		</Threads>
 		<TimeOfCrash>639124589138660000</TimeOfCrash>
-		<bAllowToBeContacted>1</bAllowToBeContacted>
+		<bAllowToBeContacted>0</bAllowToBeContacted>
 		<CPUBrand>12th Gen Intel(R) Core(TM) i9-12900F</CPUBrand>
 		<CrashReportClientVersion>1.0</CrashReportClientVersion>
 		<Modules>C:\Program Files\Epic Games\UE_5.6\Engine\Binaries\ThirdParty\Python3\Win64\python3.dll
