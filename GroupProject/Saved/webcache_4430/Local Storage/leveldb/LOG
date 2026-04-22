@@ -1,2 +1,5 @@
-2026/04/21-17:35:10.585 27a0 Creating DB C:/Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2026/04/21-17:35:10.593 27a0 Reusing MANIFEST C:/Users/ksande57/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/04/22-08:11:30.158 6200 Creating DB C:/Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2026/04/22-08:11:30.166 6200 Reusing MANIFEST C:/Users/rbeckfor/Documents/GitHub/PlantHorrorGame/GroupProject/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/04/22-08:27:51.626 2b94 Level-0 table #5: started
+2026/04/22-08:27:51.629 2b94 Level-0 table #5: 67986 bytes OK
+2026/04/22-08:27:51.631 2b94 Delete type=0 #3
